@@ -1,10 +1,14 @@
 const primary = {
+	main50: '#7986cb11',
+	main100: '#7986cb33',
 	main: '#7986cb',
 	light: '#aab6fe',
 	dark: '#49599a',
 };
 
 const secondary = {
+	main50: '#ff484511',
+	main100: '#ff484533',
 	main: '#ff4845',
 	light: '#ff7e71',
 	dark: '#c4001d',
@@ -41,30 +45,40 @@ const grayscale = {
 };
 
 const success = {
+	main50: '#93deac11',
+	main100: '#93deac33',
 	main: '#93deac',
 	light: '#BFE3CB',
 	dark: '#225E36',
 };
 
 const info = {
+	main50: '#9bcaff11',
+	main100: '#9bcaff33',
 	main: '#9bcaff',
 	light: '#C9E2FF',
 	dark: '#285180',
 };
 
 const warning = {
+	main50: '#ffcf9111',
+	main100: '#ffcf9133',
 	main: '#ffcf91',
 	light: '#FFE3BF',
 	dark: '#CCA674',
 };
 
 const help = {
+	main50: '#86e0e711',
+	main100: '#86e0e733',
 	main: '#86e0e7',
 	light: '#D0EAEC',
 	dark: '#69B0B5',
 };
 
 const danger = {
+	main50: '#eb9a9c11',
+	main100: '#eb9a9c33',
 	main: '#eb9a9c',
 	light: '#EEB3B3',
 	dark: '#EE5658',

@@ -2,17 +2,17 @@ import styled from 'styled-components';
 import BaseButton from 'UI/atoms/BaseButton';
 import Icon from 'UI/atoms/Icon/MaterialUI';
 import Text from 'UI/atoms/Text';
-import palette from 'theme/palette';
+import {getColor} from 'theme/utils';
 
 const ButtonWrapperFilled = styled(BaseButton)`
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	box-sizing: border-box;
-	background-color: ${palette.primary.main};
+	background-color: ${({semanticColor}) => getColor(semanticColor, 'main')};
 	height: 30px;
 	width: ${({circle}) => (circle ? '30px' : 'auto')};
-	border: 1px solid ${palette.primary.main};
+	border: 1px solid ${({semanticColor}) => getColor(semanticColor, 'main')};
 	border-radius: ${({rounded, circle}) => {
 		if (!rounded && !circle) return '5px';
 		if (rounded) return '30px';
@@ -23,12 +23,12 @@ const ButtonWrapperFilled = styled(BaseButton)`
 	cursor: pointer;
 	margin: 2px;
 	&:hover {
-		background-color: ${palette.primary.light};
-		border-color: ${palette.primary.light};
+		background-color: ${({semanticColor}) => getColor(semanticColor, 'light')};
+		border-color: ${({semanticColor}) => getColor(semanticColor, 'light')};
 	}
 	&:active {
-		background-color: ${palette.primary.dark};
-		border-color: ${palette.primary.dark};
+		background-color: ${({semanticColor}) => getColor(semanticColor, 'dark')};
+		border-color: ${({semanticColor}) => getColor(semanticColor, 'dark')};
 	}
 	${({active}) =>
 		active &&
@@ -36,7 +36,7 @@ const ButtonWrapperFilled = styled(BaseButton)`
         &:focus {
             outline: 0 none;
             outline-offset: 0;
-            box-shadow: 0 0 0 1px ${palette.grayscale['50']};
+            box-shadow: 0 0 0 1px ${({semanticColor}) => getColor(semanticColor, '50')};
         }
     `}
 	&:disabled {
@@ -50,18 +50,18 @@ const ButtonWrapperEmpty = styled(ButtonWrapperFilled)`
 	background-color: transparent;
 	border: 1px solid transparent;
 	&:hover {
-		background-color: ${palette.primary.main}11;
+		background-color: ${({semanticColor}) => getColor(semanticColor, 'main50')};
 		border: 1px solid transparent;
 	}
 
 	&:active {
-		background-color: ${palette.primary.main}33;
-		border: 1px solid ${palette.primary.main};
+		background-color: ${({semanticColor}) => getColor(semanticColor, 'main100')};
+		border: 1px solid ${({semanticColor}) => getColor(semanticColor, 'main')};
 	}
 
 	& > p,
 	& > span svg {
-		color: ${palette.primary.main} !important;
+		color: ${({semanticColor}) => getColor(semanticColor, 'main')} !important;
 	}
 
 	&:disabled {
@@ -73,19 +73,19 @@ const ButtonWrapperEmpty = styled(ButtonWrapperFilled)`
 
 const ButtonWrapperOutline = styled(ButtonWrapperFilled)`
 	background-color: transparent;
-	border: 1px solid ${palette.primary.main};
+	border: 1px solid ${({semanticColor}) => getColor(semanticColor, 'main')};
 	&:hover {
-		background-color: ${palette.primary.main}11;
-		border: 1px solid ${palette.primary.main};
+		background-color: ${({semanticColor}) => getColor(semanticColor, 'main50')};
+		border: 1px solid ${({semanticColor}) => getColor(semanticColor, 'main')};
 	}
 	&:active {
-		background-color: ${palette.primary.main}33;
-		border: 1px solid ${palette.primary.main};
+		background-color: ${({semanticColor}) => getColor(semanticColor, 'main100')};
+		border: 1px solid ${({semanticColor}) => getColor(semanticColor, 'main')};
 	}
 
 	& > p,
 	& > span svg {
-		color: ${palette.primary.main} !important;
+		color: ${({semanticColor}) => getColor(semanticColor, 'main')} !important;
 	}
 `;
 

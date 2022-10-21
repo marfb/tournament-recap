@@ -34,6 +34,24 @@ const ButtonStylesColumn = styled.div`
 	margin: 30px;
 `;
 
+const ColorSelectorRow = styled.div`
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: row;
+`;
+
+const ColorSelectorTitle = styled(Text)`
+	color: ${palette.base.white};
+	margin: 15px 0 5px;
+	font-size: 20px;
+`;
+
+const ColorButton = styled(Button)`
+	width: 90px;
+	margin: 0 10px;
+`;
+
 export default {
 	PageContainer,
 	TypeTitle,
@@ -42,4 +60,7 @@ export default {
 	IconButton,
 	ButtonStylesRow,
 	ButtonStylesColumn,
+	ColorButton,
+	ColorSelectorRow,
+	ColorSelectorTitle,
 };
