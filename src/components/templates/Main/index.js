@@ -2,10 +2,10 @@ import React from 'react';
 import {node, oneOfType, arrayOf} from 'prop-types';
 import Styles from './styles';
 
-const Main = ({Header, Footer, children}) => {
+const Main = ({Header, Footer, children, ...props}) => {
 	if (!Header || !Footer || !children) return null; // return safe component
 	return (
-		<Styles.LayoutContainer>
+		<Styles.LayoutContainer {...props}>
 			<Header />
 			{children}
 			<Footer />
