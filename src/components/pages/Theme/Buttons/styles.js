@@ -34,17 +34,31 @@ const ButtonStylesColumn = styled.div`
 	margin: 30px;
 `;
 
-const ColorSelectorRow = styled.div`
+const ButtonSelectorRow = styled.div`
 	display: flex;
-	align-items: center;
+	align-items: flex-start;
 	justify-content: center;
-	flex-direction: row;
+	flex-direction: column;
+	width: 50%;
+	margin: 0 auto;
 `;
 
-const ColorSelectorTitle = styled(Text)`
+const ButtonSelectorColumn = styled.div`
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 50px;
+	position: relative;
+`;
+
+const ButtonSelectorTitle = styled(Text)`
 	color: ${palette.base.white};
-	margin: 15px 0 5px;
-	font-size: 20px;
+	font-size: 12px;
+	width: 250px;
+	position: absolute;
+	left: 10px;
+	top: -23px;
 `;
 
 const ColorButton = styled(Button)`
@@ -61,6 +75,7 @@ export default {
 	ButtonStylesRow,
 	ButtonStylesColumn,
 	ColorButton,
-	ColorSelectorRow,
-	ColorSelectorTitle,
+	ButtonSelectorRow,
+	ButtonSelectorColumn,
+	ButtonSelectorTitle,
 };

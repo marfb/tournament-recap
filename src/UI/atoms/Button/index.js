@@ -7,19 +7,24 @@ const Button = ({
 	icon,
 	children,
 	disabled,
-	active,
+	focus,
 	rounded,
 	circle,
 	variant,
 	semanticColor,
+	switchOrder,
+	active,
 	...props
 }) => {
 	const showIcon = icon && validateString(icon);
 	const showText = children && validateString(children);
 	const isDisabled = validateBoolean(disabled) ? disabled : false;
+	const isOnFocus = validateBoolean(focus) ? focus : false;
 	const isActive = validateBoolean(active) ? active : false;
 	const isRounded = validateBoolean(rounded) ? rounded : false;
 	const isCircle = validateBoolean(circle) && !showText ? circle : false;
+	const isOrderSwitched =
+		validateBoolean(switchOrder) && showIcon && showText ? switchOrder : false;
 
 	if (!showIcon && !showText) return null;
 
@@ -35,10 +40,12 @@ const Button = ({
 	return (
 		<ButtonWrapper
 			disabled={isDisabled}
-			active={isActive}
+			focus={isOnFocus}
 			rounded={isRounded}
 			circle={isCircle}
 			semanticColor={semanticColor}
+			switchOrder={isOrderSwitched}
+			active={isActive}
 			{...props}>
 			{showIcon && <styles.ButtonIcon iconName={icon} />}
 			{showText && <styles.ButtonText>{children}</styles.ButtonText>}
@@ -51,11 +58,13 @@ Button.propTypes = {
 	icon: string,
 	children: string,
 	disabled: bool,
-	active: bool,
+	focus: bool,
 	rounded: bool,
 	circle: bool,
 	variant: string,
 	semanticColor: string,
+	switchOrder: bool,
+	active: bool,
 };
 
 Button.defaultProps = {
@@ -63,11 +72,13 @@ Button.defaultProps = {
 	icon: '',
 	children: '',
 	disabled: false,
-	active: false,
+	focus: false,
 	rounded: false,
 	circle: false,
 	variant: 'filled',
 	semanticColor: 'primary',
+	switchOrder: false,
+	active: false,
 };
 
 export default Button;

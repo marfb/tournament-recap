@@ -7,10 +7,10 @@ const primary = {
 };
 
 const secondary = {
-	main50: '#ff484511',
-	main100: '#ff484533',
-	main: '#ff4845',
-	light: '#ff7e71',
+	main50: '#EE565811',
+	main100: '#EE565833',
+	main: '#EE5658',
+	light: '#EEB3B3',
 	dark: '#c4001d',
 };
 
@@ -19,16 +19,10 @@ const base = {
 	black: '#000000',
 };
 
-const primaryText = {
-	main: '#000000',
-	light: '#000000',
-	dark: '#ffffff',
-};
-
-const secondaryText = {
-	main: '#000000',
-	light: '#000000',
-	dark: '#ffffff',
+const text = {
+	main: '#9d9d9d',
+	light: '#dddddd',
+	dark: '#686868',
 };
 
 const grayscale = {
@@ -77,11 +71,11 @@ const help = {
 };
 
 const danger = {
-	main50: '#eb9a9c11',
-	main100: '#eb9a9c33',
-	main: '#eb9a9c',
-	light: '#EEB3B3',
-	dark: '#EE5658',
+	main50: '#ff484511',
+	main100: '#ff484533',
+	main: '#ff7e71',
+	light: '#ff4845',
+	dark: '#c4001d',
 };
 
 const successText = {
@@ -119,8 +113,7 @@ export default {
 	secondary,
 	grayscale,
 	base,
-	primaryText,
-	secondaryText,
+	text,
 	success,
 	info,
 	warning,

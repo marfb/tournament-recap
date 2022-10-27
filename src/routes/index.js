@@ -1,11 +1,24 @@
 import React from 'react';
 import {createBrowserRouter} from 'react-router-dom';
-import Home from 'components/pages/Home';
+import Buttons from 'components/pages/Theme/Buttons';
+import Inputs from 'components/pages/Theme/Inputs';
 
 const router = createBrowserRouter([
 	{
 		path: '/',
-		element: <Home />,
+		element: <Buttons />,
+		// loader: rootLoader,
+		children: [],
+	},
+	{
+		path: '/theme/buttons',
+		element: <Buttons />,
+		// loader: rootLoader,
+		children: [],
+	},
+	{
+		path: '/theme/inputs',
+		element: <Inputs />,
 		// loader: rootLoader,
 		children: [],
 	},

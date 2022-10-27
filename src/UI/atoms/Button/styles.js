@@ -14,7 +14,6 @@ const ButtonWrapperFilled = styled(BaseButton)`
 	width: ${({circle}) => (circle ? '30px' : 'auto')};
 	border: 1px solid ${({semanticColor}) => getColor(semanticColor, 'main')};
 	border-radius: ${({rounded, circle}) => {
-		if (!rounded && !circle) return '5px';
 		if (rounded) return '30px';
 		if (circle) return '50%';
 		return '5px';
@@ -30,13 +29,13 @@ const ButtonWrapperFilled = styled(BaseButton)`
 		background-color: ${({semanticColor}) => getColor(semanticColor, 'dark')};
 		border-color: ${({semanticColor}) => getColor(semanticColor, 'dark')};
 	}
-	${({active}) =>
-		active &&
+	${({focus}) =>
+		focus &&
 		`
         &:focus {
             outline: 0 none;
             outline-offset: 0;
-            box-shadow: 0 0 0 1px ${({semanticColor}) => getColor(semanticColor, '50')};
+			box-shadow: 0 0 0 2px ${getColor('grayscale', '500')};
         }
     `}
 	&:disabled {
@@ -44,6 +43,14 @@ const ButtonWrapperFilled = styled(BaseButton)`
 		opacity: 0.6;
 		pointer-events: none;
 	}
+	${({active}) =>
+		active &&
+		`
+			outline: 0 none;
+			outline-offset: 0;
+			box-shadow: 0 0 0 1px ${getColor('grayscale', '50')};
+		`}
+	${({switchOrder}) => switchOrder && `flex-direction: row-reverse;`};
 `;
 
 const ButtonWrapperEmpty = styled(ButtonWrapperFilled)`
