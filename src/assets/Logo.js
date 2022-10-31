@@ -8,7 +8,7 @@ const Logo = () => (
 		version="1.1"
 		viewBox="0 0 588.472 222.614">
 		<g
-			fill="#00316b"
+			fill="#c3c3c3"
 			fillOpacity="1"
 			fillRule="nonzero"
 			stroke="none"
@@ -24,7 +24,7 @@ const Logo = () => (
 			<path d="M93.162 134.552h12.653l5.977 35.627h.103l6.265-35.627h15.713l6.526 35.627h.096l6.08-35.627h12.056l-10.382 46.4h-15.954l-6.525-35.627h-.151l-6.121 35.627h-16.009l-10.327-46.4" />
 		</g>
 		<g
-			fill="#00316b"
+			fill="#c3c3c3"
 			fillOpacity="1"
 			fillRule="evenodd"
 			stroke="none"
