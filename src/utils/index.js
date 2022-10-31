@@ -45,3 +45,24 @@ export const validateFunction = (fn) => !!({}.toString.call(fn) === '[object Fun
  * @returns {boolean}
  */
 export const validateNumber = (num) => typeof num === 'number' && !Number.isNaN(Number(num));
+
+/**
+ * @name debounce
+ * @description Executes received callback delayed according to received delay time in ms
+ * @param {function} callback
+ * @param {number} delay=300
+ */
+export const debounce = (callback, delay = 300) => {
+	if (!validateNumber(delay)) return null;
+	if (!callback || !validateFunction(callback)) return null;
+
+	let delayedCallback;
+
+	return () => {
+		if (delayedCallback) clearTimeout(delayedCallback);
+		delayedCallback = setTimeout(() => {
+			delayedCallback = null;
+			callback();
+		}, delay);
+	};
+};

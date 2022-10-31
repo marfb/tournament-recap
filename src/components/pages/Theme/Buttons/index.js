@@ -6,8 +6,7 @@ const Buttons = () => {
 	const [variant, setVariant] = useState('filled');
 
 	return (
-		// eslint-disable-next-line react/no-unstable-nested-components
-		<styles.PageContainer Header={() => <div>Header</div>} Footer={() => <div>Footer</div>}>
+		<styles.PageContainer>
 			<styles.ButtonSelectorRow>
 				<styles.ButtonSelectorColumn>
 					<styles.ButtonSelectorTitle>Please choose a color</styles.ButtonSelectorTitle>

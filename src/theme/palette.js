@@ -108,6 +108,10 @@ const dangerText = {
 	dark: '#ffffff',
 };
 
+const surface = {
+	pagebackground: '#1d1e27',
+};
+
 export default {
 	primary,
 	secondary,
@@ -124,4 +128,5 @@ export default {
 	warningText,
 	helpText,
 	dangerText,
+	surface,
 };

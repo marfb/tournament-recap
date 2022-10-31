@@ -1,9 +1,11 @@
 import React from 'react';
 import {node, oneOfType, arrayOf} from 'prop-types';
+import Header from 'UI/organisms/Header';
+import Footer from 'UI/organisms/Footer';
 import Styles from './styles';
 
-const Main = ({Header, Footer, children, ...props}) => {
-	if (!Header || !Footer || !children) return null; // return safe component
+const Main = ({children, ...props}) => {
+	if (!children) return null;
 	return (
 		<Styles.LayoutContainer {...props}>
 			<Header />
@@ -14,14 +16,10 @@ const Main = ({Header, Footer, children, ...props}) => {
 };
 
 Main.propTypes = {
-	Header: node,
-	Footer: node,
 	children: oneOfType([node, arrayOf([node])]),
 };
 
 Main.defaultProps = {
-	Header: () => {},
-	Footer: () => {},
 	children: [],
 };
 

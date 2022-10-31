@@ -66,7 +66,7 @@ const Input = styled.input`
 		if (withRightIcon) return '10px 36px 10px 10px';
 		return '10px';
 	}};
-	background-color: ${getColor('grayscale', '900')};
+	background-color: ${getColor('surface', 'pagebackground')};
 	border: 1px solid ${getColor('grayscale', '700')};
 	border-radius: 6px;
 	box-sizing: border-box;

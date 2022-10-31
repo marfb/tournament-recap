@@ -3,10 +3,10 @@ import Button from 'UI/atoms/Button';
 import Text from 'UI/atoms/Text';
 import Main from 'components/templates/Main';
 import palette from 'theme/palette';
+import {getColor} from 'theme/utils';
 
 const PageContainer = styled(Main)`
-	padding: 20px;
-	background-color: ${palette.grayscale[800]};
+	background-color: ${getColor('surface', 'pagebackground')};
 `;
 
 const CustomButton = styled(Button)``;
@@ -41,6 +41,7 @@ const ButtonSelectorRow = styled.div`
 	flex-direction: column;
 	width: 50%;
 	margin: 0 auto;
+	padding-top: 50px;
 `;
 
 const ButtonSelectorColumn = styled.div`
