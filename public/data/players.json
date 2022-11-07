@@ -1,0 +1,322 @@
+[
+	{
+		"firstName": "Akram",
+		"lastName": "Afif",
+		"slug": "afif",
+		"country": "Qatar",
+		"countryCode": "qa",
+		"conf": "afc",
+		"group": "a",
+		"teamRank": 50
+	},
+	{
+		"firstName": "Moises",
+		"lastName": "Caicedo",
+		"slug": "caicedo",
+		"country": "Ecuador",
+		"countryCode": "ec",
+		"conf": "conmebol",
+		"group": "a",
+		"teamRank": 44
+	},
+	{
+		"firstName": "Sadio",
+		"lastName": "Mane",
+		"slug": "mane",
+		"country": "Senegal",
+		"countryCode": "sn",
+		"conf": "caf",
+		"group": "a",
+		"teamRank": 18
+	},
+	{
+		"firstName": "Virgil",
+		"lastName": "Van Dijk",
+		"slug": "vandijk",
+		"country": "Netherlands",
+		"countryCode": "nl",
+		"conf": "uefa",
+		"group": "a",
+		"teamRank": 8
+	},
+	{
+		"firstName": "Harry",
+		"lastName": "Kane",
+		"slug": "kane",
+		"country": "England",
+		"countryCode": "gb-eng",
+		"conf": "uefa",
+		"group": "b",
+		"teamRank": 5
+	},
+	{
+		"firstName": "Sardar",
+		"lastName": "Azmoun",
+		"slug": "azmoun",
+		"country": "Iran",
+		"countryCode": "ir",
+		"conf": "afc",
+		"group": "b",
+		"teamRank": 20
+	},
+	{
+		"firstName": "Christian",
+		"lastName": "Pulisic",
+		"slug": "pulisic",
+		"country": "United States of America",
+		"countryCode": "us",
+		"conf": "concacaf",
+		"group": "b",
+		"teamRank": 16
+	},
+	{
+		"firstName": "Gareth",
+		"lastName": "Bale",
+		"slug": "bale",
+		"country": "Wales",
+		"countryCode": "gb-wls",
+		"conf": "uefa",
+		"group": "b",
+		"teamRank": 19
+	},
+	{
+		"firstName": "Lionel",
+		"lastName": "Messi",
+		"slug": "messi",
+		"country": "Argentina",
+		"countryCode": "ar",
+		"conf": "conmebol",
+		"group": "c",
+		"teamRank": 3
+	},
+	{
+		"firstName": "Salem",
+		"lastName": "Al-Dawsari",
+		"slug": "aldawsari",
+		"country": "Saudi Arabia",
+		"countryCode": "sa",
+		"conf": "afc",
+		"group": "c",
+		"teamRank": 51
+	},
+	{
+		"firstName": "Hirving",
+		"lastName": "Lozano",
+		"slug": "lozano",
+		"country": "Mexico",
+		"countryCode": "mx",
+		"conf": "concacaf",
+		"group": "c",
+		"teamRank": 13
+	},
+	{
+		"firstName": "Robert",
+		"lastName": "Lewandowski",
+		"slug": "lewandowski",
+		"country": "Poland",
+		"countryCode": "pl",
+		"conf": "uefa",
+		"group": "c",
+		"teamRank": 26
+	},
+	{
+		"firstName": "Kylian",
+		"lastName": "Mbappe",
+		"slug": "mbappe",
+		"country": "France",
+		"countryCode": "fr",
+		"conf": "uefa",
+		"group": "d",
+		"teamRank": 4
+	},
+	{
+		"firstName": "Mathew",
+		"lastName": "Ryan",
+		"slug": "ryan",
+		"country": "Autralia",
+		"countryCode": "au",
+		"conf": "afc",
+		"group": "d",
+		"teamRank": 38
+	},
+	{
+		"firstName": "Christian",
+		"lastName": "Eriksen",
+		"slug": "eriksen",
+		"country": "Denmark",
+		"countryCode": "dk",
+		"conf": "uefa",
+		"group": "d",
+		"teamRank": 10
+	},
+	{
+		"firstName": "Wahbi",
+		"lastName": "Khazri",
+		"slug": "khazri",
+		"country": "Tunisia",
+		"countryCode": "tn",
+		"conf": "caf",
+		"group": "d",
+		"teamRank": 30
+	},
+	{
+		"firstName": "",
+		"lastName": "Pedri",
+		"slug": "pedri",
+		"country": "Spain",
+		"countryCode": "es",
+		"conf": "uefa",
+		"group": "e",
+		"teamRank": 7
+	},
+	{
+		"firstName": "Keylor",
+		"lastName": "Navas",
+		"slug": "navas",
+		"country": "Costa Rica",
+		"countryCode": "cr",
+		"conf": "concacaf",
+		"group": "e",
+		"teamRank": 31
+	},
+	{
+		"firstName": "Joshua",
+		"lastName": "Kimmich",
+		"slug": "kimmich",
+		"country": "Germany",
+		"countryCode": "de",
+		"conf": "uefa",
+		"group": "e",
+		"teamRank": 11
+	},
+	{
+		"firstName": "Daichi",
+		"lastName": "Kamada",
+		"slug": "kamada",
+		"country": "Japan",
+		"countryCode": "jp",
+		"conf": "afc",
+		"group": "e",
+		"teamRank": 24
+	},
+	{
+		"firstName": "Kevin",
+		"lastName": "De Bruyne",
+		"slug": "debruyne",
+		"country": "Belgium",
+		"countryCode": "be",
+		"conf": "uefa",
+		"group": "f",
+		"teamRank": 2
+	},
+	{
+		"firstName": "Alphonso",
+		"lastName": "Davies",
+		"slug": "davies",
+		"country": "Canada",
+		"countryCode": "ca",
+		"conf": "concacaf",
+		"group": "f",
+		"teamRank": 41
+	},
+	{
+		"firstName": "Achraf",
+		"lastName": "Hakimi",
+		"slug": "hakimi",
+		"country": "Morocco",
+		"countryCode": "ma",
+		"conf": "caf",
+		"group": "f",
+		"teamRank": 22
+	},
+	{
+		"firstName": "Luka",
+		"lastName": "Modric",
+		"slug": "modric",
+		"country": "Croatia",
+		"countryCode": "hr",
+		"conf": "uefa",
+		"group": "f",
+		"teamRank": 12
+	},
+	{
+		"firstName": "",
+		"lastName": "Neymar",
+		"slug": "neymar",
+		"country": "Brazil",
+		"countryCode": "br",
+		"conf": "conmebol",
+		"group": "g",
+		"teamRank": 1
+	},
+	{
+		"firstName": "Filip",
+		"lastName": "Kostic",
+		"slug": "kostic",
+		"country": "Serbia",
+		"countryCode": "rs",
+		"conf": "uefa",
+		"group": "g",
+		"teamRank": 21
+	},
+	{
+		"firstName": "Yann",
+		"lastName": "Sommer",
+		"slug": "sommer",
+		"country": "Switzerland",
+		"countryCode": "ch",
+		"conf": "uefa",
+		"group": "g",
+		"teamRank": 15
+	},
+	{
+		"firstName": "Andre",
+		"lastName": "Onana",
+		"slug": "onana",
+		"country": "Cameroon",
+		"countryCode": "cm",
+		"conf": "caf",
+		"group": "g",
+		"teamRank": 43
+	},
+	{
+		"firstName": "Cristiano",
+		"lastName": "Ronaldo",
+		"slug": "ronaldo",
+		"country": "Portugal",
+		"countryCode": "pt",
+		"conf": "uefa",
+		"group": "h",
+		"teamRank": 9
+	},
+	{
+		"firstName": "Iñaki",
+		"lastName": "Williams",
+		"slug": "williams",
+		"country": "Ghana",
+		"countryCode": "gh",
+		"conf": "caf",
+		"group": "h",
+		"teamRank": 61
+	},
+	{
+		"firstName": "Federico",
+		"lastName": "Valverde",
+		"slug": "valverde",
+		"country": "Uruguay",
+		"countryCode": "uy",
+		"conf": "conmebol",
+		"group": "h",
+		"teamRank": 14
+	},
+	{
+		"firstName": "Heung-min",
+		"lastName": "Son",
+		"slug": "son",
+		"country": "South Korea",
+		"countryCode": "kr",
+		"conf": "afc",
+		"group": "h",
+		"teamRank": 28
+	}
+]

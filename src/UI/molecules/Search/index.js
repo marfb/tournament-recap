@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import {func, string} from 'prop-types';
+import {func, string, bool} from 'prop-types';
 import {validateFunction, validateString, validateBoolean} from 'utils';
 import styles from './styles';
 
@@ -51,7 +51,7 @@ Search.propTypes = {
 	onSubmit: func,
 	buttonText: string,
 	onQuickSearch: func,
-	showButton: Boolean,
+	showButton: bool,
 };
 
 Search.defaultProps = {

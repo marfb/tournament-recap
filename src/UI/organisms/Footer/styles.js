@@ -25,7 +25,7 @@ const FooterWrapper = styled.div`
 `;
 
 const LogoWrapper = styled.div`
-	flex: 2;
+	flex: 3;
 	display: flex;
 	align-items: center;
 	& svg {

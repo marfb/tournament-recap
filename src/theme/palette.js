@@ -110,6 +110,7 @@ const dangerText = {
 
 const surface = {
 	pagebackground: '#1d1e27',
+	elembackground: '#1d1e27',
 };
 
 export default {
