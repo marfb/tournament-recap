@@ -141,9 +141,9 @@ const OrderSelect = styled(Dropdown)`
 
 const PlayersWrapper = styled.div`
 	display: grid;
-	grid-template-columns: repeat(auto-fill, 220px);
+	grid-template-columns: repeat(auto-fill, 290px);
 	justify-content: center;
-	grid-gap: 15px;
+	grid-gap: 5px;
 	width: 100%;
 	max-width: 1280px;
 	margin: 20px auto;

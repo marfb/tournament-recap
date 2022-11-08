@@ -12,10 +12,10 @@ const DisplayWrapper = styled.div`
 	z-index: 2;
 `;
 
-const DisplayVideo = styled.video`
-	height: 100%;
-	width: 100%;
-	object-fit: cover;
+const DisplayVideo = styled.iframe`
+	position: absolute;
+	left: -150%;
+	top: -30%;
 `;
 
 const DisplayImg = styled.img`
@@ -67,9 +67,9 @@ const PlayerName = styled(Text)`
 const CardContainer = styled(BaseButton)`
 	border: none;
 	background-color: transparent;
-	width: 220px;
+	width: 290px;
 	padding: 0;
-	height: 350px;
+	height: 390px;
 	position: relative;
 	transition: 0.2s;
 	cursor: pointer;

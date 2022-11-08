@@ -11,7 +11,14 @@ const PlayerCard = ({firstName, lastName, countryCode, placeholderImg, video, ..
 			{...props}>
 			<styles.DisplayWrapper>
 				{hover ? (
-					<styles.DisplayVideo src={video} muted loop autoPlay poster={placeholderImg} />
+					<styles.DisplayVideo
+						src={`https://www.youtube.com/embed/${video}?rel=0&modestbranding=1&autohide=1&mute=1&showinfo=0&controls=0&autoplay=1&end=25&loop=1&playlist=${video}`}
+						width="1119"
+						height="629"
+						frameBorder="0"
+						allowfullscreen
+						title="video"
+					/>
 				) : (
 					<styles.DisplayImg src={placeholderImg} alt={`${firstName} ${lastName}`} />
 				)}

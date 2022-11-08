@@ -7,7 +7,8 @@
 		"countryCode": "qa",
 		"conf": "afc",
 		"group": "a",
-		"teamRank": 50
+		"teamRank": 50,
+		"youtubeId": "DLzZAwTP71Y"
 	},
 	{
 		"firstName": "Moises",
@@ -17,7 +18,8 @@
 		"countryCode": "ec",
 		"conf": "conmebol",
 		"group": "a",
-		"teamRank": 44
+		"teamRank": 44,
+		"youtubeId": "lGve5fB9Law"
 	},
 	{
 		"firstName": "Sadio",
@@ -27,7 +29,8 @@
 		"countryCode": "sn",
 		"conf": "caf",
 		"group": "a",
-		"teamRank": 18
+		"teamRank": 18,
+		"youtubeId": "3ol89BYl2Lo"
 	},
 	{
 		"firstName": "Virgil",
@@ -37,7 +40,8 @@
 		"countryCode": "nl",
 		"conf": "uefa",
 		"group": "a",
-		"teamRank": 8
+		"teamRank": 8,
+		"youtubeId": "HCGd9cz3NY0"
 	},
 	{
 		"firstName": "Harry",
@@ -47,7 +51,8 @@
 		"countryCode": "gb-eng",
 		"conf": "uefa",
 		"group": "b",
-		"teamRank": 5
+		"teamRank": 5,
+		"youtubeId": "IFUsAFPL65o"
 	},
 	{
 		"firstName": "Sardar",
@@ -57,7 +62,8 @@
 		"countryCode": "ir",
 		"conf": "afc",
 		"group": "b",
-		"teamRank": 20
+		"teamRank": 20,
+		"youtubeId": "Ln0rwWlrZ8M"
 	},
 	{
 		"firstName": "Christian",
@@ -67,7 +73,8 @@
 		"countryCode": "us",
 		"conf": "concacaf",
 		"group": "b",
-		"teamRank": 16
+		"teamRank": 16,
+		"youtubeId": "7P2xSPInJo0"
 	},
 	{
 		"firstName": "Gareth",
@@ -77,7 +84,8 @@
 		"countryCode": "gb-wls",
 		"conf": "uefa",
 		"group": "b",
-		"teamRank": 19
+		"teamRank": 19,
+		"youtubeId": "P5_wJKXWXzY"
 	},
 	{
 		"firstName": "Lionel",
@@ -87,7 +95,8 @@
 		"countryCode": "ar",
 		"conf": "conmebol",
 		"group": "c",
-		"teamRank": 3
+		"teamRank": 3,
+		"youtubeId": "jcHTXKNb2zc"
 	},
 	{
 		"firstName": "Salem",
@@ -97,7 +106,8 @@
 		"countryCode": "sa",
 		"conf": "afc",
 		"group": "c",
-		"teamRank": 51
+		"teamRank": 51,
+		"youtubeId": "VKY9VQb2h2E"
 	},
 	{
 		"firstName": "Hirving",
@@ -107,7 +117,8 @@
 		"countryCode": "mx",
 		"conf": "concacaf",
 		"group": "c",
-		"teamRank": 13
+		"teamRank": 13,
+		"youtubeId": "OrwsW69T6OA"
 	},
 	{
 		"firstName": "Robert",
@@ -117,7 +128,8 @@
 		"countryCode": "pl",
 		"conf": "uefa",
 		"group": "c",
-		"teamRank": 26
+		"teamRank": 26,
+		"youtubeId": "zH5eqij-GGw"
 	},
 	{
 		"firstName": "Kylian",
@@ -127,7 +139,8 @@
 		"countryCode": "fr",
 		"conf": "uefa",
 		"group": "d",
-		"teamRank": 4
+		"teamRank": 4,
+		"youtubeId": "rL45nAURp7Q"
 	},
 	{
 		"firstName": "Mathew",
@@ -137,7 +150,8 @@
 		"countryCode": "au",
 		"conf": "afc",
 		"group": "d",
-		"teamRank": 38
+		"teamRank": 38,
+		"youtubeId": "38wTq8K0R_w"
 	},
 	{
 		"firstName": "Christian",
@@ -147,7 +161,8 @@
 		"countryCode": "dk",
 		"conf": "uefa",
 		"group": "d",
-		"teamRank": 10
+		"teamRank": 10,
+		"youtubeId": "JmFlfE_HTNM"
 	},
 	{
 		"firstName": "Wahbi",
@@ -157,7 +172,8 @@
 		"countryCode": "tn",
 		"conf": "caf",
 		"group": "d",
-		"teamRank": 30
+		"teamRank": 30,
+		"youtubeId": "M33cMApbRcc"
 	},
 	{
 		"firstName": "",
@@ -167,7 +183,8 @@
 		"countryCode": "es",
 		"conf": "uefa",
 		"group": "e",
-		"teamRank": 7
+		"teamRank": 7,
+		"youtubeId": "5JjD42yl3Zo"
 	},
 	{
 		"firstName": "Keylor",
@@ -177,7 +194,8 @@
 		"countryCode": "cr",
 		"conf": "concacaf",
 		"group": "e",
-		"teamRank": 31
+		"teamRank": 31,
+		"youtubeId": "IWfli6FkqTA"
 	},
 	{
 		"firstName": "Joshua",
@@ -187,7 +205,8 @@
 		"countryCode": "de",
 		"conf": "uefa",
 		"group": "e",
-		"teamRank": 11
+		"teamRank": 11,
+		"youtubeId": "KIoHti1bHU4"
 	},
 	{
 		"firstName": "Daichi",
@@ -197,7 +216,8 @@
 		"countryCode": "jp",
 		"conf": "afc",
 		"group": "e",
-		"teamRank": 24
+		"teamRank": 24,
+		"youtubeId": "sK_bxN9--do"
 	},
 	{
 		"firstName": "Kevin",
@@ -207,7 +227,8 @@
 		"countryCode": "be",
 		"conf": "uefa",
 		"group": "f",
-		"teamRank": 2
+		"teamRank": 2,
+		"youtubeId": "AVfZHc_WXvs"
 	},
 	{
 		"firstName": "Alphonso",
@@ -217,7 +238,8 @@
 		"countryCode": "ca",
 		"conf": "concacaf",
 		"group": "f",
-		"teamRank": 41
+		"teamRank": 41,
+		"youtubeId": "R_dXgx032XA"
 	},
 	{
 		"firstName": "Achraf",
@@ -227,7 +249,8 @@
 		"countryCode": "ma",
 		"conf": "caf",
 		"group": "f",
-		"teamRank": 22
+		"teamRank": 22,
+		"youtubeId": "fFbQUA86kLU"
 	},
 	{
 		"firstName": "Luka",
@@ -237,7 +260,8 @@
 		"countryCode": "hr",
 		"conf": "uefa",
 		"group": "f",
-		"teamRank": 12
+		"teamRank": 12,
+		"youtubeId": "TfaRnmM0srA"
 	},
 	{
 		"firstName": "",
@@ -247,7 +271,8 @@
 		"countryCode": "br",
 		"conf": "conmebol",
 		"group": "g",
-		"teamRank": 1
+		"teamRank": 1,
+		"youtubeId": "qufVRCCjU-E"
 	},
 	{
 		"firstName": "Filip",
@@ -257,7 +282,8 @@
 		"countryCode": "rs",
 		"conf": "uefa",
 		"group": "g",
-		"teamRank": 21
+		"teamRank": 21,
+		"youtubeId": "OX5-SlscBK0"
 	},
 	{
 		"firstName": "Yann",
@@ -267,7 +293,8 @@
 		"countryCode": "ch",
 		"conf": "uefa",
 		"group": "g",
-		"teamRank": 15
+		"teamRank": 15,
+		"youtubeId": "pYplvaZLZX0"
 	},
 	{
 		"firstName": "Andre",
@@ -277,7 +304,8 @@
 		"countryCode": "cm",
 		"conf": "caf",
 		"group": "g",
-		"teamRank": 43
+		"teamRank": 43,
+		"youtubeId": "2X5sYtU-DsQ"
 	},
 	{
 		"firstName": "Cristiano",
@@ -287,7 +315,8 @@
 		"countryCode": "pt",
 		"conf": "uefa",
 		"group": "h",
-		"teamRank": 9
+		"teamRank": 9,
+		"youtubeId": "b2QFKIwQFpc"
 	},
 	{
 		"firstName": "Iñaki",
@@ -297,7 +326,8 @@
 		"countryCode": "gh",
 		"conf": "caf",
 		"group": "h",
-		"teamRank": 61
+		"teamRank": 61,
+		"youtubeId": "fg7kbJukvjM"
 	},
 	{
 		"firstName": "Federico",
@@ -307,7 +337,8 @@
 		"countryCode": "uy",
 		"conf": "conmebol",
 		"group": "h",
-		"teamRank": 14
+		"teamRank": 14,
+		"youtubeId": "WOCFisK1N9Y"
 	},
 	{
 		"firstName": "Heung-min",
@@ -317,6 +348,7 @@
 		"countryCode": "kr",
 		"conf": "afc",
 		"group": "h",
-		"teamRank": 28
+		"teamRank": 28,
+		"youtubeId": "5jDHMC3aQlk"
 	}
 ]

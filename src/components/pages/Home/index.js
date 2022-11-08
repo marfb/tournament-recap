@@ -129,11 +129,11 @@ const Home = () => {
 			<styles.PlayersWrapper>
 				{!loading &&
 					Boolean(playersToRender.length) &&
-					playersToRender.map(({firstName, lastName, slug, countryCode}, idx) => (
+					playersToRender.map(({firstName, lastName, slug, countryCode, youtubeId}, idx) => (
 						<PlayerCard
 							firstName={firstName}
 							lastName={lastName}
-							video={`./media/players/${slug}.mp4`}
+							video={youtubeId}
 							placeholderImg={`./media/players/${slug}.jpg`}
 							countryCode={countryCode}
 							key={`player-${idx + 1}`}
