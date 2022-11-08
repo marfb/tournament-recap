@@ -27,15 +27,13 @@ const Header = ({searchBarHandler, loggedUser, menuOptions}) => {
 						{/* <styles.LogoImg src={logo} alt="Logo Copa Mundial de la FIFA" /> */}
 					</styles.LogoWrapper>
 					<styles.ButtonsWrapper>
-						<styles.HeaderButton variant="empty">Inicio</styles.HeaderButton>
-						<styles.HeaderButton variant="empty">Contacto</styles.HeaderButton>
+						{/* 						<styles.HeaderButton variant="empty">Inicio</styles.HeaderButton>
+						<styles.HeaderButton variant="empty">Contacto</styles.HeaderButton> */}
 					</styles.ButtonsWrapper>
 					<styles.SearchWrapper>
-						<styles.SearchBar inputLabel="Player" buttonText="Buscar" />
+						{/* <styles.SearchBar inputLabel="Player" buttonText="Buscar" /> */}
 					</styles.SearchWrapper>
-					<styles.UserWrapper>
-						<styles.User />
-					</styles.UserWrapper>
+					<styles.UserWrapper>{/* <styles.User /> */}</styles.UserWrapper>
 				</styles.MainHeaderWrapper>
 			</styles.MainHeader>
 		</styles.HeaderContainer>

@@ -26,8 +26,8 @@ const DisplayImg = styled.img`
 
 const CountryWrapper = styled.div`
 	position: absolute;
-	top: 10px;
-	right: 15px;
+	top: 20px;
+	right: 25px;
 	width: 35px;
 	height: 26px;
 	background-color: transparent;

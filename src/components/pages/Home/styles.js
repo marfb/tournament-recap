@@ -143,7 +143,7 @@ const PlayersWrapper = styled.div`
 	display: grid;
 	grid-template-columns: repeat(auto-fill, 290px);
 	justify-content: center;
-	grid-gap: 5px;
+	grid-gap: 15px;
 	width: 100%;
 	max-width: 1280px;
 	margin: 20px auto;

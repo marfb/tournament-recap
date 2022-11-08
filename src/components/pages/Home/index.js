@@ -11,7 +11,7 @@ const Home = () => {
 	const [selectedConf, setSelectedConf] = useState('');
 	const [selectedOrder, setSelectedOrder] = useState({
 		value: 'lastName-ASC',
-		label: 'Name Ascendent',
+		label: 'Name A-Z',
 	});
 	const [loading, setLoading] = useState(true);
 	const groups = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H'];
