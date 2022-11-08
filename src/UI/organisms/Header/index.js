@@ -9,7 +9,7 @@ const Header = ({searchBarHandler, loggedUser, menuOptions}) => {
 	const [scrollHeader, setScrollHeader] = useState(false);
 
 	const scrollHandler = debounce(
-		() => (window.scrollY >= 80 ? setScrollHeader(true) : setScrollHeader(false)),
+		() => (window.scrollY >= 40 ? setScrollHeader(true) : setScrollHeader(false)),
 		200
 	);
 

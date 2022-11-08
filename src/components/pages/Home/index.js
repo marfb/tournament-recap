@@ -2,11 +2,12 @@ import React, {useEffect, useState} from 'react';
 import axios from 'axios';
 import PlayerCard from 'UI/molecules/PlayerCard';
 import {validateArray} from 'utils';
+import useDeviceWidth from 'hooks/useDeviceWidth';
 import styles from './styles';
 
 const Home = () => {
 	const [playersData, setPlayersData] = useState([]);
-	const [playersToRender, setPlayersToRender] = useState([]);
+	const [playersFiltered, setPlayersFiltered] = useState([]);
 	const [selectedGroup, setSelectedGroup] = useState('');
 	const [selectedConf, setSelectedConf] = useState('');
 	const [selectedOrder, setSelectedOrder] = useState({
@@ -14,6 +15,7 @@ const Home = () => {
 		label: 'Name A-Z',
 	});
 	const [loading, setLoading] = useState(true);
+	const device = useDeviceWidth();
 	const groups = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H'];
 	const confederations = ['CAF', 'AFC', 'UEFA', 'CONCACAF', 'CONMEBOL'];
 	const orderOptions = [
@@ -22,6 +24,9 @@ const Home = () => {
 		{value: 'lastName-ASC', label: 'Name A-Z'},
 		{value: 'lastName-DESC', label: 'Name Z-A'},
 	];
+	const playersToRender = Boolean(playersFiltered.length);
+	const ClearButtonVariant = device === 'mobile' ? '' : 'empty';
+	const FilterButtonVariant = device === 'mobile' ? 'outline' : 'empty';
 
 	const onSelectHandler = (selectedValue) => setSelectedOrder(selectedValue);
 
@@ -29,7 +34,7 @@ const Home = () => {
 		setLoading(true);
 		const {data} = await axios('./data/players.json');
 		if (data && validateArray(data)) setPlayersData(data);
-		if (!playersToRender.length) setPlayersToRender(data);
+		if (!playersFiltered.length) setPlayersFiltered(data);
 		setTimeout(() => setLoading(false), 1500);
 	};
 
@@ -51,7 +56,7 @@ const Home = () => {
 				if (pl1[sortValue] > pl2[sortValue]) return 1;
 				return 0;
 			});
-		setPlayersToRender(renderPlayers);
+		setPlayersFiltered(renderPlayers);
 	};
 
 	useEffect(() => {
@@ -78,7 +83,7 @@ const Home = () => {
 						{Boolean(selectedGroup) && (
 							<styles.ClearFilter
 								semanticColor="danger"
-								variant="empty"
+								variant={ClearButtonVariant}
 								onClick={() => setSelectedGroup('')}>
 								Clear X
 							</styles.ClearFilter>
@@ -86,7 +91,7 @@ const Home = () => {
 					</styles.FilterLabel>
 					{groups.map((group, idx) => (
 						<styles.FilterOption
-							variant="empty"
+							variant={FilterButtonVariant}
 							onClick={() => setSelectedGroup(group)}
 							active={group === selectedGroup}
 							key={`groupFilterBtn-${idx + 1}`}>
@@ -100,7 +105,7 @@ const Home = () => {
 						{Boolean(selectedConf) && (
 							<styles.ClearFilter
 								semanticColor="danger"
-								variant="empty"
+								variant={ClearButtonVariant}
 								onClick={() => setSelectedConf('')}>
 								Clear X
 							</styles.ClearFilter>
@@ -108,7 +113,7 @@ const Home = () => {
 					</styles.FilterLabel>
 					{confederations.map((conf, idx) => (
 						<styles.FilterOption
-							variant="empty"
+							variant={FilterButtonVariant}
 							onClick={() => setSelectedConf(conf)}
 							active={conf === selectedConf}
 							key={`confFilterBtn-${idx + 1}`}>
@@ -125,21 +130,36 @@ const Home = () => {
 					/>
 				</styles.OrderWrapper>
 			</styles.FiltersContainer>
-			{loading && <styles.Skeleton />}
-			<styles.PlayersWrapper>
-				{!loading &&
-					Boolean(playersToRender.length) &&
-					playersToRender.map(({firstName, lastName, slug, countryCode, youtubeId}, idx) => (
-						<PlayerCard
-							firstName={firstName}
-							lastName={lastName}
-							video={youtubeId}
-							placeholderImg={`./media/players/${slug}.jpg`}
-							countryCode={countryCode}
-							key={`player-${idx + 1}`}
-						/>
-					))}
-			</styles.PlayersWrapper>
+			<styles.PlayersContainer>
+				{loading && <styles.Skeleton />}
+				{!loading && playersToRender && (
+					<styles.PlayersWrapper>
+						{playersFiltered.map(({firstName, lastName, slug, countryCode, youtubeId}, idx) => (
+							<PlayerCard
+								firstName={firstName}
+								lastName={lastName}
+								video={youtubeId}
+								placeholderImg={`./media/players/${slug}.jpg`}
+								countryCode={countryCode}
+								key={`player-${idx + 1}`}
+							/>
+						))}
+					</styles.PlayersWrapper>
+				)}
+				{!loading && !playersToRender && (
+					<styles.EmptyFiltersWrapper>
+						<styles.EmptyFiltersCopy>No results found!</styles.EmptyFiltersCopy>
+						<styles.ClearFilters
+							semanticColor="info"
+							onClick={() => {
+								setSelectedConf('');
+								setSelectedGroup('');
+							}}>
+							Clear filters
+						</styles.ClearFilters>
+					</styles.EmptyFiltersWrapper>
+				)}
+			</styles.PlayersContainer>
 		</styles.PageContainer>
 	);
 };

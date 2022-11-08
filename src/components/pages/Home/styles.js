@@ -15,7 +15,10 @@ const PlayersTitleWrapper = styled.div`
 	justify-content: center;
 	flex-direction: column;
 	width: 100%;
-	margin: 40px 0 150px;
+	margin: 60px 0 190px;
+	@media (max-width: 768px) {
+		margin: 20px 0 60px;
+	}
 `;
 
 const PlayersTitle = styled(Text)`
@@ -23,6 +26,10 @@ const PlayersTitle = styled(Text)`
 	color: ${getColor('text', 'main')};
 	font-weight: 600;
 	margin: 15px auto;
+	@media (max-width: 768px) {
+		margin: 10px auto;
+		font-size: 32px;
+	}
 `;
 
 const PlayersCopy = styled(Text)`
@@ -30,6 +37,11 @@ const PlayersCopy = styled(Text)`
 	color: ${getColor('text', 'main')};
 	font-weight: 300;
 	margin: 10px auto;
+	padding: 0 30px;
+	@media (max-width: 768px) {
+		font-size: 16px;
+		text-align: center;
+	}
 `;
 
 const FiltersContainer = styled.div`
@@ -40,6 +52,12 @@ const FiltersContainer = styled.div`
 	align-items: center;
 	padding-bottom: 6px;
 	border-bottom: 1px solid ${getColor('primary', 'dark')};
+	@media (max-width: 768px) {
+		max-width: 768px;
+		flex-direction: column;
+		align-items: baseline;
+		padding: 15px;
+	}
 `;
 
 const FiltersWrapper = styled.div`
@@ -48,12 +66,25 @@ const FiltersWrapper = styled.div`
 	align-items: center;
 	justify-content: center;
 	position: relative;
+	@media (max-width: 768px) {
+		overflow: scroll;
+		height: 100px;
+		width: 100%;
+		justify-content: flex-start;
+		margin-bottom: 15px;
+		padding: 15px 10px;
+	}
 `;
 
 const OrderWrapper = styled(FiltersWrapper)`
 	flex-grow: 2;
 	display: flex;
 	justify-content: flex-end;
+	@media (max-width: 768px) {
+		justify-content: flex-start;
+		margin: 0;
+		overflow: inherit;
+	}
 `;
 
 const FilterTitle = styled(Text)`
@@ -67,11 +98,20 @@ const FilterLabel = styled(Text)`
 	top: -30px;
 	left: 5px;
 	color: ${getColor('primary', 'dark')};
+	@media (max-width: 768px) {
+		top: 1px;
+	}
 `;
 
 const FilterOption = styled(Button)`
 	min-width: 30px;
 	margin-right: 10px;
+	@media (max-width: 768px) {
+		min-width: auto;
+		padding: 0 15px;
+		height: 40px;
+		margin-right: 30px;
+	}
 `;
 
 const ClearFilter = styled(Button)`
@@ -137,6 +177,14 @@ const OrderSelect = styled(Dropdown)`
 			color: ${getColor('primary', 'main')};
 		}
 	}
+
+	@media (max-width: 768px) {
+		width: 100%;
+
+		& .rdn-drop {
+			width: 100%;
+		}
+	}
 `;
 
 const PlayersWrapper = styled.div`
@@ -153,6 +201,29 @@ const Skeleton = styled(CardsGrid)`
 	margin: -20px auto;
 `;
 
+const EmptyFiltersWrapper = styled.div`
+	width: 100%;
+	margin: 75px 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+`;
+
+const EmptyFiltersCopy = styled(Text)`
+	font-size: 28px;
+	color: ${getColor('text', 'main')};
+	font-weight: 600;
+	margin: 15px auto;
+`;
+
+const ClearFilters = styled(Button)`
+	min-width: 30px;
+	margin-right: 10px;
+`;
+
+const PlayersContainer = styled.div``;
+
 export default {
 	PageContainer,
 	PlayersWrapper,
@@ -168,4 +239,8 @@ export default {
 	OrderSelect,
 	ClearFilter,
 	Skeleton,
+	EmptyFiltersWrapper,
+	EmptyFiltersCopy,
+	ClearFilters,
+	PlayersContainer,
 };

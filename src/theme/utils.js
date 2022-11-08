@@ -19,3 +19,22 @@ export const getColor = (type, color) => {
 
 	return selectedColor;
 };
+
+const DEVICES = [
+	{device: 'mobile', maxWidth: 768},
+	{device: 'tablet', maxWidth: 1024},
+];
+
+/**
+ * @name resizeCalc
+ * @description return device name for received width
+ * @param {number} width
+ * @returns {string} device name
+ * @example resizeCalc(360) // 'mobile'
+ */
+
+export const resizeCalc = (width = 1280) => {
+	const foundDevice = DEVICES.find((device) => width < device.maxWidth);
+	if (foundDevice) return foundDevice.device;
+	return 'desktop';
+};

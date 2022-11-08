@@ -53,6 +53,7 @@ const LogoWrapper = styled.div`
 	height: 100%;
 	display: flex;
 	align-items: center;
+	max-width: 150px;
 `;
 
 const ButtonsWrapper = styled.div`
@@ -60,6 +61,7 @@ const ButtonsWrapper = styled.div`
 	display: flex;
 	align-items: center;
 	padding-left: 60px;
+	display: none;
 `;
 
 const HeaderButton = styled(Button)`
@@ -69,6 +71,7 @@ const HeaderButton = styled(Button)`
 
 const SearchWrapper = styled.div`
 	flex: 4;
+	display: none;
 `;
 
 const SearchBar = styled(Search)``;
@@ -78,6 +81,7 @@ const UserWrapper = styled.div`
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	display: none;
 `;
 
 const User = styled(UserButton)``;
