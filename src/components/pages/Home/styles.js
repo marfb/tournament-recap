@@ -15,7 +15,7 @@ const PlayersTitleWrapper = styled.div`
 	justify-content: center;
 	flex-direction: column;
 	width: 100%;
-	margin: 100px 0 150px;
+	margin: 40px 0 150px;
 `;
 
 const PlayersTitle = styled(Text)`
