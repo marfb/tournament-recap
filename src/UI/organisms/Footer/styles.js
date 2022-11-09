@@ -22,6 +22,7 @@ const FooterWrapper = styled.div`
 	margin: 0 auto;
 	display: flex;
 	border-top: 1px solid ${getColor('grayscale', '900')};
+	padding: 0 20px;
 `;
 
 const LogoWrapper = styled.div`
