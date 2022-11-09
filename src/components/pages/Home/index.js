@@ -25,8 +25,8 @@ const Home = () => {
 		{value: 'lastName-DESC', label: 'Name Z-A'},
 	];
 	const playersToRender = Boolean(playersFiltered.length);
-	const ClearButtonVariant = device === 'mobile' ? '' : 'empty';
-	const FilterButtonVariant = device === 'mobile' ? 'outline' : 'empty';
+	const ClearButtonVariant = device !== 'desktop' ? '' : 'empty';
+	const FilterButtonVariant = device !== 'desktop' ? 'outline' : 'empty';
 
 	const onSelectHandler = (selectedValue) => setSelectedOrder(selectedValue);
 

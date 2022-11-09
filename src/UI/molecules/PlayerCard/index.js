@@ -1,5 +1,6 @@
 import React, {useState} from 'react';
 import {string} from 'prop-types';
+import useDeviceWidth from 'hooks/useDeviceWidth';
 import styles from './styles';
 
 const VideoBackground = ({placeholderImg, firstName, lastName, video}) => {
@@ -29,6 +30,7 @@ VideoBackground.propTypes = {
 
 const PlayerCard = ({firstName, lastName, countryCode, placeholderImg, video, ...props}) => {
 	const [hover, setHover] = useState(false);
+	const isDesktop = useDeviceWidth() === 'desktop';
 
 	return (
 		<styles.CardContainer
@@ -36,7 +38,7 @@ const PlayerCard = ({firstName, lastName, countryCode, placeholderImg, video, ..
 			onMouseLeave={() => setHover(false)}
 			{...props}>
 			<styles.DisplayWrapper>
-				{hover ? (
+				{hover && isDesktop ? (
 					<VideoBackground
 						placeholderImg={placeholderImg}
 						firstName={firstName}
