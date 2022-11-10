@@ -1,0 +1,122 @@
+{
+	"internationalTeamFlag": "x",
+	"mainFacts": {
+		"id": "3582",
+		"fullName": "I. R. Iran",
+		"street": "No. 2/2 Third St. Seoul Ave.",
+		"postalCode": "19958-7359",
+		"city": "Teheran",
+		"phone": "+98 21 88213308",
+		"fax": "+98 21 88053605",
+		"homepage": "www.ffiri.ir",
+		"founding": "Nov 30, 1919",
+		"members": "0",
+		"membersDate": "Oct 25, 2016",
+		"countryName": "Iran",
+		"countryID": "71",
+		"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/71.png?lm=1520611569",
+		"avgAge": "29.10",
+		"squadSize": "29",
+		"legionaries": "17",
+		"internationalRank": 20,
+		"nationalPlayer": ""
+	},
+	"stadium": {
+		"id": "1860",
+		"name": "Azadi Sport Complex",
+		"street": "",
+		"postalCode": "",
+		"city": "Tehran",
+		"phoneTicketCenter": "",
+		"faxTicketCenter": "",
+		"homepage": "",
+		"ticketCenter": "",
+		"constructionYear": "1971",
+		"totalCapacity": "80000",
+		"standingRoom": "0",
+		"seats": "80000",
+		"image": "https://tmssl.akamaized.net/images/foto/stadionnormal/galerie-zuschauer-06-azadi-stadium-1576853152-28808.jpg?lm=1576853185"
+	},
+	"historicImages": [],
+	"successes": [
+		{
+			"number": "3",
+			"name": "Asian Cup winner",
+			"id": "104",
+			"additionalData": {
+				"competitionId": "AM15",
+				"competitionTypeId": "11",
+				"cycle": null,
+				"seasonIds": ["1975", "1971", "1967"]
+			}
+		},
+		{
+			"number": "3",
+			"name": "Asian Games Gold Medal",
+			"id": "569",
+			"additionalData": {
+				"competitionId": "AG18",
+				"competitionTypeId": "17",
+				"cycle": null,
+				"seasonIds": ["1975", "1971", "1967"]
+			}
+		}
+	],
+	"additionalTeams": [
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/3582.png?lm=1410457573",
+			"name": "Iran",
+			"id": "3582"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/32341.png?lm=1615401053",
+			"name": "Iran U23",
+			"id": "32341"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/25211.png?lm=1615401053",
+			"name": "Iran U21",
+			"id": "25211"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/41202.png?lm=1615401053",
+			"name": "Iran U20",
+			"id": "41202"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/28424.png?lm=1615401054",
+			"name": "Iran U19",
+			"id": "28424"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/43040.png?lm=1615401054",
+			"name": "Iran U18",
+			"id": "43040"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/25506.png?lm=1615401054",
+			"name": "Iran U17",
+			"id": "25506"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/48682.png?lm=1615401054",
+			"name": "Iran U16",
+			"id": "48682"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/53908.png?lm=1615401054",
+			"name": "Iran Olympic Team",
+			"id": "53908"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/41325.png?lm=1615401054",
+			"name": "Iran U15",
+			"id": "41325"
+		}
+	],
+	"share": {
+		"title": "Club profile Iran",
+		"url": "https://www.transfermarkt.com/iran/startseite/verein/3582",
+		"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+	}
+}

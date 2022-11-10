@@ -1,0 +1,172 @@
+{
+	"share": {
+		"title": "Harry Kane - Player profile",
+		"url": "https://www.transfermarkt.com/harry-kane/profil/spieler/132098",
+		"description": "This is the player profile of referee Harry Kane."
+	},
+	"playerProfile": {
+		"playerID": "132098",
+		"playerImage": "https://img.a.transfermarkt.technology/portrait/medium/132098-1623778520.jpg?lm=1",
+		"playerName": "Harry Kane",
+		"playerFullName": "Harry Kane",
+		"birthplace": "London",
+		"dateOfBirth": "Jul 28, 1993",
+		"dateOfDeath": null,
+		"playerShirtNumber": "10",
+		"birthplaceCountry": "England",
+		"birthplaceCountryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569",
+		"age": "29",
+		"height": "1,88",
+		"foot": "right",
+		"internationalTeam": "England",
+		"internationalTeamImage": "https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569",
+		"internationalTeamStatus": "Current international",
+		"internationalGames": "75",
+		"internationalGoals": "51",
+		"internationalTeamShortTag": "A",
+		"internationalShirtNumber": "9",
+		"internationalWmMember": true,
+		"internationalValueRank": 8,
+		"country": "England",
+		"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569",
+		"countryShortName": "ENG",
+		"secondCountry": "",
+		"secondCountryImage": "",
+		"league": "Premier League",
+		"leagueLogo": "https://tmssl.akamaized.net/images/logo/normal/gb1.png?lm=1521104656",
+		"clubImage": "https://tmssl.akamaized.net/images/wappen/medium/148.png?lm=1544345801",
+		"club": "Tottenham Hotspur",
+		"clubID": "148",
+		"loan": {
+			"loan": "",
+			"loanStart": "",
+			"loanUntil": "",
+			"contractOptions": "",
+			"ownerName": "",
+			"ownerID": "",
+			"ownerImage": "",
+			"ownerContractUntil": ""
+		},
+		"contractExpiryDate": "Jun 30, 2024",
+		"agent": "CK66 Limited",
+		"agentId": "6432",
+		"agentVerificationStatus": null,
+		"agentVerificationDate": false,
+		"outfitter": "",
+		"positionGroup": "Sturm",
+		"playerMainPosition": "Centre-Forward",
+		"playerSecondPosition": "Second Striker",
+		"playerThirdPosition": "",
+		"marketValue": "90,00",
+		"marketValueCurrency": "€",
+		"marketValueNumeral": "m",
+		"marketValueLastChange": "Nov 3, 2022",
+		"relatedness": [],
+		"injury": {"id": "", "title": "", "until": "-", "rehabilitationFlag": ""},
+		"absence": {"id": "", "title": "", "until": "-", "competitionID": "", "matches": ""},
+		"allSuspensions": []
+	},
+	"performanceSeasons": [
+		{"key": "2022", "title": "22/23"},
+		{"key": "2021", "title": "21/22"},
+		{"key": "2020", "title": "20/21"},
+		{"key": "2019", "title": "19/20"},
+		{"key": "2018", "title": "18/19"},
+		{"key": "2017", "title": "17/18"},
+		{"key": "2016", "title": "16/17"},
+		{"key": "2015", "title": "15/16"},
+		{"key": "2014", "title": "14/15"},
+		{"key": "2013", "title": "13/14"},
+		{"key": "2012", "title": "12/13"},
+		{"key": "2011", "title": "11/12"},
+		{"key": "2010", "title": "10/11"},
+		{"key": "2009", "title": "09/10"}
+	],
+	"heroImages": [
+		{
+			"id": "71978",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/harry-kane-erzielt-einen-hattrick-fur-tottenham-in-der-conference-league-1633066850-71978.jpg?lm=1633066866",
+			"source": "imago images"
+		},
+		{
+			"id": "71480",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/harry-kane-tottenham-1632233802-71480.jpg?lm=1632233811",
+			"source": "imago images"
+		},
+		{
+			"id": "63938",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/harry-kane-england-1622632189-63938.jpg?lm=1622632197",
+			"source": "imago images"
+		},
+		{
+			"id": "64966",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/harry-kane-england-2021-1623589738-64966.jpg?lm=1623589752",
+			"source": "imago images"
+		},
+		{
+			"id": "50815",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/harry-kane-tottenham-hotspur-150th-premier-league-goal-1604912732-50815.jpg?lm=1604912769",
+			"source": "imago images"
+		},
+		{
+			"id": "34032",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/kane-2017-1584439545-34032.jpg?lm=1584439563",
+			"source": "TM/imago images"
+		},
+		{
+			"id": "24102",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/harry-kane-tottenham-hotspur-1564573285-24102.jpg?lm=1564573298",
+			"source": "imago images"
+		},
+		{
+			"id": "21086",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/harry-kane-tottenham-hotspur-1552570684-21086.jpg?lm=1552570706",
+			"source": "imago images"
+		},
+		{
+			"id": "13864",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/harry-kane-tottenham-hotspur-1517807447-13864.jpg?lm=1517807472",
+			"source": "imago images"
+		},
+		{
+			"id": "16178",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/harry-kane-england-weltmeisterschaft-2018-1529352862-16178.jpg?lm=1529352881",
+			"source": "imago images"
+		},
+		{
+			"id": "16044",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/harry-kane-england-1528886064-16044.jpg?lm=1528886099",
+			"source": "imago images"
+		},
+		{
+			"id": "15830",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/harry-kane-england-1528379709-15830.jpg?lm=1528379718",
+			"source": "imago images"
+		},
+		{
+			"id": "5487",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/harry-kane-1464868110-5487.jpg?lm=1483606072",
+			"source": "imago images"
+		},
+		{
+			"id": "5139",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/harry-kane-1458056535-5139.jpg?lm=1483606033",
+			"source": "imago images"
+		},
+		{
+			"id": "3947",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/harry-kane-1418318947-3947.jpg?lm=1483605893",
+			"source": "Getty Images"
+		},
+		{
+			"id": "3946",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/harry-kane-1418318889-3946.jpg?lm=1483605892",
+			"source": "Getty Images"
+		},
+		{
+			"id": "3945",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/harry-kane-1418318848-3945.jpg?lm=1483605892",
+			"source": "Getty Images"
+		}
+	]
+}

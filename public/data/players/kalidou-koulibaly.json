@@ -1,0 +1,136 @@
+{
+	"share": {
+		"title": "Kalidou Koulibaly - Player profile",
+		"url": "https://www.transfermarkt.com/kalidou-koulibaly/profil/spieler/93128",
+		"description": "This is the player profile of referee Kalidou Koulibaly."
+	},
+	"playerProfile": {
+		"playerID": "93128",
+		"playerImage": "https://img.a.transfermarkt.technology/portrait/medium/93128-1448528991.jpg?lm=1",
+		"playerName": "Kalidou Koulibaly",
+		"playerFullName": "Kalidou Koulibaly",
+		"birthplace": "Saint-Dié-des-Vosges",
+		"dateOfBirth": "Jun 20, 1991",
+		"dateOfDeath": null,
+		"playerShirtNumber": "26",
+		"birthplaceCountry": "France",
+		"birthplaceCountryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569",
+		"age": "31",
+		"height": "1,86",
+		"foot": "right",
+		"internationalTeam": "Senegal",
+		"internationalTeamImage": "https://tmssl.akamaized.net/images/flagge/verysmall/149.png?lm=1520611569",
+		"internationalTeamStatus": "Current international",
+		"internationalGames": "64",
+		"internationalGoals": "0",
+		"internationalTeamShortTag": "A",
+		"internationalShirtNumber": "3",
+		"internationalWmMember": true,
+		"internationalValueRank": 97,
+		"country": "Senegal",
+		"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/149.png?lm=1520611569",
+		"countryShortName": "SEN",
+		"secondCountry": "France",
+		"secondCountryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569",
+		"league": "Premier League",
+		"leagueLogo": "https://tmssl.akamaized.net/images/logo/normal/gb1.png?lm=1521104656",
+		"clubImage": "https://tmssl.akamaized.net/images/wappen/medium/631.png?lm=1628160548",
+		"club": "Chelsea FC",
+		"clubID": "631",
+		"loan": {
+			"loan": "",
+			"loanStart": "",
+			"loanUntil": "",
+			"contractOptions": "",
+			"ownerName": "",
+			"ownerID": "",
+			"ownerImage": "",
+			"ownerContractUntil": ""
+		},
+		"contractExpiryDate": "Jun 30, 2026",
+		"agent": "LIAN Sports Group",
+		"agentId": "13",
+		"agentVerificationStatus": null,
+		"agentVerificationDate": false,
+		"outfitter": "",
+		"positionGroup": "Abwehr",
+		"playerMainPosition": "Centre-Back",
+		"playerSecondPosition": "",
+		"playerThirdPosition": "",
+		"marketValue": "35,00",
+		"marketValueCurrency": "€",
+		"marketValueNumeral": "m",
+		"marketValueLastChange": "Nov 3, 2022",
+		"relatedness": [],
+		"injury": {"id": "", "title": "", "until": "-", "rehabilitationFlag": ""},
+		"absence": {"id": "", "title": "", "until": "-", "competitionID": "", "matches": ""},
+		"allSuspensions": []
+	},
+	"performanceSeasons": [
+		{"key": "2022", "title": "22/23"},
+		{"key": "2021", "title": "21/22"},
+		{"key": "2020", "title": "20/21"},
+		{"key": "2019", "title": "19/20"},
+		{"key": "2018", "title": "18/19"},
+		{"key": "2017", "title": "17/18"},
+		{"key": "2016", "title": "16/17"},
+		{"key": "2015", "title": "15/16"},
+		{"key": "2014", "title": "14/15"},
+		{"key": "2013", "title": "13/14"},
+		{"key": "2012", "title": "12/13"},
+		{"key": "2011", "title": "11/12"},
+		{"key": "2010", "title": "10/11"}
+	],
+	"heroImages": [
+		{
+			"id": "94935",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/kalidou-koulibaly-fc-chelsea-2022-23-1666776755-94935.jpg?lm=1666776773",
+			"source": "IMAGO"
+		},
+		{
+			"id": "71445",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/kalidou-koulibaly-napoli-1632226116-71445.jpg?lm=1632226132",
+			"source": "imago images"
+		},
+		{
+			"id": "43154",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/kalidou-koulibaly-ssc-neapel-1594464407-43154.jpg?lm=1594464389",
+			"source": "imago images"
+		},
+		{
+			"id": "37349",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/kalidou-koulibaly-napoli-1588159483-37349.jpg?lm=1588159496",
+			"source": "imago images"
+		},
+		{
+			"id": "37347",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/kalidou-koulibaly-napoli-1588159136-37347.jpg?lm=1588159145",
+			"source": "imago images"
+		},
+		{
+			"id": "6462",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/kalidou-koulibaly-1478613090-6462.jpg?lm=1483606200",
+			"source": "imago images"
+		},
+		{
+			"id": "5641",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/kalidou-koulibaly-1467209708-5641.jpg?lm=1483606089",
+			"source": "imago images"
+		},
+		{
+			"id": "2283",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/kalidou-koulibaly-1407949343-2283.jpg?lm=1483605704",
+			"source": "Getty Images"
+		},
+		{
+			"id": "905",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/kalidou-koulibaly-1404237667-905.jpg?lm=1483605525",
+			"source": "Getty Images"
+		},
+		{
+			"id": "338",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/kalidou-koulibaly-1401913538-338.jpg?lm=1483605497",
+			"source": "Getty Images"
+		}
+	]
+}

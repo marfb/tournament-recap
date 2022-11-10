@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import {string} from 'prop-types';
+import {number, string} from 'prop-types';
 import useDeviceWidth from 'hooks/useDeviceWidth';
 import styles from './styles';
 
@@ -28,7 +28,16 @@ VideoBackground.propTypes = {
 	video: string.isRequired,
 };
 
-const PlayerCard = ({firstName, lastName, countryCode, placeholderImg, video, ...props}) => {
+const PlayerCard = ({
+	firstName,
+	lastName,
+	countryCode,
+	placeholderImg,
+	video,
+	country,
+	teamRank,
+	...props
+}) => {
 	const [hover, setHover] = useState(false);
 	const isDesktop = useDeviceWidth() === 'desktop';
 
@@ -49,9 +58,13 @@ const PlayerCard = ({firstName, lastName, countryCode, placeholderImg, video, ..
 					<styles.DisplayImg src={placeholderImg} alt={`${firstName} ${lastName}`} />
 				)}
 			</styles.DisplayWrapper>
-			<styles.CountryWrapper>
-				<styles.CountryFlag className={`fi fi-${countryCode}`} />
-			</styles.CountryWrapper>
+			<styles.CountryContainer>
+				<styles.CountryWrapper>
+					<styles.CountryFlag className={`fi fi-${countryCode}`} />
+				</styles.CountryWrapper>
+				<styles.CountryName>{country}</styles.CountryName>
+				<styles.CountryRank>{`# ${teamRank}`}</styles.CountryRank>
+			</styles.CountryContainer>
 			<styles.NameWrapper>
 				<styles.PlayerName>{`${firstName} ${lastName}`}</styles.PlayerName>
 			</styles.NameWrapper>
@@ -63,7 +76,9 @@ PlayerCard.propTypes = {
 	firstName: string.isRequired,
 	lastName: string.isRequired,
 	countryCode: string.isRequired,
+	country: string.isRequired,
 	placeholderImg: string.isRequired,
+	teamRank: number.isRequired,
 	video: string,
 };
 

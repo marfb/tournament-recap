@@ -1,0 +1,122 @@
+{
+	"internationalTeamFlag": "x",
+	"mainFacts": {
+		"id": "3807",
+		"fullName": "Saudi Arabian Football Federation",
+		"street": "Al Mather Quarter Prince Faisal Bin Faha",
+		"postalCode": "11432",
+		"city": "Riad",
+		"phone": "+966 11 8292888",
+		"fax": "+966 11 8292828",
+		"homepage": "saff.com.sa",
+		"founding": "Jan 1, 1956",
+		"members": "0",
+		"membersDate": "Sep 25, 2020",
+		"countryName": "Saudi Arabia",
+		"countryID": "146",
+		"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/146.png?lm=1520611569",
+		"avgAge": "27.00",
+		"squadSize": "33",
+		"legionaries": "0",
+		"internationalRank": 51,
+		"nationalPlayer": ""
+	},
+	"stadium": {
+		"id": "2301",
+		"name": "King Fahd International Stadium",
+		"street": "",
+		"postalCode": "",
+		"city": "",
+		"phoneTicketCenter": "",
+		"faxTicketCenter": "",
+		"homepage": "",
+		"ticketCenter": "",
+		"constructionYear": "1987",
+		"totalCapacity": "70000",
+		"standingRoom": "0",
+		"seats": "0",
+		"image": ""
+	},
+	"historicImages": [],
+	"successes": [
+		{
+			"number": "3",
+			"name": "Asian Cup winner",
+			"id": "104",
+			"additionalData": {
+				"competitionId": "AM15",
+				"competitionTypeId": "11",
+				"cycle": null,
+				"seasonIds": ["1995", "1987", "1983"]
+			}
+		},
+		{
+			"number": "2",
+			"name": "Arab Cup winner",
+			"id": "855",
+			"additionalData": {
+				"competitionId": "ARCP",
+				"competitionTypeId": "11",
+				"cycle": null,
+				"seasonIds": ["2001", "1997"]
+			}
+		}
+	],
+	"additionalTeams": [
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/3807.png?lm=1403452721",
+			"name": "Saudi Arabia",
+			"id": "3807"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/32240.png?lm=1616591367",
+			"name": "Saudi Arabia U23",
+			"id": "32240"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/89250.png?lm=1616591367",
+			"name": "Saudi Arabia U21",
+			"id": "89250"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/32646.png?lm=1403452721",
+			"name": "Saudi Arabia U20",
+			"id": "32646"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/28154.png?lm=1403452722",
+			"name": "Saudi Arabia U19",
+			"id": "28154"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/23139.png?lm=1403452722",
+			"name": "Saudi Arabia U17",
+			"id": "23139"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/48773.png?lm=1447767168",
+			"name": "Saudi Arabia U16",
+			"id": "48773"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/53859.png?lm=1625837263",
+			"name": "Saudi-Arabien Olympia",
+			"id": "53859"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/48778.png?lm=1447767158",
+			"name": "Saudi Arabia U15",
+			"id": "48778"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/default.png?lm=1457423031",
+			"name": "Saudi Arabia U22",
+			"id": "63253"
+		}
+	],
+	"share": {
+		"title": "Club profile Saudi Arabia",
+		"url": "https://www.transfermarkt.com/saudi-arabia/startseite/verein/3807",
+		"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+	}
+}

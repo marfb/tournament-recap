@@ -1,0 +1,3844 @@
+[
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3437",
+			"fullName": "Asociación del Fútbol Argentino",
+			"street": "1366 Viamonte Street",
+			"postalCode": "C1053ACB",
+			"city": "Buenos Aires",
+			"phone": "+54 11 43719400",
+			"fax": "+54 11 43754410",
+			"homepage": "www.afa.org.ar",
+			"founding": "Feb 21, 1893",
+			"members": "0",
+			"membersDate": "Jun 20, 2019",
+			"countryName": "Argentina",
+			"countryID": "9",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569",
+			"avgAge": "28.00",
+			"squadSize": "25",
+			"legionaries": "24",
+			"internationalRank": 3,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "1050",
+			"name": "Monumental Antonio V. Liberti",
+			"street": "Av. Presidente Figueroa Alcorta 7597",
+			"postalCode": "C1428",
+			"city": "Buenos Aires",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "1938",
+			"totalCapacity": "72054",
+			"standingRoom": "0",
+			"seats": "0",
+			"image": ""
+		},
+		"historicImages": [],
+		"successes": [
+			{
+				"number": "2",
+				"name": "World Cup winner",
+				"id": "101",
+				"additionalData": {
+					"competitionId": "WM22",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["1985", "1977"]
+				}
+			},
+			{
+				"number": "15",
+				"name": "Copa América Champion",
+				"id": "106",
+				"additionalData": {
+					"competitionId": "CA16",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": [
+						"2020",
+						"1992",
+						"1990",
+						"1958",
+						"1956",
+						"1954",
+						"1946",
+						"1945",
+						"1944",
+						"1940",
+						"1936",
+						"1928",
+						"1926",
+						"1924",
+						"1920"
+					]
+				}
+			},
+			{
+				"number": "1",
+				"name": "Confederations Cup Champion",
+				"id": "103",
+				"additionalData": {
+					"competitionId": "CC17",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["1991"]
+				}
+			},
+			{
+				"number": "7",
+				"name": "Winner of Panamerican Games",
+				"id": "324",
+				"additionalData": {
+					"competitionId": "",
+					"competitionTypeId": null,
+					"cycle": null,
+					"seasonIds": ["2018", "2002", "1994", "1970", "1958", "1954", "1950"]
+				}
+			},
+			{
+				"number": "1",
+				"name": "Panamerican Champion",
+				"id": "936",
+				"additionalData": {
+					"competitionId": "CPFU",
+					"competitionTypeId": "11",
+					"cycle": "x",
+					"seasonIds": ["1959"]
+				}
+			},
+			{
+				"number": "2",
+				"name": "CONMEBOL-UEFA Cup of Champions winner",
+				"id": "902",
+				"additionalData": {
+					"competitionId": "AFT",
+					"competitionTypeId": "11",
+					"cycle": "x",
+					"seasonIds": ["2021", "1992"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3437.png?lm=1462482981",
+				"name": "Argentina",
+				"id": "3437"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/52540.png?lm=1462482981",
+				"name": "Argentina U23",
+				"id": "52540"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/11940.png?lm=1462482981",
+				"name": "Argentina U20",
+				"id": "11940"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/102981.png?lm=1665441835",
+				"name": "Argentina U19",
+				"id": "102981"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/25501.png?lm=1462482981",
+				"name": "Argentina U17",
+				"id": "25501"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/73936.png?lm=1563136023",
+				"name": "Argentina U16",
+				"id": "73936"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53819.png?lm=1625051469",
+				"name": "Argentina Olympic Team",
+				"id": "53819"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/default.png?lm=1457423031",
+				"name": "Argentina U15",
+				"id": "82699"
+			}
+		],
+		"share": {
+			"title": "Club profile Argentina",
+			"url": "https://www.transfermarkt.com/argentina/startseite/verein/3437",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3433",
+			"fullName": "Football Federation Australia",
+			"street": "Locked Bag A4071",
+			"postalCode": "NSW 2000",
+			"city": "Sydney South",
+			"phone": "+61 2 80204000",
+			"fax": "+61 2 80204000",
+			"homepage": "socceroos.com.au",
+			"founding": "Jan 1, 1961",
+			"members": "389000",
+			"membersDate": "Jan 1, 2007",
+			"countryName": "Australia",
+			"countryID": "12",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/12.png?lm=1520611569",
+			"avgAge": "27.90",
+			"squadSize": "26",
+			"legionaries": "19",
+			"internationalRank": 38,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "2913",
+			"name": "ANZ Stadium",
+			"street": "",
+			"postalCode": "",
+			"city": "Sydney",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "0",
+			"totalCapacity": "0",
+			"standingRoom": "0",
+			"seats": "0",
+			"image": ""
+		},
+		"historicImages": [],
+		"successes": [
+			{
+				"number": "1",
+				"name": "Asian Cup winner",
+				"id": "104",
+				"additionalData": {
+					"competitionId": "AM15",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["2014"]
+				}
+			},
+			{
+				"number": "4",
+				"name": "OFC Nations Cup Winner",
+				"id": "108",
+				"additionalData": {
+					"competitionId": "",
+					"competitionTypeId": null,
+					"cycle": null,
+					"seasonIds": ["2003", "1999", "1995", "1979"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3433.png?lm=1410459027",
+				"name": "Australia",
+				"id": "3433"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/32270.png?lm=1615401027",
+				"name": "Australia U23",
+				"id": "32270"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/69199.png?lm=1615401027",
+				"name": "Australia B",
+				"id": "69199"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/22976.png?lm=1615401027",
+				"name": "Australia U20",
+				"id": "22976"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/39276.png?lm=1615401028",
+				"name": "Australia U19",
+				"id": "39276"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/100451.png?lm=1656680560",
+				"name": "Australia U18",
+				"id": "100451"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/32269.png?lm=1615401028",
+				"name": "Australia U17",
+				"id": "32269"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/66880.png?lm=1615401028",
+				"name": "Australia U16",
+				"id": "66880"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53845.png?lm=1625836644",
+				"name": "Australia Olympic Team",
+				"id": "53845"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/77740.png?lm=1615401028",
+				"name": "Australia U22",
+				"id": "77740"
+			}
+		],
+		"share": {
+			"title": "Club profile Australia",
+			"url": "https://www.transfermarkt.com/australia/startseite/verein/3433",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3382",
+			"fullName": "Royal Belgian Football Association",
+			"street": "Houba de Strooperlaan 145",
+			"postalCode": "1020 ",
+			"city": "Brussel",
+			"phone": "+32 2 4771211",
+			"fax": "+32 2 4782391",
+			"homepage": "rbfa.be",
+			"founding": "Sep 1, 1895",
+			"members": "450000",
+			"membersDate": "Oct 8, 2016",
+			"countryName": "Belgium",
+			"countryID": "19",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/19.png?lm=1520611569",
+			"avgAge": "28.30",
+			"squadSize": "26",
+			"legionaries": "21",
+			"internationalRank": 2,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "920",
+			"name": "Koning Boudewijn Stadion",
+			"street": "",
+			"postalCode": "",
+			"city": "Brussel",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "1930",
+			"totalCapacity": "50122",
+			"standingRoom": "0",
+			"seats": "0",
+			"image": ""
+		},
+		"historicImages": [],
+		"successes": [
+			{
+				"number": "1",
+				"name": "Olympic champion",
+				"id": "451",
+				"additionalData": {
+					"competitionId": "OLYM",
+					"competitionTypeId": "17",
+					"cycle": "x",
+					"seasonIds": ["1919"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3382.png?lm=1622018854",
+				"name": "Belgium",
+				"id": "3382"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/9315.png?lm=1622018854",
+				"name": "Belgium U21",
+				"id": "9315"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/16339.png?lm=1622018855",
+				"name": "Belgium U20",
+				"id": "16339"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/16338.png?lm=1622018855",
+				"name": "Belgium U19",
+				"id": "16338"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/16337.png?lm=1622018855",
+				"name": "Belgium U18",
+				"id": "16337"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/23219.png?lm=1622018855",
+				"name": "Belgium U17",
+				"id": "23219"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/23282.png?lm=1622018855",
+				"name": "Belgium U16",
+				"id": "23282"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53839.png?lm=1622018855",
+				"name": "Belgium Olympic Team",
+				"id": "53839"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/57592.png?lm=1622018856",
+				"name": "Belgium B",
+				"id": "57592"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/34680.png?lm=1622018856",
+				"name": "Belgium U15",
+				"id": "34680"
+			}
+		],
+		"share": {
+			"title": "Club profile Belgium",
+			"url": "https://www.transfermarkt.com/belgium/startseite/verein/3382",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3439",
+			"fullName": "Confederaçao Brasileira de Futebol",
+			"street": "Rua Victor Civita 66 Bloco 1, Edifico 5,",
+			"postalCode": "22775-040",
+			"city": "Andar Barra da Tijuca RIO DE JANEIRO",
+			"phone": "+55 21 3535-9610",
+			"fax": "+55 21 3535-9611",
+			"homepage": "www.cbf.com.br",
+			"founding": "Aug 20, 1914",
+			"members": "0",
+			"membersDate": "Jul 5, 2019",
+			"countryName": "Brazil",
+			"countryID": "26",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569",
+			"avgAge": "28.40",
+			"squadSize": "26",
+			"legionaries": "23",
+			"internationalRank": 1,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "",
+			"name": "",
+			"street": "",
+			"postalCode": "",
+			"city": "",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "",
+			"totalCapacity": "",
+			"standingRoom": "",
+			"seats": "",
+			"image": ""
+		},
+		"historicImages": [
+			"https://tmssl.akamaized.net/images/wappen/medium/3439_1625145876.png?lm=1625145876"
+		],
+		"successes": [
+			{
+				"number": "5",
+				"name": "World Cup winner",
+				"id": "101",
+				"additionalData": {
+					"competitionId": "WM22",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["2001", "1993", "1969", "1961", "1957"]
+				}
+			},
+			{
+				"number": "9",
+				"name": "Copa América Champion",
+				"id": "106",
+				"additionalData": {
+					"competitionId": "CA16",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["2018", "2006", "2003", "1998", "1996", "1988", "1948", "1921", "1918"]
+				}
+			},
+			{
+				"number": "4",
+				"name": "Confederations Cup Champion",
+				"id": "103",
+				"additionalData": {
+					"competitionId": "CC17",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["2012", "2008", "2004", "1996"]
+				}
+			},
+			{
+				"number": "4",
+				"name": "Winner of Panamerican Games",
+				"id": "324",
+				"additionalData": {
+					"competitionId": "",
+					"competitionTypeId": null,
+					"cycle": null,
+					"seasonIds": ["1986", "1978", "1974", "1962"]
+				}
+			},
+			{
+				"number": "2",
+				"name": "Panamerican Champion",
+				"id": "936",
+				"additionalData": {
+					"competitionId": "CPFU",
+					"competitionTypeId": "11",
+					"cycle": "x",
+					"seasonIds": ["1955", "1951"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3439.png?lm=1621002439",
+				"name": "Brazil",
+				"id": "3439"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/37018.png?lm=1621002439",
+				"name": "Brazil U23",
+				"id": "37018"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/7658.png?lm=1621002439",
+				"name": "Brazil U20",
+				"id": "7658"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/94748.png?lm=1637262434",
+				"name": "Brazil U18",
+				"id": "94748"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/23130.png?lm=1621002439",
+				"name": "Brazil U17",
+				"id": "23130"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/65623.png?lm=1621002440",
+				"name": "Brazil U16",
+				"id": "65623"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53818.png?lm=1471794906",
+				"name": "Brazil Olympic Team",
+				"id": "53818"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/48143.png?lm=1621002440",
+				"name": "Brazil U15",
+				"id": "48143"
+			}
+		],
+		"share": {
+			"title": "Club profile Brazil",
+			"url": "https://www.transfermarkt.com/brazil/startseite/verein/3439",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3434",
+			"fullName": "Fédération Camerounaise de Football",
+			"street": "",
+			"postalCode": "1116",
+			"city": "Yaoundé",
+			"phone": "+237 (22) 210012",
+			"fax": "+237 (22) 216662",
+			"homepage": "www.fecafoot-officiel.com/",
+			"founding": "Oct 21, 1950",
+			"members": "0",
+			"membersDate": "Jun 28, 2019",
+			"countryName": "Cameroon",
+			"countryID": "31",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/31.png?lm=1520611569",
+			"avgAge": "26.80",
+			"squadSize": "26",
+			"legionaries": "24",
+			"internationalRank": 43,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "4946",
+			"name": "Stade d'Olembé",
+			"street": "",
+			"postalCode": "",
+			"city": "Yaoundé",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "2021",
+			"totalCapacity": "60000",
+			"standingRoom": "0",
+			"seats": "0",
+			"image": ""
+		},
+		"historicImages": [
+			"https://tmssl.akamaized.net/images/wappen/medium/3434_1402570641.png?lm=1402570628"
+		],
+		"successes": [
+			{
+				"number": "5",
+				"name": "Africa Cup winner",
+				"id": "105",
+				"additionalData": {
+					"competitionId": "AFCN",
+					"competitionTypeId": "11",
+					"cycle": "x",
+					"seasonIds": ["2016", "2001", "1999", "1987", "1983"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3434.png?lm=1455527420",
+				"name": "Cameroon",
+				"id": "3434"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/52820.png?lm=1572043824",
+				"name": "Cameroon U23",
+				"id": "52820"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/22980.png?lm=1572043824",
+				"name": "Cameroon U20",
+				"id": "22980"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/55471.png?lm=1572043824",
+				"name": "Cameroon U17",
+				"id": "55471"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53843.png?lm=1462279430",
+				"name": "Cameroon Olympic Team",
+				"id": "53843"
+			}
+		],
+		"share": {
+			"title": "Club profile Cameroon",
+			"url": "https://www.transfermarkt.com/cameroon/startseite/verein/3434",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3510",
+			"fullName": "Canadian Soccer Association",
+			"street": "237 rue Metcalfe Street",
+			"postalCode": "K2P 1R2",
+			"city": "Ottawa, ON",
+			"phone": "+1 (613) 2377678",
+			"fax": "+1 (613) 2371516",
+			"homepage": "www.canadasoccer.com",
+			"founding": "May 24, 1912",
+			"members": "0",
+			"membersDate": "Oct 28, 2019",
+			"countryName": "Canada",
+			"countryID": "80",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/80.png?lm=1520611569",
+			"avgAge": "25.90",
+			"squadSize": "21",
+			"legionaries": "5",
+			"internationalRank": 41,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "1841",
+			"name": "Commonwealth Stadium",
+			"street": "11000, Stadium Road",
+			"postalCode": "T5J 2R7",
+			"city": "Edmonton",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "0",
+			"totalCapacity": "60081",
+			"standingRoom": "0",
+			"seats": "60081",
+			"image": ""
+		},
+		"historicImages": [],
+		"successes": [
+			{
+				"number": "1",
+				"name": "Gold Cup Winner",
+				"id": "107",
+				"additionalData": {
+					"competitionId": "GC17",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["1999"]
+				}
+			},
+			{
+				"number": "1",
+				"name": "CONCACAF Championship Winner",
+				"id": "626",
+				"additionalData": {
+					"competitionId": "",
+					"competitionTypeId": null,
+					"cycle": null,
+					"seasonIds": ["1984"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3510.png?lm=1625156128",
+				"name": "Canada",
+				"id": "3510"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/29112.png?lm=1625156128",
+				"name": "Canada U23",
+				"id": "29112"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/27261.png?lm=1625156128",
+				"name": "Canada U20",
+				"id": "27261"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/48635.png?lm=1625156128",
+				"name": "Canada U18",
+				"id": "48635"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/32645.png?lm=1625156128",
+				"name": "Canada U17",
+				"id": "32645"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/43976.png?lm=1625156128",
+				"name": "Canada U16",
+				"id": "43976"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53895.png?lm=1625156128",
+				"name": "Canada Olympic Team",
+				"id": "53895"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/default.png?lm=1457423031",
+				"name": "Canada U15",
+				"id": "97311"
+			}
+		],
+		"share": {
+			"title": "Club profile Canada",
+			"url": "https://www.transfermarkt.com/canada/startseite/verein/3510",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3436",
+			"fullName": "Dansk Boldspil Union",
+			"street": "Brøndby Stadion 20",
+			"postalCode": "2605",
+			"city": "Brøndby",
+			"phone": "+45 43262222",
+			"fax": "+45 43262245",
+			"homepage": "www.dbu.dk",
+			"founding": "May 18, 1889",
+			"members": "0",
+			"membersDate": "Sep 11, 2019",
+			"countryName": "Denmark",
+			"countryID": "39",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/39.png?lm=1520611569",
+			"avgAge": "27.70",
+			"squadSize": "21",
+			"legionaries": "19",
+			"internationalRank": 10,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "480",
+			"name": "Parken",
+			"street": "P.H. Lings Allé 2",
+			"postalCode": "2100",
+			"city": "København Ø.",
+			"phoneTicketCenter": "0045 35433131",
+			"faxTicketCenter": "0045 35437422",
+			"homepage": "www.parken.dk",
+			"ticketCenter": "www.billetlugen.dk",
+			"constructionYear": "1992",
+			"totalCapacity": "38065",
+			"standingRoom": "0",
+			"seats": "38065",
+			"image": "https://tmssl.akamaized.net/images/foto/stadionnormal/telia-parken-stadion-in-kopenhagen-1529572260-16227.jpg?lm=1529572284"
+		},
+		"historicImages": [],
+		"successes": [
+			{
+				"number": "1",
+				"name": "European Champion",
+				"id": "102",
+				"additionalData": {
+					"competitionId": "EM20",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["1991"]
+				}
+			},
+			{
+				"number": "1",
+				"name": "Confederations Cup Champion",
+				"id": "103",
+				"additionalData": {
+					"competitionId": "CC17",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["1994"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3436.png?lm=1622018897",
+				"name": "Denmark",
+				"id": "3436"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/40750.png?lm=1622018897",
+				"name": "Denmark U23",
+				"id": "40750"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/16783.png?lm=1622018897",
+				"name": "Denmark U21",
+				"id": "16783"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/28076.png?lm=1622018897",
+				"name": "Denmark U20",
+				"id": "28076"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/20902.png?lm=1622018897",
+				"name": "Denmark U19",
+				"id": "20902"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/21741.png?lm=1622018897",
+				"name": "Denmark U18",
+				"id": "21741"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/20901.png?lm=1622018897",
+				"name": "Denmark U17",
+				"id": "20901"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53806.png?lm=1622018897",
+				"name": "Denmark Olympic Team",
+				"id": "53806"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/67194.png?lm=1622018898",
+				"name": "Dänische Liga-Auswahl",
+				"id": "67194"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/28143.png?lm=1622018898",
+				"name": "Denmark U16",
+				"id": "28143"
+			}
+		],
+		"share": {
+			"title": "Club profile Denmark",
+			"url": "https://www.transfermarkt.com/denmark/startseite/verein/3436",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3556",
+			"fullName": "Hrvatski nogometni savez",
+			"street": "Ulica grada Vukovara 269 a",
+			"postalCode": "10000",
+			"city": "Zagreb",
+			"phone": "+385 (1) 2361555",
+			"fax": "+385 (1) 2441500",
+			"homepage": "hns-cff.hr",
+			"founding": "Jun 13, 1912",
+			"members": "0",
+			"membersDate": "May 23, 2016",
+			"countryName": "Croatia",
+			"countryID": "37",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/37.png?lm=1520611569",
+			"avgAge": "27.90",
+			"squadSize": "26",
+			"legionaries": "20",
+			"internationalRank": 12,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "",
+			"name": "",
+			"street": "",
+			"postalCode": "",
+			"city": "",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "",
+			"totalCapacity": "",
+			"standingRoom": "",
+			"seats": "",
+			"image": ""
+		},
+		"historicImages": [],
+		"successes": [],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3556.png?lm=1622018504",
+				"name": "Croatia",
+				"id": "3556"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/11943.png?lm=1622018505",
+				"name": "Croatia U21",
+				"id": "11943"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/29380.png?lm=1622018505",
+				"name": "Croatia U20",
+				"id": "29380"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/17379.png?lm=1622018505",
+				"name": "Croatia U19",
+				"id": "17379"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/28207.png?lm=1622018505",
+				"name": "Croatia U18",
+				"id": "28207"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/21141.png?lm=1622018506",
+				"name": "Croatia U17",
+				"id": "21141"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/34699.png?lm=1622018506",
+				"name": "Croatia U16",
+				"id": "34699"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/43792.png?lm=1622018506",
+				"name": "Croatia U14",
+				"id": "43792"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/36543.png?lm=1622018506",
+				"name": "Croatia U15",
+				"id": "36543"
+			}
+		],
+		"share": {
+			"title": "Club profile Croatia",
+			"url": "https://www.transfermarkt.com/croatia/startseite/verein/3556",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "5750",
+			"fullName": "Federación Ecuatoriana de Fútbol",
+			"street": "",
+			"postalCode": "",
+			"city": "",
+			"phone": "",
+			"fax": "",
+			"homepage": "www.fef.ec",
+			"founding": "May 30, 1925",
+			"members": "0",
+			"membersDate": "Oct 8, 2021",
+			"countryName": "Ecuador",
+			"countryID": "44",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/44.png?lm=1520611569",
+			"avgAge": "25.30",
+			"squadSize": "28",
+			"legionaries": "24",
+			"internationalRank": 44,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "1702",
+			"name": "Estadio Olímpico Atahualpa",
+			"street": "",
+			"postalCode": "",
+			"city": "Quito",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "1951",
+			"totalCapacity": "39861",
+			"standingRoom": "0",
+			"seats": "0",
+			"image": ""
+		},
+		"historicImages": [
+			"https://tmssl.akamaized.net/images/wappen/medium/5750_1578989332.png?lm=1578989332"
+		],
+		"successes": [
+			{
+				"number": "1",
+				"name": "Winner of Panamerican Games",
+				"id": "324",
+				"additionalData": {
+					"competitionId": "",
+					"competitionTypeId": null,
+					"cycle": null,
+					"seasonIds": ["2006"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/5750.png?lm=1578984500",
+				"name": "Ecuador",
+				"id": "5750"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/75238.png?lm=1578984500",
+				"name": "Ecuador U23",
+				"id": "75238"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/31463.png?lm=1578984500",
+				"name": "Ecuador U20",
+				"id": "31463"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/29809.png?lm=1578984500",
+				"name": "Ecuador U17",
+				"id": "29809"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/51509.png?lm=1578984500",
+				"name": "Ecuador U15",
+				"id": "51509"
+			}
+		],
+		"share": {
+			"title": "Club profile Ecuador",
+			"url": "https://www.transfermarkt.com/ecuador/startseite/verein/5750",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3299",
+			"fullName": "The Football Association Ltd.",
+			"street": "25 Soho Square",
+			"postalCode": "W1D 4FA ",
+			"city": "London",
+			"phone": "+44 844 9808200",
+			"fax": "+44 844 9808201",
+			"homepage": "thefa.com",
+			"founding": "Oct 26, 1863",
+			"members": "0",
+			"membersDate": "Sep 11, 2019",
+			"countryName": "England",
+			"countryID": "189",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569",
+			"avgAge": "26.60",
+			"squadSize": "29",
+			"legionaries": "1",
+			"internationalRank": 5,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "960",
+			"name": "Wembley Stadium",
+			"street": "",
+			"postalCode": "",
+			"city": "London",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "www.wembleystadium.com",
+			"ticketCenter": "",
+			"constructionYear": "2007",
+			"totalCapacity": "90000",
+			"standingRoom": "0",
+			"seats": "90000",
+			"image": "https://tmssl.akamaized.net/images/foto/stadionnormal/wembley-stadium-london-stadion-1585057043-34659.jpg?lm=1585057069"
+		},
+		"historicImages": [
+			"https://tmssl.akamaized.net/images/wappen/medium/3299_1624887410.png?lm=1624887410",
+			"https://tmssl.akamaized.net/images/wappen/medium/3299_1624887439.png?lm=1624887439",
+			"https://tmssl.akamaized.net/images/wappen/medium/3299_1624887454.png?lm=1624887454",
+			"https://tmssl.akamaized.net/images/wappen/medium/3299_1624887562.png?lm=1624887563",
+			"https://tmssl.akamaized.net/images/wappen/medium/3299_1624887579.png?lm=1624887579",
+			"https://tmssl.akamaized.net/images/wappen/medium/3299_1624887599.png?lm=1624887600",
+			"https://tmssl.akamaized.net/images/wappen/medium/3299_1624887621.png?lm=1624887621",
+			"https://tmssl.akamaized.net/images/wappen/medium/3299_1624887636.png?lm=1624887636"
+		],
+		"successes": [
+			{
+				"number": "1",
+				"name": "World Cup winner",
+				"id": "101",
+				"additionalData": {
+					"competitionId": "WM22",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["1965"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3299.png?lm=1622017648",
+				"name": "England",
+				"id": "3299"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/40453.png?lm=1622017648",
+				"name": "England C",
+				"id": "40453"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/52786.png?lm=1622017649",
+				"name": "England B",
+				"id": "52786"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/66170.png?lm=1622017649",
+				"name": "England Amateur",
+				"id": "66170"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/9565.png?lm=1622017649",
+				"name": "England U21",
+				"id": "9565"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/22907.png?lm=1622017649",
+				"name": "England U20",
+				"id": "22907"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/21340.png?lm=1622017650",
+				"name": "England U19",
+				"id": "21340"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/31269.png?lm=1622017650",
+				"name": "England U18",
+				"id": "31269"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/23260.png?lm=1622017650",
+				"name": "England U17",
+				"id": "23260"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/30322.png?lm=1622017650",
+				"name": "England U16",
+				"id": "30322"
+			}
+		],
+		"share": {
+			"title": "Club profile England",
+			"url": "https://www.transfermarkt.com/england/startseite/verein/3299",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3377",
+			"fullName": "Fédération Française de Football",
+			"street": "87, Boulevard de Grenelle",
+			"postalCode": "75738",
+			"city": "Paris",
+			"phone": "+33 1 44317300",
+			"fax": "+33 1 44317373",
+			"homepage": "fff.fr",
+			"founding": "May 1, 1904",
+			"members": "0",
+			"membersDate": "Jul 20, 2018",
+			"countryName": "France",
+			"countryID": "50",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569",
+			"avgAge": "27.30",
+			"squadSize": "25",
+			"legionaries": "20",
+			"internationalRank": 4,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "535",
+			"name": "Stade de France",
+			"street": "",
+			"postalCode": "93216",
+			"city": "Saint-Denis",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "1995",
+			"totalCapacity": "81338",
+			"standingRoom": "0",
+			"seats": "81338",
+			"image": "https://tmssl.akamaized.net/images/foto/stadionnormal/galerie-zuschauer-07-stade-de-france-1576853276-28809.jpg?lm=1576853309"
+		},
+		"historicImages": [
+			"https://tmssl.akamaized.net/images/wappen/medium/3377_1404679574.png?lm=1404679574",
+			"https://tmssl.akamaized.net/images/wappen/medium/3377_1404679618.png?lm=1404679618",
+			"https://tmssl.akamaized.net/images/wappen/medium/3377_1404679669.png?lm=1404679669"
+		],
+		"successes": [
+			{
+				"number": "2",
+				"name": "World Cup winner",
+				"id": "101",
+				"additionalData": {
+					"competitionId": "WM22",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["2017", "1997"]
+				}
+			},
+			{
+				"number": "2",
+				"name": "European Champion",
+				"id": "102",
+				"additionalData": {
+					"competitionId": "EM20",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["1999", "1983"]
+				}
+			},
+			{
+				"number": "1",
+				"name": "Winner UEFA Nations League",
+				"id": "601",
+				"additionalData": {
+					"competitionId": "UNFI",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["2020"]
+				}
+			},
+			{
+				"number": "2",
+				"name": "Confederations Cup Champion",
+				"id": "103",
+				"additionalData": {
+					"competitionId": "CC17",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["2002", "2000"]
+				}
+			},
+			{
+				"number": "1",
+				"name": "CONMEBOL-UEFA Cup of Champions winner",
+				"id": "902",
+				"additionalData": {
+					"competitionId": "AFT",
+					"competitionTypeId": "11",
+					"cycle": "x",
+					"seasonIds": ["1985"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3377.png?lm=1622018076",
+				"name": "France",
+				"id": "3377"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/40468.png?lm=1622018076",
+				"name": "France U23",
+				"id": "40468"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/9323.png?lm=1622018077",
+				"name": "France U21",
+				"id": "9323"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/23658.png?lm=1622018077",
+				"name": "France U20",
+				"id": "23658"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/23101.png?lm=1622018077",
+				"name": "France U19",
+				"id": "23101"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/25250.png?lm=1622018077",
+				"name": "France U18",
+				"id": "25250"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/10831.png?lm=1622018078",
+				"name": "France U17",
+				"id": "10831"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/10844.png?lm=1622018078",
+				"name": "France U16",
+				"id": "10844"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53762.png?lm=1622018078",
+				"name": "France B",
+				"id": "53762"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53860.png?lm=1622018079",
+				"name": "France Olympic Team",
+				"id": "53860"
+			}
+		],
+		"share": {
+			"title": "Club profile France",
+			"url": "https://www.transfermarkt.com/france/startseite/verein/3377",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3262",
+			"fullName": "Deutscher Fußball-Bund e. V.",
+			"street": "Otto-Fleck-Schneise 6",
+			"postalCode": "60528",
+			"city": "Frankfurt (Main)",
+			"phone": "+49 (69) 6788-0",
+			"fax": "+49 (69) 6788-266",
+			"homepage": "www.dfb.de",
+			"founding": "Jan 28, 1900",
+			"members": "0",
+			"membersDate": "May 10, 2013",
+			"countryName": "Germany",
+			"countryID": "40",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525",
+			"avgAge": "27.30",
+			"squadSize": "26",
+			"legionaries": "6",
+			"internationalRank": 11,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "",
+			"name": "",
+			"street": "",
+			"postalCode": "",
+			"city": "",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "",
+			"totalCapacity": "",
+			"standingRoom": "",
+			"seats": "",
+			"image": ""
+		},
+		"historicImages": [
+			"https://tmssl.akamaized.net/images/wappen/medium/3262_1402756920.png?lm=1402756920",
+			"https://tmssl.akamaized.net/images/wappen/medium/3262_1402756949.png?lm=1402756949",
+			"https://tmssl.akamaized.net/images/wappen/medium/3262_1402756981.png?lm=1402756981",
+			"https://tmssl.akamaized.net/images/wappen/medium/3262_1402757020.png?lm=1402757020",
+			"https://tmssl.akamaized.net/images/wappen/medium/3262_1402757043.png?lm=1402757043"
+		],
+		"successes": [
+			{
+				"number": "4",
+				"name": "World Cup winner",
+				"id": "101",
+				"additionalData": {
+					"competitionId": "WM22",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["2013", "1989", "1973", "1953"]
+				}
+			},
+			{
+				"number": "3",
+				"name": "European Champion",
+				"id": "102",
+				"additionalData": {
+					"competitionId": "EM20",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["1995", "1979", "1971"]
+				}
+			},
+			{
+				"number": "1",
+				"name": "Confederations Cup Champion",
+				"id": "103",
+				"additionalData": {
+					"competitionId": "CC17",
+					"competitionTypeId": "11",
+					"cycle": "x",
+					"seasonIds": ["2016"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3262.png?lm=1622018129",
+				"name": "Germany",
+				"id": "3262"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/100200.png?lm=1655822948",
+				"name": "West Germany B",
+				"id": "100200"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3817.png?lm=1622018130",
+				"name": "Germany U21",
+				"id": "3817"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/5709.png?lm=1622018130",
+				"name": "Germany U20",
+				"id": "5709"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/5710.png?lm=1622018130",
+				"name": "Germany U19",
+				"id": "5710"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/9067.png?lm=1622018130",
+				"name": "Germany U18",
+				"id": "9067"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/17662.png?lm=1622018131",
+				"name": "Germany U17",
+				"id": "17662"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/17368.png?lm=1622018131",
+				"name": "Germany U16",
+				"id": "17368"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/49503.png?lm=1626352495",
+				"name": "Germany Olympic Team",
+				"id": "49503"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/40791.png?lm=1622018132",
+				"name": "Germany Team 2006",
+				"id": "40791"
+			}
+		],
+		"share": {
+			"title": "Club profile Germany",
+			"url": "https://www.transfermarkt.com/germany/startseite/verein/3262",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3582",
+			"fullName": "I. R. Iran",
+			"street": "No. 2/2 Third St. Seoul Ave.",
+			"postalCode": "19958-7359",
+			"city": "Teheran",
+			"phone": "+98 21 88213308",
+			"fax": "+98 21 88053605",
+			"homepage": "www.ffiri.ir",
+			"founding": "Nov 30, 1919",
+			"members": "0",
+			"membersDate": "Oct 25, 2016",
+			"countryName": "Iran",
+			"countryID": "71",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/71.png?lm=1520611569",
+			"avgAge": "29.10",
+			"squadSize": "29",
+			"legionaries": "17",
+			"internationalRank": 20,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "1860",
+			"name": "Azadi Sport Complex",
+			"street": "",
+			"postalCode": "",
+			"city": "Tehran",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "1971",
+			"totalCapacity": "80000",
+			"standingRoom": "0",
+			"seats": "80000",
+			"image": "https://tmssl.akamaized.net/images/foto/stadionnormal/galerie-zuschauer-06-azadi-stadium-1576853152-28808.jpg?lm=1576853185"
+		},
+		"historicImages": [],
+		"successes": [
+			{
+				"number": "3",
+				"name": "Asian Cup winner",
+				"id": "104",
+				"additionalData": {
+					"competitionId": "AM15",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["1975", "1971", "1967"]
+				}
+			},
+			{
+				"number": "3",
+				"name": "Asian Games Gold Medal",
+				"id": "569",
+				"additionalData": {
+					"competitionId": "AG18",
+					"competitionTypeId": "17",
+					"cycle": null,
+					"seasonIds": ["1975", "1971", "1967"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3582.png?lm=1410457573",
+				"name": "Iran",
+				"id": "3582"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/32341.png?lm=1615401053",
+				"name": "Iran U23",
+				"id": "32341"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/25211.png?lm=1615401053",
+				"name": "Iran U21",
+				"id": "25211"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/41202.png?lm=1615401053",
+				"name": "Iran U20",
+				"id": "41202"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/28424.png?lm=1615401054",
+				"name": "Iran U19",
+				"id": "28424"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/43040.png?lm=1615401054",
+				"name": "Iran U18",
+				"id": "43040"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/25506.png?lm=1615401054",
+				"name": "Iran U17",
+				"id": "25506"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/48682.png?lm=1615401054",
+				"name": "Iran U16",
+				"id": "48682"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53908.png?lm=1615401054",
+				"name": "Iran Olympic Team",
+				"id": "53908"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/41325.png?lm=1615401054",
+				"name": "Iran U15",
+				"id": "41325"
+			}
+		],
+		"share": {
+			"title": "Club profile Iran",
+			"url": "https://www.transfermarkt.com/iran/startseite/verein/3582",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3441",
+			"fullName": "Ghana Football Association",
+			"street": "South East Ridge",
+			"postalCode": "19338",
+			"city": "Accra",
+			"phone": "+233 (21) 910170",
+			"fax": "+233 (21) 668590",
+			"homepage": "www.ghanafa.org",
+			"founding": "Jan 1, 1957",
+			"members": "0",
+			"membersDate": "-",
+			"countryName": "Ghana",
+			"countryID": "54",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/54.png?lm=1520611569",
+			"avgAge": "25.70",
+			"squadSize": "26",
+			"legionaries": "25",
+			"internationalRank": 61,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "4945",
+			"name": "Baba Yara Sports Stadium",
+			"street": "",
+			"postalCode": "",
+			"city": "Kumasi",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "2007",
+			"totalCapacity": "40528",
+			"standingRoom": "0",
+			"seats": "0",
+			"image": ""
+		},
+		"historicImages": [],
+		"successes": [
+			{
+				"number": "4",
+				"name": "Africa Cup winner",
+				"id": "105",
+				"additionalData": {
+					"competitionId": "AFCN",
+					"competitionTypeId": "11",
+					"cycle": "x",
+					"seasonIds": ["1981", "1977", "1964", "1962"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3441.png?lm=1410462102",
+				"name": "Ghana",
+				"id": "3441"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/46770.png?lm=1437306522",
+				"name": "Ghana U23",
+				"id": "46770"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/22978.png?lm=1437306522",
+				"name": "Ghana U20",
+				"id": "22978"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/23131.png?lm=1437306522",
+				"name": "Ghana U17",
+				"id": "23131"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53847.png?lm=1462281945",
+				"name": "Ghana Olympic Team",
+				"id": "53847"
+			}
+		],
+		"share": {
+			"title": "Club profile Ghana",
+			"url": "https://www.transfermarkt.com/ghana/startseite/verein/3441",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3435",
+			"fullName": "Japan Football Association",
+			"street": "3-10-15 Hongo",
+			"postalCode": "113-0033",
+			"city": "Bunkyo-ku, Tokyo",
+			"phone": "03-3830-2004",
+			"fax": "03-3830-2005",
+			"homepage": "www.jfa.or.jp/eng",
+			"founding": "Sep 10, 1921",
+			"members": "0",
+			"membersDate": "-",
+			"countryName": "Japan",
+			"countryID": "77",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/77.png?lm=1520611569",
+			"avgAge": "28.20",
+			"squadSize": "26",
+			"legionaries": "19",
+			"internationalRank": 24,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "15039",
+			"name": "New National Stadium Shin-Kokuritsu",
+			"street": "Kasumigaoka-machi 10-2",
+			"postalCode": "〒160-0013",
+			"city": "Tokio, Tokio",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "2019",
+			"totalCapacity": "80016",
+			"standingRoom": "0",
+			"seats": "0",
+			"image": ""
+		},
+		"historicImages": [
+			"https://tmssl.akamaized.net/images/wappen/medium/3435_1522135565.png?lm=1522135565"
+		],
+		"successes": [
+			{
+				"number": "4",
+				"name": "Asian Cup winner",
+				"id": "104",
+				"additionalData": {
+					"competitionId": "AM15",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["2010", "2003", "1999", "1991"]
+				}
+			},
+			{
+				"number": "5",
+				"name": "East Asia Champion",
+				"id": "390",
+				"additionalData": {
+					"competitionId": "EAFC",
+					"competitionTypeId": "11",
+					"cycle": "x",
+					"seasonIds": ["2021", "2012", "1997", "1994", "1991"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3435.png?lm=1522135536",
+				"name": "Japan",
+				"id": "3435"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/28642.png?lm=1575803401",
+				"name": "Japan U23",
+				"id": "28642"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/29810.png?lm=1575803401",
+				"name": "Japan U21",
+				"id": "29810"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/22360.png?lm=1575803401",
+				"name": "Japan U20",
+				"id": "22360"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/28425.png?lm=1575803401",
+				"name": "Japan U19",
+				"id": "28425"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/24750.png?lm=1575803402",
+				"name": "Japan U18",
+				"id": "24750"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/25507.png?lm=1575803402",
+				"name": "Japan U17",
+				"id": "25507"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/40436.png?lm=1575803402",
+				"name": "Japan U16",
+				"id": "40436"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53813.png?lm=1575803402",
+				"name": "Japan Olympic Team",
+				"id": "53813"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/51367.png?lm=1575803402",
+				"name": "Japan U15",
+				"id": "51367"
+			}
+		],
+		"share": {
+			"title": "Club profile Japan",
+			"url": "https://www.transfermarkt.com/japan/startseite/verein/3435",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "6303",
+			"fullName": "Federación Mexicana de Fútbol Asociación",
+			"street": "373, Col. Roma Norte, Del. Cuauhtémoc",
+			"postalCode": "C.P. 06700",
+			"city": "México D.F. ",
+			"phone": "52 41 01 00",
+			"fax": "",
+			"homepage": "www.femexfut.org.mx",
+			"founding": "Aug 23, 1927",
+			"members": "0",
+			"membersDate": "Dec 2, 2019",
+			"countryName": "Mexico",
+			"countryID": "110",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/110.png?lm=1520611569",
+			"avgAge": "28.00",
+			"squadSize": "32",
+			"legionaries": "13",
+			"internationalRank": 13,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "",
+			"name": "",
+			"street": "",
+			"postalCode": "",
+			"city": "",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "",
+			"totalCapacity": "",
+			"standingRoom": "",
+			"seats": "",
+			"image": ""
+		},
+		"historicImages": [
+			"https://tmssl.akamaized.net/images/wappen/medium/6303_1638391359.png?lm=1638391359"
+		],
+		"successes": [
+			{
+				"number": "11",
+				"name": "Gold Cup Winner",
+				"id": "107",
+				"additionalData": {
+					"competitionId": "GC17",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": [
+						"2018",
+						"2014",
+						"2010",
+						"2008",
+						"2002",
+						"1997",
+						"1995",
+						"1992",
+						"1976",
+						"1970",
+						"1966"
+					]
+				}
+			},
+			{
+				"number": "1",
+				"name": "Confederations Cup Champion",
+				"id": "103",
+				"additionalData": {
+					"competitionId": "CC17",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["1998"]
+				}
+			},
+			{
+				"number": "4",
+				"name": "Winner of Panamerican Games",
+				"id": "324",
+				"additionalData": {
+					"competitionId": "",
+					"competitionTypeId": null,
+					"cycle": null,
+					"seasonIds": ["2010", "1998", "1974", "1966"]
+				}
+			},
+			{
+				"number": "1",
+				"name": "CONCACAF Championship Winner",
+				"id": "626",
+				"additionalData": {
+					"competitionId": "",
+					"competitionTypeId": null,
+					"cycle": null,
+					"seasonIds": ["1964"]
+				}
+			},
+			{
+				"number": "1",
+				"name": "Olympic champion",
+				"id": "451",
+				"additionalData": {
+					"competitionId": "OLYM",
+					"competitionTypeId": "17",
+					"cycle": "x",
+					"seasonIds": ["2011"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/6303.png?lm=1638391347",
+				"name": "Mexico",
+				"id": "6303"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/16418.png?lm=1638391347",
+				"name": "Mexico U23",
+				"id": "16418"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/45997.png?lm=1638391347",
+				"name": "Mexico U21",
+				"id": "45997"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/26092.png?lm=1638391347",
+				"name": "Mexico U20",
+				"id": "26092"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/default.png?lm=1457423031",
+				"name": "Mexico U19",
+				"id": "92717"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/51023.png?lm=1638391347",
+				"name": "Mexico U18",
+				"id": "51023"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/23134.png?lm=1638391347",
+				"name": "Mexico U17",
+				"id": "23134"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/47231.png?lm=1638391348",
+				"name": "Mexico U16",
+				"id": "47231"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53815.png?lm=1638391348",
+				"name": "Mexico Olympic Team",
+				"id": "53815"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/48724.png?lm=1638391348",
+				"name": "Mexico U15",
+				"id": "48724"
+			}
+		],
+		"share": {
+			"title": "Club profile Mexico",
+			"url": "https://www.transfermarkt.com/mexico/startseite/verein/6303",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "8497",
+			"fullName": "Federación Costarricense de Fútbol",
+			"street": "",
+			"postalCode": "",
+			"city": "",
+			"phone": "",
+			"fax": "",
+			"homepage": "www.fedefutbol.com",
+			"founding": "Jun 13, 1921",
+			"members": "0",
+			"membersDate": "Jun 14, 2016",
+			"countryName": "Costa Rica",
+			"countryID": "36",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/36.png?lm=1520611569",
+			"avgAge": "27.70",
+			"squadSize": "26",
+			"legionaries": "10",
+			"internationalRank": 31,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "4217",
+			"name": "Estadio Nacional de Costa Rica",
+			"street": "",
+			"postalCode": "",
+			"city": "San José",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "2011",
+			"totalCapacity": "35175",
+			"standingRoom": "0",
+			"seats": "0",
+			"image": ""
+		},
+		"historicImages": [
+			"https://tmssl.akamaized.net/images/wappen/medium/8497_1639040251.png?lm=1639040251"
+		],
+		"successes": [
+			{
+				"number": "8",
+				"name": "Central American Champion",
+				"id": "377",
+				"additionalData": {
+					"competitionId": "",
+					"competitionTypeId": null,
+					"cycle": null,
+					"seasonIds": ["2013", "2012", "2006", "2004", "2002", "1998", "1996", "1990"]
+				}
+			},
+			{
+				"number": "3",
+				"name": "CONCACAF Championship Winner",
+				"id": "626",
+				"additionalData": {
+					"competitionId": "",
+					"competitionTypeId": null,
+					"cycle": null,
+					"seasonIds": ["1988", "1968", "1962"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/8497.png?lm=1639040286",
+				"name": "Costa Rica",
+				"id": "8497"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/36209.png?lm=1639040286",
+				"name": "Costa Rica U23",
+				"id": "36209"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/45532.png?lm=1639040287",
+				"name": "Costa Rica U21",
+				"id": "45532"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/22977.png?lm=1639040287",
+				"name": "Costa Rica U20",
+				"id": "22977"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/25503.png?lm=1639040287",
+				"name": "Costa Rica U17",
+				"id": "25503"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/79078.png?lm=1639040287",
+				"name": "Costa Rica U16",
+				"id": "79078"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53852.png?lm=1462282075",
+				"name": "Costa Rica Olympic Team",
+				"id": "53852"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/48774.png?lm=1639040287",
+				"name": "Costa Rica U15",
+				"id": "48774"
+			}
+		],
+		"share": {
+			"title": "Club profile Costa Rica",
+			"url": "https://www.transfermarkt.com/costa-rica/startseite/verein/8497",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3300",
+			"fullName": "Federação Portuguesa de Futebol",
+			"street": "Rua Alexandre Herculano, Nº 58 ",
+			"postalCode": "1250-012",
+			"city": "Lisboa",
+			"phone": "+351 21 3252700",
+			"fax": "+351 21 3252780",
+			"homepage": "fpf.pt",
+			"founding": "Mar 31, 1914",
+			"members": "0",
+			"membersDate": "Jun 3, 2015",
+			"countryName": "Portugal",
+			"countryID": "136",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/136.png?lm=1520611569",
+			"avgAge": "27.30",
+			"squadSize": "22",
+			"legionaries": "19",
+			"internationalRank": 9,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "130",
+			"name": "Estádio da Luz",
+			"street": "Av. General Norton de Matos 1500",
+			"postalCode": "1501-805",
+			"city": "Lissabon",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "2003",
+			"totalCapacity": "65000",
+			"standingRoom": "0",
+			"seats": "65000",
+			"image": "https://tmssl.akamaized.net/images/foto/stadionnormal/benfica-lissabon-choreo-1585320770-35028.jpg?lm=1585320781"
+		},
+		"historicImages": [],
+		"successes": [
+			{
+				"number": "1",
+				"name": "European Champion",
+				"id": "102",
+				"additionalData": {
+					"competitionId": "EM20",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["2015"]
+				}
+			},
+			{
+				"number": "1",
+				"name": "Winner UEFA Nations League",
+				"id": "601",
+				"additionalData": {
+					"competitionId": "UNFI",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["2018"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3300.png?lm=1622018324",
+				"name": "Portugal",
+				"id": "3300"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53246.png?lm=1625666319",
+				"name": "Portugal B",
+				"id": "53246"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/16374.png?lm=1625666318",
+				"name": "Portugal U21",
+				"id": "16374"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/16373.png?lm=1625666318",
+				"name": "Portugal U20",
+				"id": "16373"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/16372.png?lm=1625666318",
+				"name": "Portugal U19",
+				"id": "16372"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/16371.png?lm=1625666318",
+				"name": "Portugal U18",
+				"id": "16371"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/23137.png?lm=1625666319",
+				"name": "Portugal U17",
+				"id": "23137"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/31372.png?lm=1625666319",
+				"name": "Portugal U16",
+				"id": "31372"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53807.png?lm=1622018327",
+				"name": "Portugal Olympic Team",
+				"id": "53807"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/30503.png?lm=1622018327",
+				"name": "Portugal U15",
+				"id": "30503"
+			}
+		],
+		"share": {
+			"title": "Club profile Portugal",
+			"url": "https://www.transfermarkt.com/portugal/startseite/verein/3300",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "14162",
+			"fullName": "Qatar",
+			"street": "",
+			"postalCode": "",
+			"city": "",
+			"phone": "",
+			"fax": "",
+			"homepage": "",
+			"founding": "Sep 4, 2016",
+			"members": "0",
+			"membersDate": "Sep 4, 2016",
+			"countryName": "Qatar",
+			"countryID": "137",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/137.png?lm=1520611569",
+			"avgAge": "26.90",
+			"squadSize": "30",
+			"legionaries": "0",
+			"internationalRank": 50,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "19903",
+			"name": "Lusail Iconic Stadium",
+			"street": "",
+			"postalCode": "",
+			"city": "Lusail",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "2021",
+			"totalCapacity": "80000",
+			"standingRoom": "0",
+			"seats": "0",
+			"image": "https://tmssl.akamaized.net/images/foto/stadionnormal/lusail-stadium-2022-1664260011-93253.jpg?lm=1664260028"
+		},
+		"historicImages": [],
+		"successes": [
+			{
+				"number": "1",
+				"name": "Asian Cup winner",
+				"id": "104",
+				"additionalData": {
+					"competitionId": "AM15",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["2018"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/14162.png?lm=1403456539",
+				"name": "Qatar",
+				"id": "14162"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/10830.png?lm=1547060366",
+				"name": "Qatar U23",
+				"id": "10830"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/66611.png?lm=1547060366",
+				"name": "Qatar U21",
+				"id": "66611"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/23659.png?lm=1547060366",
+				"name": "Qatar U20",
+				"id": "23659"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/39283.png?lm=1547060366",
+				"name": "Qatar U19",
+				"id": "39283"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/70284.png?lm=1547060366",
+				"name": "Qatar U18",
+				"id": "70284"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/28553.png?lm=1547060366",
+				"name": "Qatar U17",
+				"id": "28553"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/default.png?lm=1457423031",
+				"name": "Qatar U16",
+				"id": "84796"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53866.png?lm=1547060366",
+				"name": "Katar Olympia",
+				"id": "53866"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53439.png?lm=1547060366",
+				"name": "Katar U15",
+				"id": "53439"
+			}
+		],
+		"share": {
+			"title": "Club profile Qatar",
+			"url": "https://www.transfermarkt.com/qatar/startseite/verein/14162",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3379",
+			"fullName": "Koninklijke Nederlandse Voetbal Bond",
+			"street": "Woudenbergseweg 56-58",
+			"postalCode": "3700",
+			"city": "AM Zeist",
+			"phone": "+31 (343) 499201",
+			"fax": "+31 (343) 499189",
+			"homepage": "www.knvb.nl",
+			"founding": "Dec 8, 1889",
+			"members": "0",
+			"membersDate": "Jan 1, 2012",
+			"countryName": "Netherlands",
+			"countryID": "122",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/122.png?lm=1520611569",
+			"avgAge": "27.30",
+			"squadSize": "23",
+			"legionaries": "11",
+			"internationalRank": 8,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "",
+			"name": "",
+			"street": "",
+			"postalCode": "",
+			"city": "",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "",
+			"totalCapacity": "",
+			"standingRoom": "",
+			"seats": "",
+			"image": ""
+		},
+		"historicImages": [
+			"https://tmssl.akamaized.net/images/wappen/medium/3379_1402754395.png?lm=1402754396",
+			"https://tmssl.akamaized.net/images/wappen/medium/3379_1402754445.png?lm=1402754445",
+			"https://tmssl.akamaized.net/images/wappen/medium/3379_1402754534.png?lm=1402754534",
+			"https://tmssl.akamaized.net/images/wappen/medium/3379_1402754640.png?lm=1402754640",
+			"https://tmssl.akamaized.net/images/wappen/medium/3379_1402754768.png?lm=1402754768",
+			"https://tmssl.akamaized.net/images/wappen/medium/3379_1402754840.png?lm=1402754840",
+			"https://tmssl.akamaized.net/images/wappen/medium/3379_1402754950.png?lm=1402754950",
+			"https://tmssl.akamaized.net/images/wappen/medium/3379_1402755324.png?lm=1402755324",
+			"https://tmssl.akamaized.net/images/wappen/medium/11944_1482415264.png?lm=1482415264",
+			"https://tmssl.akamaized.net/images/wappen/medium/11944_1619344519.png?lm=1619344519"
+		],
+		"successes": [
+			{
+				"number": "1",
+				"name": "European Champion",
+				"id": "102",
+				"additionalData": {
+					"competitionId": "EM20",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["1987"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3379.png?lm=1622017585",
+				"name": "Netherlands",
+				"id": "3379"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/20713.png?lm=1622017585",
+				"name": "Netherlands B",
+				"id": "20713"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/11944.png?lm=1622017585",
+				"name": "Netherlands U21",
+				"id": "11944"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/16342.png?lm=1622017586",
+				"name": "Netherlands U20",
+				"id": "16342"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/16341.png?lm=1622017586",
+				"name": "Netherlands U19",
+				"id": "16341"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/16340.png?lm=1622017586",
+				"name": "Netherlands U18",
+				"id": "16340"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/10933.png?lm=1622017587",
+				"name": "Netherlands U17",
+				"id": "10933"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/39118.png?lm=1622017587",
+				"name": "Netherlands U16",
+				"id": "39118"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53838.png?lm=1622017587",
+				"name": "Netherlands Olympic Team",
+				"id": "53838"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/34684.png?lm=1622017587",
+				"name": "Netherlands U15",
+				"id": "34684"
+			}
+		],
+		"share": {
+			"title": "Club profile Netherlands",
+			"url": "https://www.transfermarkt.com/netherlands/startseite/verein/3379",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3807",
+			"fullName": "Saudi Arabian Football Federation",
+			"street": "Al Mather Quarter Prince Faisal Bin Faha",
+			"postalCode": "11432",
+			"city": "Riad",
+			"phone": "+966 11 8292888",
+			"fax": "+966 11 8292828",
+			"homepage": "saff.com.sa",
+			"founding": "Jan 1, 1956",
+			"members": "0",
+			"membersDate": "Sep 25, 2020",
+			"countryName": "Saudi Arabia",
+			"countryID": "146",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/146.png?lm=1520611569",
+			"avgAge": "27.00",
+			"squadSize": "33",
+			"legionaries": "0",
+			"internationalRank": 51,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "2301",
+			"name": "King Fahd International Stadium",
+			"street": "",
+			"postalCode": "",
+			"city": "",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "1987",
+			"totalCapacity": "70000",
+			"standingRoom": "0",
+			"seats": "0",
+			"image": ""
+		},
+		"historicImages": [],
+		"successes": [
+			{
+				"number": "3",
+				"name": "Asian Cup winner",
+				"id": "104",
+				"additionalData": {
+					"competitionId": "AM15",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["1995", "1987", "1983"]
+				}
+			},
+			{
+				"number": "2",
+				"name": "Arab Cup winner",
+				"id": "855",
+				"additionalData": {
+					"competitionId": "ARCP",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["2001", "1997"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3807.png?lm=1403452721",
+				"name": "Saudi Arabia",
+				"id": "3807"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/32240.png?lm=1616591367",
+				"name": "Saudi Arabia U23",
+				"id": "32240"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/89250.png?lm=1616591367",
+				"name": "Saudi Arabia U21",
+				"id": "89250"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/32646.png?lm=1403452721",
+				"name": "Saudi Arabia U20",
+				"id": "32646"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/28154.png?lm=1403452722",
+				"name": "Saudi Arabia U19",
+				"id": "28154"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/23139.png?lm=1403452722",
+				"name": "Saudi Arabia U17",
+				"id": "23139"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/48773.png?lm=1447767168",
+				"name": "Saudi Arabia U16",
+				"id": "48773"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53859.png?lm=1625837263",
+				"name": "Saudi-Arabien Olympia",
+				"id": "53859"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/48778.png?lm=1447767158",
+				"name": "Saudi Arabia U15",
+				"id": "48778"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/default.png?lm=1457423031",
+				"name": "Saudi Arabia U22",
+				"id": "63253"
+			}
+		],
+		"share": {
+			"title": "Club profile Saudi Arabia",
+			"url": "https://www.transfermarkt.com/saudi-arabia/startseite/verein/3807",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3575",
+			"fullName": "Fédération Royale Marocaine de Football",
+			"street": "Avenue Ibn Sina Agdal Boîte ",
+			"postalCode": "51 Rabat 1",
+			"city": "Rabat",
+			"phone": "+212 537 540600",
+			"fax": "+212 537 671070",
+			"homepage": "frmf.ma",
+			"founding": "Jan 1, 1955",
+			"members": "0",
+			"membersDate": "Sep 24, 2020",
+			"countryName": "Morocco",
+			"countryID": "107",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/107.png?lm=1520611569",
+			"avgAge": "26.80",
+			"squadSize": "26",
+			"legionaries": "23",
+			"internationalRank": 22,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "3932",
+			"name": "Stade de Marrakech",
+			"street": "",
+			"postalCode": "",
+			"city": "Marrakech",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "0",
+			"totalCapacity": "45240",
+			"standingRoom": "0",
+			"seats": "0",
+			"image": ""
+		},
+		"historicImages": [],
+		"successes": [
+			{
+				"number": "1",
+				"name": "Africa Cup winner",
+				"id": "105",
+				"additionalData": {
+					"competitionId": "AFCN",
+					"competitionTypeId": "11",
+					"cycle": "x",
+					"seasonIds": ["1975"]
+				}
+			},
+			{
+				"number": "2",
+				"name": "African Nations Championship winner",
+				"id": "873",
+				"additionalData": {
+					"competitionId": "CHAN",
+					"competitionTypeId": "11",
+					"cycle": "x",
+					"seasonIds": ["2020", "2017"]
+				}
+			},
+			{
+				"number": "1",
+				"name": "Arab Cup winner",
+				"id": "855",
+				"additionalData": {
+					"competitionId": "ARCP",
+					"competitionTypeId": "11",
+					"cycle": "x",
+					"seasonIds": ["2011"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3575.png?lm=1447621656",
+				"name": "Morocco",
+				"id": "3575"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/34903.png?lm=1447621656",
+				"name": "Morocco U23",
+				"id": "34903"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/37630.png?lm=1447621656",
+				"name": "Morocco U20",
+				"id": "37630"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/37524.png?lm=1447621656",
+				"name": "Morocco U17",
+				"id": "37524"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53820.png?lm=1462269866",
+				"name": "Morocco Olympic Team",
+				"id": "53820"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/default.png?lm=1457423031",
+				"name": "Morocco U15",
+				"id": "72607"
+			}
+		],
+		"share": {
+			"title": "Club profile Morocco",
+			"url": "https://www.transfermarkt.com/morocco/startseite/verein/3575",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3438",
+			"fullName": "Fudbalski Savez Srbije",
+			"street": "Terazije 35",
+			"postalCode": "11000",
+			"city": "Belgrad",
+			"phone": "+381 (11) 3246208",
+			"fax": "+381 (11) 3233433",
+			"homepage": "www.fss.rs",
+			"founding": "Apr 18, 1919",
+			"members": "0",
+			"membersDate": "Aug 12, 2017",
+			"countryName": "Serbia",
+			"countryID": "215",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/215.png?lm=1520611569",
+			"avgAge": "26.80",
+			"squadSize": "27",
+			"legionaries": "25",
+			"internationalRank": 21,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "401",
+			"name": "Stadion Rajko Mitić",
+			"street": "Ljutice Bogdana 1a",
+			"postalCode": "11000",
+			"city": "Belgrad",
+			"phoneTicketCenter": "+381 11 3672060",
+			"faxTicketCenter": "+381 11 3672070",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "1960",
+			"totalCapacity": "55538",
+			"standingRoom": "0",
+			"seats": "55538",
+			"image": "https://tmssl.akamaized.net/images/foto/stadionnormal/roter-stern-belgrad-stadion-1592822488-41975.jpg?lm=1592822481"
+		},
+		"historicImages": [],
+		"successes": [],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3438.png?lm=1410170856",
+				"name": "Serbia",
+				"id": "3438"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/default.png?lm=1457423031",
+				"name": "Serbia B",
+				"id": "70166"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/9566.png?lm=1410170856",
+				"name": "Serbia U21",
+				"id": "9566"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/39543.png?lm=1410170856",
+				"name": "Serbia U20",
+				"id": "39543"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/17383.png?lm=1410170856",
+				"name": "Serbia U19",
+				"id": "17383"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/21137.png?lm=1410170856",
+				"name": "Serbia U18",
+				"id": "21137"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/21136.png?lm=1410170856",
+				"name": "Serbia U17",
+				"id": "21136"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/33183.png?lm=1410170856",
+				"name": "Serbia U16",
+				"id": "33183"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53841.png?lm=1462279369",
+				"name": "Serbia Olympic Team",
+				"id": "53841"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/43925.png?lm=1410170856",
+				"name": "Serbia U15",
+				"id": "43925"
+			}
+		],
+		"share": {
+			"title": "Club profile Serbia",
+			"url": "https://www.transfermarkt.com/serbia/startseite/verein/3438",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3499",
+			"fullName": "Fédération Sénégalaise de Football",
+			"street": "VDN-Ouest-Foire",
+			"postalCode": "13021",
+			"city": "Dakar",
+			"phone": "+221 (33) 8692828",
+			"fax": "+221 (33) 8200592",
+			"homepage": "www.senegalfoot.sn",
+			"founding": "-",
+			"members": "0",
+			"membersDate": "-",
+			"countryName": "Senegal",
+			"countryID": "149",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/149.png?lm=1520611569",
+			"avgAge": "26.40",
+			"squadSize": "26",
+			"legionaries": "26",
+			"internationalRank": 18,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "3605",
+			"name": "Stade Léopold Sédar Senghor",
+			"street": "",
+			"postalCode": "",
+			"city": "Dakar",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "0",
+			"totalCapacity": "60000",
+			"standingRoom": "0",
+			"seats": "0",
+			"image": ""
+		},
+		"historicImages": [],
+		"successes": [
+			{
+				"number": "1",
+				"name": "Africa Cup winner",
+				"id": "105",
+				"additionalData": {
+					"competitionId": "AFCN",
+					"competitionTypeId": "11",
+					"cycle": "x",
+					"seasonIds": ["2021"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3499.png?lm=1403451661",
+				"name": "Senegal",
+				"id": "3499"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/34870.png?lm=1403451661",
+				"name": "Senegal U23",
+				"id": "34870"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/37497.png?lm=1403451661",
+				"name": "Senegal U20",
+				"id": "37497"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/31523.png?lm=1403451661",
+				"name": "Senegal U17",
+				"id": "31523"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53829.png?lm=1462269937",
+				"name": "Senegal Olympia",
+				"id": "53829"
+			}
+		],
+		"share": {
+			"title": "Club profile Senegal",
+			"url": "https://www.transfermarkt.com/senegal/startseite/verein/3499",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3589",
+			"fullName": "Korea Football Association",
+			"street": "KFA House 1-131, Sinmunno 2-Ga",
+			"postalCode": "",
+			"city": "Jongno-gu, Seoul",
+			"phone": "+82 (2) 7336764",
+			"fax": "+82 (2) 7352755",
+			"homepage": "www.kfa.or.kr",
+			"founding": "Sep 19, 1933",
+			"members": "0",
+			"membersDate": "Dec 8, 2019",
+			"countryName": "Korea, South",
+			"countryID": "87",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/87.png?lm=1520611569",
+			"avgAge": "27.90",
+			"squadSize": "26",
+			"legionaries": "12",
+			"internationalRank": 28,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "",
+			"name": "",
+			"street": "",
+			"postalCode": "",
+			"city": "",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "",
+			"totalCapacity": "",
+			"standingRoom": "",
+			"seats": "",
+			"image": ""
+		},
+		"historicImages": [
+			"https://tmssl.akamaized.net/images/wappen/medium/3589_1616394105.png?lm=1616394105"
+		],
+		"successes": [
+			{
+				"number": "2",
+				"name": "Asian Cup winner",
+				"id": "104",
+				"additionalData": {
+					"competitionId": "AM15",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["1959", "1955"]
+				}
+			},
+			{
+				"number": "6",
+				"name": "East Asia Champion",
+				"id": "390",
+				"additionalData": {
+					"competitionId": "EAFC",
+					"competitionTypeId": "11",
+					"cycle": "x",
+					"seasonIds": ["2018", "2016", "2014", "2007", "2002", "1989"]
+				}
+			},
+			{
+				"number": "3",
+				"name": "Asian Games Gold Medal",
+				"id": "569",
+				"additionalData": {
+					"competitionId": "AG18",
+					"competitionTypeId": "17",
+					"cycle": null,
+					"seasonIds": ["1985", "1977", "1969"]
+				}
+			},
+			{
+				"number": "1",
+				"name": "Afro-Asian Cup of Nations Winner",
+				"id": "824",
+				"additionalData": {
+					"competitionId": "",
+					"competitionTypeId": null,
+					"cycle": null,
+					"seasonIds": ["1986"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3589.png?lm=1616394123",
+				"name": "South Korea",
+				"id": "3589"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/34950.png?lm=1616394124",
+				"name": "South Korea U23",
+				"id": "34950"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/76096.png?lm=1616394124",
+				"name": "South Korea U21",
+				"id": "76096"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/22983.png?lm=1616394124",
+				"name": "South Korea U20",
+				"id": "22983"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/28208.png?lm=1616394125",
+				"name": "South Korea U19",
+				"id": "28208"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/28152.png?lm=1616394125",
+				"name": "South Korea U18",
+				"id": "28152"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/25511.png?lm=1616394125",
+				"name": "South Korea U17",
+				"id": "25511"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/66879.png?lm=1616394125",
+				"name": "South Korea U16",
+				"id": "66879"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/82319.png?lm=1616394125",
+				"name": "South Korea B",
+				"id": "82319"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53812.png?lm=1616394126",
+				"name": "South Korea Olympic Team",
+				"id": "53812"
+			}
+		],
+		"share": {
+			"title": "Club profile South Korea",
+			"url": "https://www.transfermarkt.com/south-korea/startseite/verein/3589",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3384",
+			"fullName": "Schweizerischer Fussballverband (SFV)",
+			"street": "Worbstrasse 48",
+			"postalCode": "3074",
+			"city": "Muri bei Bern",
+			"phone": "+41 31 950 81 11",
+			"fax": "+41 31 950 81 81",
+			"homepage": "www.football.ch",
+			"founding": "Apr 7, 1895",
+			"members": "290000",
+			"membersDate": "Jun 2, 2021",
+			"countryName": "Switzerland",
+			"countryID": "148",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/148.png?lm=1520611569",
+			"avgAge": "27.50",
+			"squadSize": "26",
+			"legionaries": "21",
+			"internationalRank": 15,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "",
+			"name": "",
+			"street": "",
+			"postalCode": "",
+			"city": "",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "",
+			"totalCapacity": "",
+			"standingRoom": "",
+			"seats": "",
+			"image": ""
+		},
+		"historicImages": [
+			"https://tmssl.akamaized.net/images/wappen/medium/3384_1415711745.png?lm=1415711745"
+		],
+		"successes": [],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3384.png?lm=1622018943",
+				"name": "Switzerland",
+				"id": "3384"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/9534.png?lm=1622018943",
+				"name": "Switzerland U21",
+				"id": "9534"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/16817.png?lm=1622018943",
+				"name": "Switzerland U20",
+				"id": "16817"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/19429.png?lm=1622018944",
+				"name": "Switzerland U19",
+				"id": "19429"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/22998.png?lm=1622018944",
+				"name": "Switzerland U18",
+				"id": "22998"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/23140.png?lm=1622018944",
+				"name": "Switzerland U17",
+				"id": "23140"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/28155.png?lm=1622018944",
+				"name": "Switzerland U16",
+				"id": "28155"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53823.png?lm=1622018944",
+				"name": "Switzerland Olympic Team",
+				"id": "53823"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/28436.png?lm=1622018944",
+				"name": "Switzerland U15",
+				"id": "28436"
+			}
+		],
+		"share": {
+			"title": "Club profile Switzerland",
+			"url": "https://www.transfermarkt.com/switzerland/startseite/verein/3384",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3670",
+			"fullName": "Fédération Tunisienne de Football",
+			"street": "Stade annexe d’El Menzah Cité Olympique ",
+			"postalCode": "1003",
+			"city": "El Menzah",
+			"phone": "(+216) 71 793 760 / ",
+			"fax": "(+216) 71 783 843",
+			"homepage": "www.ftf.org.tn/fr/home.asp",
+			"founding": "Jun 28, 1956",
+			"members": "0",
+			"membersDate": "Feb 24, 2020",
+			"countryName": "Tunisia",
+			"countryID": "173",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/173.png?lm=1520611569",
+			"avgAge": "27.20",
+			"squadSize": "30",
+			"legionaries": "25",
+			"internationalRank": 30,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "2939",
+			"name": "Stade Olympique de Radès",
+			"street": "",
+			"postalCode": "",
+			"city": "Rades",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "2001",
+			"totalCapacity": "60000",
+			"standingRoom": "0",
+			"seats": "60000",
+			"image": ""
+		},
+		"historicImages": [],
+		"successes": [
+			{
+				"number": "1",
+				"name": "Africa Cup winner",
+				"id": "105",
+				"additionalData": {
+					"competitionId": "AFCN",
+					"competitionTypeId": "11",
+					"cycle": "x",
+					"seasonIds": ["2003"]
+				}
+			},
+			{
+				"number": "1",
+				"name": "African Nations Championship winner",
+				"id": "873",
+				"additionalData": {
+					"competitionId": "CHAN",
+					"competitionTypeId": "11",
+					"cycle": "x",
+					"seasonIds": ["2010"]
+				}
+			},
+			{
+				"number": "1",
+				"name": "Arab Cup winner",
+				"id": "855",
+				"additionalData": {
+					"competitionId": "ARCP",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["1962"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3670.png?lm=1403450882",
+				"name": "Tunisia",
+				"id": "3670"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/49062.png?lm=1437306675",
+				"name": "Tunisia U23",
+				"id": "49062"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/26236.png?lm=1437306675",
+				"name": "Tunisia U21",
+				"id": "26236"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/43903.png?lm=1437306675",
+				"name": "Tunisia U20",
+				"id": "43903"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/42882.png?lm=1437306675",
+				"name": "Tunisia U18",
+				"id": "42882"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/27274.png?lm=1437306675",
+				"name": "Tunisia U17",
+				"id": "27274"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/46131.png?lm=1437306675",
+				"name": "Tunisia U16",
+				"id": "46131"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53849.png?lm=1462281992",
+				"name": "Tunisia Olympia",
+				"id": "53849"
+			}
+		],
+		"share": {
+			"title": "Club profile Tunisia",
+			"url": "https://www.transfermarkt.com/tunisia/startseite/verein/3670",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3442",
+			"fullName": "Polski Związek Piłki Nożnej",
+			"street": "ul. Bitwy Warszawskiej 1920 Nr. 7",
+			"postalCode": "02-366",
+			"city": "Warszawa",
+			"phone": "+48 22 5512300",
+			"fax": "+48 22 5512240",
+			"homepage": "www.pzpn.pl",
+			"founding": "Dec 20, 1919",
+			"members": "0",
+			"membersDate": "Jul 27, 2015",
+			"countryName": "Poland",
+			"countryID": "135",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/135.png?lm=1520611569",
+			"avgAge": "27.40",
+			"squadSize": "26",
+			"legionaries": "23",
+			"internationalRank": 26,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "4004",
+			"name": "PGE Narodowy",
+			"street": "al. Zieleniecka 1",
+			"postalCode": "03-901",
+			"city": "Warszawa",
+			"phoneTicketCenter": "+ 48 22 517 94 01",
+			"faxTicketCenter": "+ 48 22 517 94 35",
+			"homepage": "www.pgenarodowy.pl",
+			"ticketCenter": "sklep.pgenarodowy.pl",
+			"constructionYear": "2011",
+			"totalCapacity": "58145",
+			"standingRoom": "0",
+			"seats": "0",
+			"image": ""
+		},
+		"historicImages": [
+			"https://tmssl.akamaized.net/images/wappen/medium/3442_1522103896.png?lm=1522103896",
+			"https://tmssl.akamaized.net/images/wappen/medium/3442_1522103908.png?lm=1522103908",
+			"https://tmssl.akamaized.net/images/wappen/medium/3442_1522103919.png?lm=1522103919",
+			"https://tmssl.akamaized.net/images/wappen/medium/3442_1522103934.png?lm=1522103934",
+			"https://tmssl.akamaized.net/images/wappen/medium/3442_1522103945.png?lm=1522103945",
+			"https://tmssl.akamaized.net/images/wappen/medium/3442_1522103958.png?lm=1522103958",
+			"https://tmssl.akamaized.net/images/wappen/medium/3442_1522103972.png?lm=1522103972",
+			"https://tmssl.akamaized.net/images/wappen/medium/3442_1522103991.png?lm=1522103991",
+			"https://tmssl.akamaized.net/images/wappen/medium/3442_1522104004.png?lm=1522104004",
+			"https://tmssl.akamaized.net/images/wappen/medium/3442_1522104015.png?lm=1522104015",
+			"https://tmssl.akamaized.net/images/wappen/medium/3442_1522104026.png?lm=1522104026"
+		],
+		"successes": [
+			{
+				"number": "1",
+				"name": "Olympic champion",
+				"id": "451",
+				"additionalData": {
+					"competitionId": "OLYM",
+					"competitionTypeId": "17",
+					"cycle": "x",
+					"seasonIds": ["1971"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3442.png?lm=1622017902",
+				"name": "Poland",
+				"id": "3442"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/9324.png?lm=1622017902",
+				"name": "Poland U21",
+				"id": "9324"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/16299.png?lm=1622017903",
+				"name": "Poland U20",
+				"id": "16299"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/16298.png?lm=1622017903",
+				"name": "Poland U19",
+				"id": "16298"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/16297.png?lm=1622017903",
+				"name": "Poland U18",
+				"id": "16297"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/23136.png?lm=1622017903",
+				"name": "Poland U17",
+				"id": "23136"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/28647.png?lm=1622017904",
+				"name": "Poland U16",
+				"id": "28647"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53867.png?lm=1622017904",
+				"name": "Poland Olympic",
+				"id": "53867"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/51335.png?lm=1622017904",
+				"name": "Polska U14",
+				"id": "51335"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/28244.png?lm=1622017904",
+				"name": "Poland U15",
+				"id": "28244"
+			}
+		],
+		"share": {
+			"title": "Club profile Poland",
+			"url": "https://www.transfermarkt.com/poland/startseite/verein/3442",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3449",
+			"fullName": "Asociación Uruguaya de Fútbol",
+			"street": "Guayabos 1531",
+			"postalCode": "11200",
+			"city": "Montevideo",
+			"phone": "+59 82 4004814",
+			"fax": "+59 82 4090550",
+			"homepage": "auf.org.uy",
+			"founding": "Mar 30, 1900",
+			"members": "0",
+			"membersDate": "Jun 25, 2021",
+			"countryName": "Uruguay",
+			"countryID": "179",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/179.png?lm=1520611569",
+			"avgAge": "27.40",
+			"squadSize": "26",
+			"legionaries": "23",
+			"internationalRank": 14,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "1704",
+			"name": "Estadio Centenario",
+			"street": "",
+			"postalCode": "",
+			"city": "Montevideo",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "1930",
+			"totalCapacity": "76609",
+			"standingRoom": "0",
+			"seats": "0",
+			"image": ""
+		},
+		"historicImages": [],
+		"successes": [
+			{
+				"number": "2",
+				"name": "World Cup winner",
+				"id": "101",
+				"additionalData": {
+					"competitionId": "WM22",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["1949", "1929"]
+				}
+			},
+			{
+				"number": "15",
+				"name": "Copa América Champion",
+				"id": "106",
+				"additionalData": {
+					"competitionId": "CA16",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": [
+						"2010",
+						"1994",
+						"1986",
+						"1982",
+						"1966",
+						"1958",
+						"1955",
+						"1941",
+						"1934",
+						"1925",
+						"1923",
+						"1922",
+						"1919",
+						"1916",
+						"1915"
+					]
+				}
+			},
+			{
+				"number": "2",
+				"name": "Winner of Panamerican Games",
+				"id": "324",
+				"additionalData": {
+					"competitionId": "",
+					"competitionTypeId": null,
+					"cycle": null,
+					"seasonIds": ["2014", "1982"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3449.png?lm=1410461950",
+				"name": "Uruguay",
+				"id": "3449"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/36329.png?lm=1410461950",
+				"name": "Uruguay U23",
+				"id": "36329"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/22989.png?lm=1410461950",
+				"name": "Uruguay U20",
+				"id": "22989"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/default.png?lm=1457423031",
+				"name": "Uruguay U19",
+				"id": "66980"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/25512.png?lm=1410461950",
+				"name": "Uruguay U17",
+				"id": "25512"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/default.png?lm=1457423031",
+				"name": "Uruguay B",
+				"id": "53008"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53830.png?lm=1462270018",
+				"name": "Uruguay Olympia",
+				"id": "53830"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/default.png?lm=1457423031",
+				"name": "Uruguay U15",
+				"id": "79910"
+			}
+		],
+		"share": {
+			"title": "Club profile Uruguay",
+			"url": "https://www.transfermarkt.com/uruguay/startseite/verein/3449",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3505",
+			"fullName": "United States Soccer Federation",
+			"street": "US Soccer House 1801 S. Prairie Avenue ",
+			"postalCode": "60616",
+			"city": "Chicago, IL",
+			"phone": "+1 (312) 808-1300",
+			"fax": "+1 (312) 808-1301",
+			"homepage": "ussoccer.com",
+			"founding": "Apr 5, 1913",
+			"members": "0",
+			"membersDate": "Jun 6, 2021",
+			"countryName": "United States",
+			"countryID": "184",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/184.png?lm=1520611569",
+			"avgAge": "25.60",
+			"squadSize": "26",
+			"legionaries": "17",
+			"internationalRank": 16,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "3448",
+			"name": "MetLife Stadium",
+			"street": "1 MetLife Stadium Drive",
+			"postalCode": "07073",
+			"city": "East Rutherford, New Jersey",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "2007",
+			"totalCapacity": "82500",
+			"standingRoom": "0",
+			"seats": "0",
+			"image": "https://tmssl.akamaized.net/images/foto/stadionnormal/metlife-stadium-1655413980-87034.jpg?lm=1655414033"
+		},
+		"historicImages": [
+			"https://tmssl.akamaized.net/images/wappen/medium/3505_1464192785.png?lm=1464192785"
+		],
+		"successes": [
+			{
+				"number": "7",
+				"name": "Gold Cup Winner",
+				"id": "107",
+				"additionalData": {
+					"competitionId": "GC17",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["2020", "2016", "2012", "2006", "2004", "2001", "1990"]
+				}
+			},
+			{
+				"number": "1",
+				"name": "Winner of Panamerican Games",
+				"id": "324",
+				"additionalData": {
+					"competitionId": "",
+					"competitionTypeId": null,
+					"cycle": null,
+					"seasonIds": ["1990"]
+				}
+			},
+			{
+				"number": "1",
+				"name": "CONCACAF Nations League Winner",
+				"id": "849",
+				"additionalData": {
+					"competitionId": "CNNF",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["2019"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3505.png?lm=1464192727",
+				"name": "United States",
+				"id": "3505"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/35707.png?lm=1464192727",
+				"name": "United States U23",
+				"id": "35707"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/11946.png?lm=1464192727",
+				"name": "United States U20",
+				"id": "11946"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/28164.png?lm=1464192727",
+				"name": "United States U19",
+				"id": "28164"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/31200.png?lm=1464192727",
+				"name": "United States U18",
+				"id": "31200"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/25514.png?lm=1464192727",
+				"name": "United States U17",
+				"id": "25514"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/34700.png?lm=1464192727",
+				"name": "United States U16",
+				"id": "34700"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53846.png?lm=1464192727",
+				"name": "United States Olympic Team",
+				"id": "53846"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/28437.png?lm=1464192727",
+				"name": "United States U15",
+				"id": "28437"
+			}
+		],
+		"share": {
+			"title": "Club profile United States",
+			"url": "https://www.transfermarkt.com/united-states/startseite/verein/3505",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3375",
+			"fullName": "Real Federación Española de Fútbol",
+			"street": "Calle Ramón y Cajal",
+			"postalCode": "28230",
+			"city": "Las Rozas (Madrid)",
+			"phone": "+34 495 9800",
+			"fax": "+34 495 9800",
+			"homepage": "rfef.es",
+			"founding": "Sep 29, 1913",
+			"members": "736010",
+			"membersDate": "Jan 1, 2007",
+			"countryName": "Spain",
+			"countryID": "157",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569",
+			"avgAge": "26.70",
+			"squadSize": "25",
+			"legionaries": "7",
+			"internationalRank": 7,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "",
+			"name": "",
+			"street": "",
+			"postalCode": "",
+			"city": "",
+			"phoneTicketCenter": "",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "",
+			"totalCapacity": "",
+			"standingRoom": "",
+			"seats": "",
+			"image": ""
+		},
+		"historicImages": [],
+		"successes": [
+			{
+				"number": "1",
+				"name": "World Cup winner",
+				"id": "101",
+				"additionalData": {
+					"competitionId": "WM22",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["2009"]
+				}
+			},
+			{
+				"number": "3",
+				"name": "European Champion",
+				"id": "102",
+				"additionalData": {
+					"competitionId": "EM20",
+					"competitionTypeId": "11",
+					"cycle": null,
+					"seasonIds": ["2011", "2007", "1963"]
+				}
+			}
+		],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3375.png?lm=1616885373",
+				"name": "Spain",
+				"id": "3375"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/35742.png?lm=1616885374",
+				"name": "Spain U23",
+				"id": "35742"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/9567.png?lm=1616885374",
+				"name": "Spain U21",
+				"id": "9567"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/20911.png?lm=1616885374",
+				"name": "Spain U20",
+				"id": "20911"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/12609.png?lm=1616885374",
+				"name": "Spain U19",
+				"id": "12609"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/20947.png?lm=1616885374",
+				"name": "Spain U18",
+				"id": "20947"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/12395.png?lm=1616885374",
+				"name": "Spain U17",
+				"id": "12395"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/33775.png?lm=1616885375",
+				"name": "Spain U16",
+				"id": "33775"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/53824.png?lm=1626976512",
+				"name": "Spain Olympic Team",
+				"id": "53824"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/70910.png?lm=1616885375",
+				"name": "Spain U15",
+				"id": "70910"
+			}
+		],
+		"share": {
+			"title": "Club profile Spain",
+			"url": "https://www.transfermarkt.com/spain/startseite/verein/3375",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	},
+	{
+		"internationalTeamFlag": "x",
+		"mainFacts": {
+			"id": "3864",
+			"fullName": "The Football Association of Wales",
+			"street": "11 / 12 Neptune Court, Vanguard Way",
+			"postalCode": "CF24 5PJ",
+			"city": "Cardiff",
+			"phone": "+44 (29) 20435830",
+			"fax": "+44 (29) 20496953",
+			"homepage": "faw.org.uk",
+			"founding": "Nov 30, 1875",
+			"members": "0",
+			"membersDate": "Dec 2, 2019",
+			"countryName": "Wales",
+			"countryID": "191",
+			"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/191.png?lm=1520611569",
+			"avgAge": "26.90",
+			"squadSize": "26",
+			"legionaries": "22",
+			"internationalRank": 19,
+			"nationalPlayer": ""
+		},
+		"stadium": {
+			"id": "2733",
+			"name": "Cardiff City Stadium",
+			"street": "Leckwith Road",
+			"postalCode": "CF11 8AZ",
+			"city": "Cardiff",
+			"phoneTicketCenter": "0845 345 1400",
+			"faxTicketCenter": "",
+			"homepage": "",
+			"ticketCenter": "",
+			"constructionYear": "2009",
+			"totalCapacity": "33280",
+			"standingRoom": "0",
+			"seats": "0",
+			"image": "https://tmssl.akamaized.net/images/foto/stadionnormal/cardiff-city-stadium-1581411513-31539.jpg?lm=1581411545"
+		},
+		"historicImages": [],
+		"successes": [],
+		"additionalTeams": [
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/3864.png?lm=1622017261",
+				"name": "Wales",
+				"id": "3864"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/default.png?lm=1457423031",
+				"name": "Wales U23",
+				"id": "97412"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/34425.png?lm=1622017261",
+				"name": "Wales C",
+				"id": "34425"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/24966.png?lm=1622017262",
+				"name": "Wales U21",
+				"id": "24966"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/60387.png?lm=1622017262",
+				"name": "Wales U20",
+				"id": "60387"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/26181.png?lm=1622017262",
+				"name": "Wales U19",
+				"id": "26181"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/46496.png?lm=1622017262",
+				"name": "Wales U18",
+				"id": "46496"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/30431.png?lm=1622017263",
+				"name": "Wales U17",
+				"id": "30431"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/30329.png?lm=1622017263",
+				"name": "Wales U16",
+				"id": "30329"
+			},
+			{
+				"image": "https://tmssl.akamaized.net/images/wappen/medium/34693.png?lm=1622017263",
+				"name": "Wales U15",
+				"id": "34693"
+			}
+		],
+		"share": {
+			"title": "Club profile Wales",
+			"url": "https://www.transfermarkt.com/wales/startseite/verein/3864",
+			"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+		}
+	}
+]

@@ -1,0 +1,120 @@
+{
+	"internationalTeamFlag": "x",
+	"mainFacts": {
+		"id": "3299",
+		"fullName": "The Football Association Ltd.",
+		"street": "25 Soho Square",
+		"postalCode": "W1D 4FA ",
+		"city": "London",
+		"phone": "+44 844 9808200",
+		"fax": "+44 844 9808201",
+		"homepage": "thefa.com",
+		"founding": "Oct 26, 1863",
+		"members": "0",
+		"membersDate": "Sep 11, 2019",
+		"countryName": "England",
+		"countryID": "189",
+		"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569",
+		"avgAge": "26.60",
+		"squadSize": "29",
+		"legionaries": "1",
+		"internationalRank": 5,
+		"nationalPlayer": ""
+	},
+	"stadium": {
+		"id": "960",
+		"name": "Wembley Stadium",
+		"street": "",
+		"postalCode": "",
+		"city": "London",
+		"phoneTicketCenter": "",
+		"faxTicketCenter": "",
+		"homepage": "www.wembleystadium.com",
+		"ticketCenter": "",
+		"constructionYear": "2007",
+		"totalCapacity": "90000",
+		"standingRoom": "0",
+		"seats": "90000",
+		"image": "https://tmssl.akamaized.net/images/foto/stadionnormal/wembley-stadium-london-stadion-1585057043-34659.jpg?lm=1585057069"
+	},
+	"historicImages": [
+		"https://tmssl.akamaized.net/images/wappen/medium/3299_1624887410.png?lm=1624887410",
+		"https://tmssl.akamaized.net/images/wappen/medium/3299_1624887439.png?lm=1624887439",
+		"https://tmssl.akamaized.net/images/wappen/medium/3299_1624887454.png?lm=1624887454",
+		"https://tmssl.akamaized.net/images/wappen/medium/3299_1624887562.png?lm=1624887563",
+		"https://tmssl.akamaized.net/images/wappen/medium/3299_1624887579.png?lm=1624887579",
+		"https://tmssl.akamaized.net/images/wappen/medium/3299_1624887599.png?lm=1624887600",
+		"https://tmssl.akamaized.net/images/wappen/medium/3299_1624887621.png?lm=1624887621",
+		"https://tmssl.akamaized.net/images/wappen/medium/3299_1624887636.png?lm=1624887636"
+	],
+	"successes": [
+		{
+			"number": "1",
+			"name": "World Cup winner",
+			"id": "101",
+			"additionalData": {
+				"competitionId": "WM22",
+				"competitionTypeId": "11",
+				"cycle": null,
+				"seasonIds": ["1965"]
+			}
+		}
+	],
+	"additionalTeams": [
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/3299.png?lm=1622017648",
+			"name": "England",
+			"id": "3299"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/40453.png?lm=1622017648",
+			"name": "England C",
+			"id": "40453"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/52786.png?lm=1622017649",
+			"name": "England B",
+			"id": "52786"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/66170.png?lm=1622017649",
+			"name": "England Amateur",
+			"id": "66170"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/9565.png?lm=1622017649",
+			"name": "England U21",
+			"id": "9565"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/22907.png?lm=1622017649",
+			"name": "England U20",
+			"id": "22907"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/21340.png?lm=1622017650",
+			"name": "England U19",
+			"id": "21340"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/31269.png?lm=1622017650",
+			"name": "England U18",
+			"id": "31269"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/23260.png?lm=1622017650",
+			"name": "England U17",
+			"id": "23260"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/30322.png?lm=1622017650",
+			"name": "England U16",
+			"id": "30322"
+		}
+	],
+	"share": {
+		"title": "Club profile England",
+		"url": "https://www.transfermarkt.com/england/startseite/verein/3299",
+		"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+	}
+}

@@ -1,0 +1,257 @@
+{
+	"share": {
+		"title": "Lionel Messi - Player profile",
+		"url": "https://www.transfermarkt.com/lionel-messi/profil/spieler/28003",
+		"description": "This is the player profile of referee Lionel Messi."
+	},
+	"playerProfile": {
+		"playerID": "28003",
+		"playerImage": "https://img.a.transfermarkt.technology/portrait/medium/28003-1631171950.jpg?lm=1",
+		"playerName": "Lionel Messi",
+		"playerFullName": "Lionel Messi",
+		"birthplace": "Rosario",
+		"dateOfBirth": "Jun 24, 1987",
+		"dateOfDeath": null,
+		"playerShirtNumber": "30",
+		"birthplaceCountry": "Argentina",
+		"birthplaceCountryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569",
+		"age": "35",
+		"height": "1,70",
+		"foot": "left",
+		"internationalTeam": "Argentina",
+		"internationalTeamImage": "https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569",
+		"internationalTeamStatus": "Current international",
+		"internationalGames": "164",
+		"internationalGoals": "90",
+		"internationalTeamShortTag": "A",
+		"internationalShirtNumber": "10",
+		"internationalWmMember": true,
+		"internationalValueRank": 59,
+		"country": "Argentina",
+		"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569",
+		"countryShortName": "ARG",
+		"secondCountry": "Spain",
+		"secondCountryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569",
+		"league": "Ligue 1",
+		"leagueLogo": "https://tmssl.akamaized.net/images/logo/normal/fr1.png?lm=1648360140",
+		"clubImage": "https://tmssl.akamaized.net/images/wappen/medium/583.png?lm=1522312728",
+		"club": "Paris Saint-Germain",
+		"clubID": "583",
+		"loan": {
+			"loan": "",
+			"loanStart": "",
+			"loanUntil": "",
+			"contractOptions": "",
+			"ownerName": "",
+			"ownerID": "",
+			"ownerImage": "",
+			"ownerContractUntil": ""
+		},
+		"contractExpiryDate": "Jun 30, 2023",
+		"agent": "Relatives",
+		"agentId": "1207",
+		"agentVerificationStatus": null,
+		"agentVerificationDate": false,
+		"outfitter": "",
+		"positionGroup": "Sturm",
+		"playerMainPosition": "Second Striker",
+		"playerSecondPosition": "Centre-Forward",
+		"playerThirdPosition": "Right Winger",
+		"marketValue": "50,00",
+		"marketValueCurrency": "€",
+		"marketValueNumeral": "m",
+		"marketValueLastChange": "Nov 2, 2022",
+		"relatedness": [
+			{
+				"id": "55306",
+				"personName": "Maxi Biancucchi",
+				"personGroup": "spieler",
+				"personID": "59303",
+				"degreeOfRelationship": "cousin"
+			},
+			{
+				"id": "82727",
+				"personName": "E. Biancucchi",
+				"personGroup": "spieler",
+				"personID": "90036",
+				"degreeOfRelationship": "cousin"
+			}
+		],
+		"injury": {"id": "", "title": "", "until": "-", "rehabilitationFlag": ""},
+		"absence": {"id": "", "title": "", "until": "-", "competitionID": "", "matches": ""},
+		"allSuspensions": []
+	},
+	"performanceSeasons": [
+		{"key": "2022", "title": "22/23"},
+		{"key": "2021", "title": "21/22"},
+		{"key": "2020", "title": "20/21"},
+		{"key": "2019", "title": "19/20"},
+		{"key": "2018", "title": "18/19"},
+		{"key": "2017", "title": "17/18"},
+		{"key": "2016", "title": "16/17"},
+		{"key": "2015", "title": "15/16"},
+		{"key": "2014", "title": "14/15"},
+		{"key": "2013", "title": "13/14"},
+		{"key": "2012", "title": "12/13"},
+		{"key": "2011", "title": "11/12"},
+		{"key": "2010", "title": "10/11"},
+		{"key": "2009", "title": "09/10"},
+		{"key": "2008", "title": "08/09"},
+		{"key": "2007", "title": "07/08"},
+		{"key": "2006", "title": "06/07"},
+		{"key": "2005", "title": "05/06"},
+		{"key": "2004", "title": "04/05"}
+	],
+	"heroImages": [
+		{
+			"id": "93360",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/messi-lionel-2022-23-seleccion-argentina-1664377743-93360.jpg?lm=1664377754",
+			"source": "IMAGO"
+		},
+		{
+			"id": "89763",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-psg-2022-23-1659958415-89763.jpg?lm=1659958429",
+			"source": "imago images"
+		},
+		{
+			"id": "69935",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-psg-2021-1630297043-69935.jpg?lm=1630297056",
+			"source": "imago images"
+		},
+		{
+			"id": "68922",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-paris-saint-germain-2021-1628864113-68922.jpg?lm=1628864133",
+			"source": "imago images"
+		},
+		{
+			"id": "68725",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-paris-st-germain-2021-1628677399-68725.jpg?lm=1628677410",
+			"source": "imago images"
+		},
+		{
+			"id": "9885",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/messi-1493045428-9885.jpg?lm=1493045461",
+			"source": "imago images"
+		},
+		{
+			"id": "58808",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-fc-barcelona-2020-2021-1615872755-58808.jpg?lm=1615872773",
+			"source": "imago images"
+		},
+		{
+			"id": "39854",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/messi-barcelona-1590668606-39854.jpg?lm=1590668596",
+			"source": "TM/imago images"
+		},
+		{
+			"id": "20148",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/suarez-messi-dembele-1548687465-20148.jpg?lm=1548687490",
+			"source": "imago images"
+		},
+		{
+			"id": "41968",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-ballon-dor-2019-1592819026-41968.jpg?lm=1592819001",
+			"source": "imago images"
+		},
+		{
+			"id": "20204",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-fc-barcelona-1548770350-20204.jpg?lm=1548770369",
+			"source": "imago images"
+		},
+		{
+			"id": "26423",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/messi-1570628108-26423.jpg?lm=1570628121",
+			"source": "imago images"
+		},
+		{
+			"id": "25426",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-fc-barcelona-1567748810-25426.jpg?lm=1567748836",
+			"source": "imago images"
+		},
+		{
+			"id": "25004",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-transfermarkt-spieler-der-laliga-saison-2018-19-1566816872-25004.jpg?lm=1566816882",
+			"source": "TM/LionelMessi"
+		},
+		{
+			"id": "54096",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-fc-barcelona-1610004379-54096.jpg?lm=1610004386",
+			"source": "imago images"
+		},
+		{
+			"id": "53594",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-fc-barcelona-2020-2021-1608727492-53594.jpg?lm=1608727512",
+			"source": "imago images"
+		},
+		{
+			"id": "20199",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-luis-suarez-1548769695-20199.jpg?lm=1548769717",
+			"source": "imago images"
+		},
+		{
+			"id": "20203",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-1548770181-20203.jpg?lm=1548770203",
+			"source": "imago images"
+		},
+		{
+			"id": "12154",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-1506921740-12154.jpg?lm=1506921752",
+			"source": "imago images"
+		},
+		{
+			"id": "12248",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-1507649274-12248.jpg?lm=1507649293",
+			"source": "imago images"
+		},
+		{
+			"id": "6504",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-1478622373-6504.jpg?lm=1483606205",
+			"source": "imago images"
+		},
+		{
+			"id": "5804",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-1471008317-5804.jpg?lm=1483606110",
+			"source": "imago images"
+		},
+		{
+			"id": "5622",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-1467208453-5622.jpg?lm=1483606087",
+			"source": "imago images"
+		},
+		{
+			"id": "4925",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-1454508603-4925.jpg?lm=1483606013",
+			"source": "imago images"
+		},
+		{
+			"id": "4609",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-1421073766-4609.jpg?lm=1483605977",
+			"source": "imago images"
+		},
+		{
+			"id": "224",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-1401789362-224.jpg?lm=1483605491",
+			"source": "Getty Images"
+		},
+		{
+			"id": "219",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-1401786445-219.jpg?lm=1483605491",
+			"source": "Getty Images"
+		},
+		{
+			"id": "218",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-1401786427-218.jpg?lm=1483605491",
+			"source": "Getty Images"
+		},
+		{
+			"id": "37588",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-2007-1588590273-37588.jpg?lm=1588590278",
+			"source": "imago images"
+		},
+		{
+			"id": "6134",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/lionel-messi-1473415845-6134.jpg?lm=1483606150",
+			"source": "imago images"
+		}
+	]
+}

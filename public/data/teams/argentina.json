@@ -1,0 +1,172 @@
+{
+	"internationalTeamFlag": "x",
+	"mainFacts": {
+		"id": "3437",
+		"fullName": "Asociación del Fútbol Argentino",
+		"street": "1366 Viamonte Street",
+		"postalCode": "C1053ACB",
+		"city": "Buenos Aires",
+		"phone": "+54 11 43719400",
+		"fax": "+54 11 43754410",
+		"homepage": "www.afa.org.ar",
+		"founding": "Feb 21, 1893",
+		"members": "0",
+		"membersDate": "Jun 20, 2019",
+		"countryName": "Argentina",
+		"countryID": "9",
+		"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569",
+		"avgAge": "28.00",
+		"squadSize": "25",
+		"legionaries": "24",
+		"internationalRank": 3,
+		"nationalPlayer": ""
+	},
+	"stadium": {
+		"id": "1050",
+		"name": "Monumental Antonio V. Liberti",
+		"street": "Av. Presidente Figueroa Alcorta 7597",
+		"postalCode": "C1428",
+		"city": "Buenos Aires",
+		"phoneTicketCenter": "",
+		"faxTicketCenter": "",
+		"homepage": "",
+		"ticketCenter": "",
+		"constructionYear": "1938",
+		"totalCapacity": "72054",
+		"standingRoom": "0",
+		"seats": "0",
+		"image": ""
+	},
+	"historicImages": [],
+	"successes": [
+		{
+			"number": "2",
+			"name": "World Cup winner",
+			"id": "101",
+			"additionalData": {
+				"competitionId": "WM22",
+				"competitionTypeId": "11",
+				"cycle": null,
+				"seasonIds": ["1985", "1977"]
+			}
+		},
+		{
+			"number": "15",
+			"name": "Copa América Champion",
+			"id": "106",
+			"additionalData": {
+				"competitionId": "CA16",
+				"competitionTypeId": "11",
+				"cycle": null,
+				"seasonIds": [
+					"2020",
+					"1992",
+					"1990",
+					"1958",
+					"1956",
+					"1954",
+					"1946",
+					"1945",
+					"1944",
+					"1940",
+					"1936",
+					"1928",
+					"1926",
+					"1924",
+					"1920"
+				]
+			}
+		},
+		{
+			"number": "1",
+			"name": "Confederations Cup Champion",
+			"id": "103",
+			"additionalData": {
+				"competitionId": "CC17",
+				"competitionTypeId": "11",
+				"cycle": null,
+				"seasonIds": ["1991"]
+			}
+		},
+		{
+			"number": "7",
+			"name": "Winner of Panamerican Games",
+			"id": "324",
+			"additionalData": {
+				"competitionId": "",
+				"competitionTypeId": null,
+				"cycle": null,
+				"seasonIds": ["2018", "2002", "1994", "1970", "1958", "1954", "1950"]
+			}
+		},
+		{
+			"number": "1",
+			"name": "Panamerican Champion",
+			"id": "936",
+			"additionalData": {
+				"competitionId": "CPFU",
+				"competitionTypeId": "11",
+				"cycle": "x",
+				"seasonIds": ["1959"]
+			}
+		},
+		{
+			"number": "2",
+			"name": "CONMEBOL-UEFA Cup of Champions winner",
+			"id": "902",
+			"additionalData": {
+				"competitionId": "AFT",
+				"competitionTypeId": "11",
+				"cycle": "x",
+				"seasonIds": ["2021", "1992"]
+			}
+		}
+	],
+	"additionalTeams": [
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/3437.png?lm=1462482981",
+			"name": "Argentina",
+			"id": "3437"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/52540.png?lm=1462482981",
+			"name": "Argentina U23",
+			"id": "52540"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/11940.png?lm=1462482981",
+			"name": "Argentina U20",
+			"id": "11940"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/102981.png?lm=1665441835",
+			"name": "Argentina U19",
+			"id": "102981"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/25501.png?lm=1462482981",
+			"name": "Argentina U17",
+			"id": "25501"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/73936.png?lm=1563136023",
+			"name": "Argentina U16",
+			"id": "73936"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/53819.png?lm=1625051469",
+			"name": "Argentina Olympic Team",
+			"id": "53819"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/default.png?lm=1457423031",
+			"name": "Argentina U15",
+			"id": "82699"
+		}
+	],
+	"share": {
+		"title": "Club profile Argentina",
+		"url": "https://www.transfermarkt.com/argentina/startseite/verein/3437",
+		"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+	}
+}

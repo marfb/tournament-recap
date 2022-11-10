@@ -24,15 +24,21 @@ const DisplayImg = styled.img`
 	object-fit: cover;
 `;
 
-const CountryWrapper = styled.div`
+const CountryContainer = styled.div`
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 	position: absolute;
 	top: 20px;
 	right: 25px;
+	visibility: hidden;
+`;
+
+const CountryWrapper = styled.div`
 	width: 35px;
 	height: 26px;
 	background-color: transparent;
 	z-index: 5;
-	visibility: hidden;
 `;
 
 const CountryFlag = styled.span`
@@ -40,6 +46,22 @@ const CountryFlag = styled.span`
 	height: 100%;
 	border-radius: 3px;
 	box-shadow: -1px 1px 23px -1px ${getColor('grayscale', '900')};
+`;
+
+const CountryName = styled(Text)`
+	color: ${getColor('primary', 'light')};
+	font-weight: 500;
+	font-size: 16px;
+	margin: 5px 0 0 0;
+	text-align: center;
+`;
+
+const CountryRank = styled(Text)`
+	color: ${getColor('warning', 'main')};
+	margin-top: -3px;
+	font-size: 18px;
+	font-weight: 600;
+	text-align: center;
 `;
 
 const NameWrapper = styled.div`
@@ -85,7 +107,7 @@ const CardContainer = styled(BaseButton)`
 			background-color: transparent;
 			background-image: linear-gradient(
 				180deg,
-				${getColor('grayscale', '900')}55,
+				${getColor('grayscale', '900')}99,
 				${getColor('grayscale', '900')}
 			);
 			backdrop-filter: blur(0px);
@@ -101,8 +123,7 @@ const CardContainer = styled(BaseButton)`
 			margin-bottom: 25px;
 		}
 
-		& ${CountryWrapper} {
-			display: block;
+		& ${CountryContainer} {
 			z-index: 5;
 			visibility: inherit;
 		}
@@ -162,8 +183,11 @@ export default {
 	DisplayWrapper,
 	DisplayVideo,
 	DisplayImg,
+	CountryContainer,
 	CountryWrapper,
 	CountryFlag,
+	CountryName,
+	CountryRank,
 	NameWrapper,
 	PlayerName,
 };

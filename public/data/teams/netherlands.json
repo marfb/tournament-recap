@@ -1,0 +1,122 @@
+{
+	"internationalTeamFlag": "x",
+	"mainFacts": {
+		"id": "3379",
+		"fullName": "Koninklijke Nederlandse Voetbal Bond",
+		"street": "Woudenbergseweg 56-58",
+		"postalCode": "3700",
+		"city": "AM Zeist",
+		"phone": "+31 (343) 499201",
+		"fax": "+31 (343) 499189",
+		"homepage": "www.knvb.nl",
+		"founding": "Dec 8, 1889",
+		"members": "0",
+		"membersDate": "Jan 1, 2012",
+		"countryName": "Netherlands",
+		"countryID": "122",
+		"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/122.png?lm=1520611569",
+		"avgAge": "27.30",
+		"squadSize": "23",
+		"legionaries": "11",
+		"internationalRank": 8,
+		"nationalPlayer": ""
+	},
+	"stadium": {
+		"id": "",
+		"name": "",
+		"street": "",
+		"postalCode": "",
+		"city": "",
+		"phoneTicketCenter": "",
+		"faxTicketCenter": "",
+		"homepage": "",
+		"ticketCenter": "",
+		"constructionYear": "",
+		"totalCapacity": "",
+		"standingRoom": "",
+		"seats": "",
+		"image": ""
+	},
+	"historicImages": [
+		"https://tmssl.akamaized.net/images/wappen/medium/3379_1402754395.png?lm=1402754396",
+		"https://tmssl.akamaized.net/images/wappen/medium/3379_1402754445.png?lm=1402754445",
+		"https://tmssl.akamaized.net/images/wappen/medium/3379_1402754534.png?lm=1402754534",
+		"https://tmssl.akamaized.net/images/wappen/medium/3379_1402754640.png?lm=1402754640",
+		"https://tmssl.akamaized.net/images/wappen/medium/3379_1402754768.png?lm=1402754768",
+		"https://tmssl.akamaized.net/images/wappen/medium/3379_1402754840.png?lm=1402754840",
+		"https://tmssl.akamaized.net/images/wappen/medium/3379_1402754950.png?lm=1402754950",
+		"https://tmssl.akamaized.net/images/wappen/medium/3379_1402755324.png?lm=1402755324",
+		"https://tmssl.akamaized.net/images/wappen/medium/11944_1482415264.png?lm=1482415264",
+		"https://tmssl.akamaized.net/images/wappen/medium/11944_1619344519.png?lm=1619344519"
+	],
+	"successes": [
+		{
+			"number": "1",
+			"name": "European Champion",
+			"id": "102",
+			"additionalData": {
+				"competitionId": "EM20",
+				"competitionTypeId": "11",
+				"cycle": null,
+				"seasonIds": ["1987"]
+			}
+		}
+	],
+	"additionalTeams": [
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/3379.png?lm=1622017585",
+			"name": "Netherlands",
+			"id": "3379"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/20713.png?lm=1622017585",
+			"name": "Netherlands B",
+			"id": "20713"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/11944.png?lm=1622017585",
+			"name": "Netherlands U21",
+			"id": "11944"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/16342.png?lm=1622017586",
+			"name": "Netherlands U20",
+			"id": "16342"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/16341.png?lm=1622017586",
+			"name": "Netherlands U19",
+			"id": "16341"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/16340.png?lm=1622017586",
+			"name": "Netherlands U18",
+			"id": "16340"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/10933.png?lm=1622017587",
+			"name": "Netherlands U17",
+			"id": "10933"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/39118.png?lm=1622017587",
+			"name": "Netherlands U16",
+			"id": "39118"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/53838.png?lm=1622017587",
+			"name": "Netherlands Olympic Team",
+			"id": "53838"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/34684.png?lm=1622017587",
+			"name": "Netherlands U15",
+			"id": "34684"
+		}
+	],
+	"share": {
+		"title": "Club profile Netherlands",
+		"url": "https://www.transfermarkt.com/netherlands/startseite/verein/3379",
+		"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+	}
+}

@@ -1,0 +1,95 @@
+{
+	"share": {
+		"title": "Akram Afif - Player profile",
+		"url": "https://www.transfermarkt.com/akram-afif/profil/spieler/336646",
+		"description": "This is the player profile of referee Akram Afif."
+	},
+	"playerProfile": {
+		"playerID": "336646",
+		"playerImage": "https://img.a.transfermarkt.technology/portrait/medium/336646-1482399553.jpg?lm=1",
+		"playerName": "Akram Afif",
+		"playerFullName": "Akram Afif",
+		"birthplace": "Doha",
+		"dateOfBirth": "Nov 18, 1996",
+		"dateOfDeath": null,
+		"playerShirtNumber": "15",
+		"birthplaceCountry": "Qatar",
+		"birthplaceCountryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/137.png?lm=1520611569",
+		"age": "25",
+		"height": "1,77",
+		"foot": "right",
+		"internationalTeam": "Qatar",
+		"internationalTeamImage": "https://tmssl.akamaized.net/images/flagge/verysmall/137.png?lm=1520611569",
+		"internationalTeamStatus": "Current international",
+		"internationalGames": "83",
+		"internationalGoals": "24",
+		"internationalTeamShortTag": "A",
+		"internationalShirtNumber": "11",
+		"internationalWmMember": true,
+		"internationalValueRank": 439,
+		"country": "Qatar",
+		"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/137.png?lm=1520611569",
+		"countryShortName": "QAT",
+		"secondCountry": "Tanzania",
+		"secondCountryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/166.png?lm=1520611569",
+		"league": "Qatar Stars League",
+		"leagueLogo": "https://tmssl.akamaized.net/images/logo/normal/qsl.png?lm=1404288206",
+		"clubImage": "https://tmssl.akamaized.net/images/wappen/medium/656.png?lm=1600537818",
+		"club": "Al-Sadd SC",
+		"clubID": "656",
+		"loan": {
+			"loan": "",
+			"loanStart": "",
+			"loanUntil": "",
+			"contractOptions": "",
+			"ownerName": "",
+			"ownerID": "",
+			"ownerImage": "",
+			"ownerContractUntil": ""
+		},
+		"contractExpiryDate": "Jun 30, 2025",
+		"agent": "Relatives",
+		"agentId": "1207",
+		"agentVerificationStatus": null,
+		"agentVerificationDate": false,
+		"outfitter": "",
+		"positionGroup": "Sturm",
+		"playerMainPosition": "Left Winger",
+		"playerSecondPosition": "Centre-Forward",
+		"playerThirdPosition": "Right Winger",
+		"marketValue": "4,00",
+		"marketValueCurrency": "€",
+		"marketValueNumeral": "m",
+		"marketValueLastChange": "Nov 10, 2022",
+		"relatedness": [
+			{
+				"id": "64864",
+				"personName": "Ali Afif",
+				"personGroup": "spieler",
+				"personID": "70240",
+				"degreeOfRelationship": "brother"
+			}
+		],
+		"injury": {"id": "", "title": "", "until": "-", "rehabilitationFlag": ""},
+		"absence": {"id": "", "title": "", "until": "-", "competitionID": "", "matches": ""},
+		"allSuspensions": []
+	},
+	"performanceSeasons": [
+		{"key": "2022", "title": "22/23"},
+		{"key": "2021", "title": "21/22"},
+		{"key": "2020", "title": "20/21"},
+		{"key": "2019", "title": "19/20"},
+		{"key": "2018", "title": "18/19"},
+		{"key": "2017", "title": "17/18"},
+		{"key": "2016", "title": "16/17"},
+		{"key": "2015", "title": "15/16"},
+		{"key": "2014", "title": "14/15"}
+	],
+	"heroImages": [
+		{
+			"id": "22442",
+			"url": "https://tmssl.akamaized.net/images/foto/normal/akram-afif-halt-einen-pokal-hoch-1558952727-22442.jpg?lm=1558952742",
+			"source": "imago images"
+		}
+	]
+}

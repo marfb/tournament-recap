@@ -1,0 +1,111 @@
+{
+	"internationalTeamFlag": "x",
+	"mainFacts": {
+		"id": "14162",
+		"fullName": "Qatar",
+		"street": "",
+		"postalCode": "",
+		"city": "",
+		"phone": "",
+		"fax": "",
+		"homepage": "",
+		"founding": "Sep 4, 2016",
+		"members": "0",
+		"membersDate": "Sep 4, 2016",
+		"countryName": "Qatar",
+		"countryID": "137",
+		"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/137.png?lm=1520611569",
+		"avgAge": "26.90",
+		"squadSize": "30",
+		"legionaries": "0",
+		"internationalRank": 50,
+		"nationalPlayer": ""
+	},
+	"stadium": {
+		"id": "19903",
+		"name": "Lusail Iconic Stadium",
+		"street": "",
+		"postalCode": "",
+		"city": "Lusail",
+		"phoneTicketCenter": "",
+		"faxTicketCenter": "",
+		"homepage": "",
+		"ticketCenter": "",
+		"constructionYear": "2021",
+		"totalCapacity": "80000",
+		"standingRoom": "0",
+		"seats": "0",
+		"image": "https://tmssl.akamaized.net/images/foto/stadionnormal/lusail-stadium-2022-1664260011-93253.jpg?lm=1664260028"
+	},
+	"historicImages": [],
+	"successes": [
+		{
+			"number": "1",
+			"name": "Asian Cup winner",
+			"id": "104",
+			"additionalData": {
+				"competitionId": "AM15",
+				"competitionTypeId": "11",
+				"cycle": null,
+				"seasonIds": ["2018"]
+			}
+		}
+	],
+	"additionalTeams": [
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/14162.png?lm=1403456539",
+			"name": "Qatar",
+			"id": "14162"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/10830.png?lm=1547060366",
+			"name": "Qatar U23",
+			"id": "10830"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/66611.png?lm=1547060366",
+			"name": "Qatar U21",
+			"id": "66611"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/23659.png?lm=1547060366",
+			"name": "Qatar U20",
+			"id": "23659"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/39283.png?lm=1547060366",
+			"name": "Qatar U19",
+			"id": "39283"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/70284.png?lm=1547060366",
+			"name": "Qatar U18",
+			"id": "70284"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/28553.png?lm=1547060366",
+			"name": "Qatar U17",
+			"id": "28553"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/default.png?lm=1457423031",
+			"name": "Qatar U16",
+			"id": "84796"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/53866.png?lm=1547060366",
+			"name": "Katar Olympia",
+			"id": "53866"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/53439.png?lm=1547060366",
+			"name": "Katar U15",
+			"id": "53439"
+		}
+	],
+	"share": {
+		"title": "Club profile Qatar",
+		"url": "https://www.transfermarkt.com/qatar/startseite/verein/14162",
+		"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+	}
+}

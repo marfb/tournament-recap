@@ -8,7 +8,8 @@
 		"conf": "afc",
 		"group": "a",
 		"teamRank": 50,
-		"youtubeId": "DLzZAwTP71Y"
+		"youtubeId": "DLzZAwTP71Y",
+		"playerMainPosition": "Left Winger"
 	},
 	{
 		"firstName": "Moises",
@@ -19,7 +20,8 @@
 		"conf": "conmebol",
 		"group": "a",
 		"teamRank": 44,
-		"youtubeId": "lGve5fB9Law"
+		"youtubeId": "lGve5fB9Law",
+		"playerMainPosition": "Central Midfield"
 	},
 	{
 		"firstName": "Kalidou",
@@ -30,7 +32,8 @@
 		"conf": "caf",
 		"group": "a",
 		"teamRank": 18,
-		"youtubeId": "oye-NOyuAak"
+		"youtubeId": "oye-NOyuAak",
+		"playerMainPosition": "Centre-Back"
 	},
 	{
 		"firstName": "Virgil",
@@ -41,7 +44,8 @@
 		"conf": "uefa",
 		"group": "a",
 		"teamRank": 8,
-		"youtubeId": "HCGd9cz3NY0"
+		"youtubeId": "HCGd9cz3NY0",
+		"playerMainPosition": "Centre-Back"
 	},
 	{
 		"firstName": "Harry",
@@ -69,7 +73,7 @@
 		"firstName": "Christian",
 		"lastName": "Pulisic",
 		"slug": "pulisic",
-		"country": "United States of America",
+		"country": "USA",
 		"countryCode": "us",
 		"conf": "concacaf",
 		"group": "b",

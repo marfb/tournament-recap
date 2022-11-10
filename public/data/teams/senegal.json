@@ -1,0 +1,86 @@
+{
+	"internationalTeamFlag": "x",
+	"mainFacts": {
+		"id": "3499",
+		"fullName": "Fédération Sénégalaise de Football",
+		"street": "VDN-Ouest-Foire",
+		"postalCode": "13021",
+		"city": "Dakar",
+		"phone": "+221 (33) 8692828",
+		"fax": "+221 (33) 8200592",
+		"homepage": "www.senegalfoot.sn",
+		"founding": "-",
+		"members": "0",
+		"membersDate": "-",
+		"countryName": "Senegal",
+		"countryID": "149",
+		"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/149.png?lm=1520611569",
+		"avgAge": "26.40",
+		"squadSize": "26",
+		"legionaries": "26",
+		"internationalRank": 18,
+		"nationalPlayer": ""
+	},
+	"stadium": {
+		"id": "3605",
+		"name": "Stade Léopold Sédar Senghor",
+		"street": "",
+		"postalCode": "",
+		"city": "Dakar",
+		"phoneTicketCenter": "",
+		"faxTicketCenter": "",
+		"homepage": "",
+		"ticketCenter": "",
+		"constructionYear": "0",
+		"totalCapacity": "60000",
+		"standingRoom": "0",
+		"seats": "0",
+		"image": ""
+	},
+	"historicImages": [],
+	"successes": [
+		{
+			"number": "1",
+			"name": "Africa Cup winner",
+			"id": "105",
+			"additionalData": {
+				"competitionId": "AFCN",
+				"competitionTypeId": "11",
+				"cycle": "x",
+				"seasonIds": ["2021"]
+			}
+		}
+	],
+	"additionalTeams": [
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/3499.png?lm=1403451661",
+			"name": "Senegal",
+			"id": "3499"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/34870.png?lm=1403451661",
+			"name": "Senegal U23",
+			"id": "34870"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/37497.png?lm=1403451661",
+			"name": "Senegal U20",
+			"id": "37497"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/31523.png?lm=1403451661",
+			"name": "Senegal U17",
+			"id": "31523"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/53829.png?lm=1462269937",
+			"name": "Senegal Olympia",
+			"id": "53829"
+		}
+	],
+	"share": {
+		"title": "Club profile Senegal",
+		"url": "https://www.transfermarkt.com/senegal/startseite/verein/3499",
+		"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+	}
+}

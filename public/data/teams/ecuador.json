@@ -1,0 +1,90 @@
+{
+    "internationalTeamFlag": "x",
+    "mainFacts": {
+      "id": "5750",
+      "fullName": "Federación Ecuatoriana de Fútbol",
+      "street": "",
+      "postalCode": "",
+      "city": "",
+      "phone": "",
+      "fax": "",
+      "homepage": "www.fef.ec",
+      "founding": "May 30, 1925",
+      "members": "0",
+      "membersDate": "Oct 8, 2021",
+      "countryName": "Ecuador",
+      "countryID": "44",
+      "countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/44.png?lm=1520611569",
+      "avgAge": "25.30",
+      "squadSize": "28",
+      "legionaries": "24",
+      "internationalRank": 44,
+      "nationalPlayer": ""
+    },
+    "stadium": {
+      "id": "1702",
+      "name": "Estadio Olímpico Atahualpa",
+      "street": "",
+      "postalCode": "",
+      "city": "Quito",
+      "phoneTicketCenter": "",
+      "faxTicketCenter": "",
+      "homepage": "",
+      "ticketCenter": "",
+      "constructionYear": "1951",
+      "totalCapacity": "39861",
+      "standingRoom": "0",
+      "seats": "0",
+      "image": ""
+    },
+    "historicImages": [
+      "https://tmssl.akamaized.net/images/wappen/medium/5750_1578989332.png?lm=1578989332"
+    ],
+    "successes": [
+      {
+        "number": "1",
+        "name": "Winner of Panamerican Games",
+        "id": "324",
+        "additionalData": {
+          "competitionId": "",
+          "competitionTypeId": null,
+          "cycle": null,
+          "seasonIds": [
+            "2006"
+          ]
+        }
+      }
+    ],
+    "additionalTeams": [
+      {
+        "image": "https://tmssl.akamaized.net/images/wappen/medium/5750.png?lm=1578984500",
+        "name": "Ecuador",
+        "id": "5750"
+      },
+      {
+        "image": "https://tmssl.akamaized.net/images/wappen/medium/75238.png?lm=1578984500",
+        "name": "Ecuador U23",
+        "id": "75238"
+      },
+      {
+        "image": "https://tmssl.akamaized.net/images/wappen/medium/31463.png?lm=1578984500",
+        "name": "Ecuador U20",
+        "id": "31463"
+      },
+      {
+        "image": "https://tmssl.akamaized.net/images/wappen/medium/29809.png?lm=1578984500",
+        "name": "Ecuador U17",
+        "id": "29809"
+      },
+      {
+        "image": "https://tmssl.akamaized.net/images/wappen/medium/51509.png?lm=1578984500",
+        "name": "Ecuador U15",
+        "id": "51509"
+      }
+    ],
+    "share": {
+      "title": "Club profile Ecuador",
+      "url": "https://www.transfermarkt.com/ecuador/startseite/verein/5750",
+      "description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+    }
+  }

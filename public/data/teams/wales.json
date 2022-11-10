@@ -1,0 +1,99 @@
+{
+	"internationalTeamFlag": "x",
+	"mainFacts": {
+		"id": "3864",
+		"fullName": "The Football Association of Wales",
+		"street": "11 / 12 Neptune Court, Vanguard Way",
+		"postalCode": "CF24 5PJ",
+		"city": "Cardiff",
+		"phone": "+44 (29) 20435830",
+		"fax": "+44 (29) 20496953",
+		"homepage": "faw.org.uk",
+		"founding": "Nov 30, 1875",
+		"members": "0",
+		"membersDate": "Dec 2, 2019",
+		"countryName": "Wales",
+		"countryID": "191",
+		"countryImage": "https://tmssl.akamaized.net/images/flagge/verysmall/191.png?lm=1520611569",
+		"avgAge": "26.90",
+		"squadSize": "26",
+		"legionaries": "22",
+		"internationalRank": 19,
+		"nationalPlayer": ""
+	},
+	"stadium": {
+		"id": "2733",
+		"name": "Cardiff City Stadium",
+		"street": "Leckwith Road",
+		"postalCode": "CF11 8AZ",
+		"city": "Cardiff",
+		"phoneTicketCenter": "0845 345 1400",
+		"faxTicketCenter": "",
+		"homepage": "",
+		"ticketCenter": "",
+		"constructionYear": "2009",
+		"totalCapacity": "33280",
+		"standingRoom": "0",
+		"seats": "0",
+		"image": "https://tmssl.akamaized.net/images/foto/stadionnormal/cardiff-city-stadium-1581411513-31539.jpg?lm=1581411545"
+	},
+	"historicImages": [],
+	"successes": [],
+	"additionalTeams": [
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/3864.png?lm=1622017261",
+			"name": "Wales",
+			"id": "3864"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/default.png?lm=1457423031",
+			"name": "Wales U23",
+			"id": "97412"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/34425.png?lm=1622017261",
+			"name": "Wales C",
+			"id": "34425"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/24966.png?lm=1622017262",
+			"name": "Wales U21",
+			"id": "24966"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/60387.png?lm=1622017262",
+			"name": "Wales U20",
+			"id": "60387"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/26181.png?lm=1622017262",
+			"name": "Wales U19",
+			"id": "26181"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/46496.png?lm=1622017262",
+			"name": "Wales U18",
+			"id": "46496"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/30431.png?lm=1622017263",
+			"name": "Wales U17",
+			"id": "30431"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/30329.png?lm=1622017263",
+			"name": "Wales U16",
+			"id": "30329"
+		},
+		{
+			"image": "https://tmssl.akamaized.net/images/wappen/medium/34693.png?lm=1622017263",
+			"name": "Wales U15",
+			"id": "34693"
+		}
+	],
+	"share": {
+		"title": "Club profile Wales",
+		"url": "https://www.transfermarkt.com/wales/startseite/verein/3864",
+		"description": "This is the club's info page. Finf the current squad, relevant news, the latest rumours and all important information about the club."
+	}
+}

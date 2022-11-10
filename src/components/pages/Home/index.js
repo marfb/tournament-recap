@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react';
 import axios from 'axios';
 import PlayerCard from 'UI/molecules/PlayerCard';
-import {validateArray} from 'utils';
+import {validateArray, setCache, getCache} from 'utils';
 import useDeviceWidth from 'hooks/useDeviceWidth';
 import styles from './styles';
 
@@ -35,6 +35,7 @@ const Home = () => {
 		const {data} = await axios('./data/players.json');
 		if (data && validateArray(data)) setPlayersData(data);
 		if (!playersFiltered.length) setPlayersFiltered(data);
+		setCache('playersData', data, 1);
 		setTimeout(() => setLoading(false), 1500);
 	};
 
@@ -60,12 +61,17 @@ const Home = () => {
 	};
 
 	useEffect(() => {
-		getPlayers();
-	}, []);
-
-	useEffect(() => {
 		handleFilterAndOrder();
 	}, [selectedGroup, selectedConf, selectedOrder]);
+
+	useEffect(() => {
+		const cachedData = getCache('playersData');
+		if (cachedData && validateArray(cachedData)) {
+			setPlayersData(cachedData);
+			setPlayersFiltered(cachedData);
+			setLoading(false);
+		} else getPlayers();
+	}, []);
 
 	return (
 		<styles.PageContainer>
@@ -134,16 +140,20 @@ const Home = () => {
 				{loading && <styles.Skeleton />}
 				{!loading && playersToRender && (
 					<styles.PlayersWrapper>
-						{playersFiltered.map(({firstName, lastName, slug, countryCode, youtubeId}, idx) => (
-							<PlayerCard
-								firstName={firstName}
-								lastName={lastName}
-								video={youtubeId}
-								placeholderImg={`./media/players/${slug}.jpg`}
-								countryCode={countryCode}
-								key={`player-${idx + 1}`}
-							/>
-						))}
+						{playersFiltered.map(
+							({firstName, lastName, slug, countryCode, country, teamRank, youtubeId}, idx) => (
+								<PlayerCard
+									firstName={firstName}
+									lastName={lastName}
+									video={youtubeId}
+									placeholderImg={`./media/players/${slug}.jpg`}
+									countryCode={countryCode}
+									country={country}
+									teamRank={teamRank}
+									key={`player-${idx + 1}`}
+								/>
+							)
+						)}
 					</styles.PlayersWrapper>
 				)}
 				{!loading && !playersToRender && (
