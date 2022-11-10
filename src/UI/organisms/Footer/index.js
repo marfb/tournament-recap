@@ -13,10 +13,10 @@ const Footer = () => (
 					<styles.Copy>MFB © 2022</styles.Copy>
 				</styles.CopyWrapper>
 				<styles.SocialWrapper>
-					<styles.SocialLink>
+					<styles.SocialLink href="https://twitter.com/mfb_dev" target="_blank">
 						<styles.SocialIcon iconName="FiTwitter" />
 					</styles.SocialLink>
-					<styles.SocialLink>
+					<styles.SocialLink href="https://github.com/marfb/tournament-recap" target="_blank">
 						<styles.SocialIcon iconName="FiGithub" />
 					</styles.SocialLink>
 				</styles.SocialWrapper>

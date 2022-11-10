@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import BaseButton from 'UI/atoms/BaseButton';
 import MuiIcon from 'UI/atoms/Icon/MaterialUI';
 import Text from 'UI/atoms/Text';
 import {getColor} from 'theme/utils';
@@ -54,11 +53,11 @@ const SocialWrapper = styled.div`
 	justify-content: flex-end;
 `;
 
-const SocialLink = styled(BaseButton)`
+const SocialLink = styled.a`
 	border: none;
 	background: transparent;
-	width: 30px;
-	height: 30px;
+	width: 15px;
+	height: 15px;
 	margin: 0 5px;
 	cursor: pointer;
 `;
