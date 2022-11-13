@@ -2,7 +2,7 @@
 	{
 		"firstName": "Akram",
 		"lastName": "Afif",
-		"slug": "afif",
+		"slug": "akram-afif",
 		"country": "Qatar",
 		"countryCode": "qa",
 		"conf": "afc",
@@ -14,7 +14,7 @@
 	{
 		"firstName": "Moises",
 		"lastName": "Caicedo",
-		"slug": "caicedo",
+		"slug": "moises-caicedo",
 		"country": "Ecuador",
 		"countryCode": "ec",
 		"conf": "conmebol",
@@ -26,7 +26,7 @@
 	{
 		"firstName": "Kalidou",
 		"lastName": "Koulibaly",
-		"slug": "koulibaly",
+		"slug": "kalidou-koulibaly",
 		"country": "Senegal",
 		"countryCode": "sn",
 		"conf": "caf",
@@ -38,7 +38,7 @@
 	{
 		"firstName": "Virgil",
 		"lastName": "Van Dijk",
-		"slug": "vandijk",
+		"slug": "virgil-van-dijk",
 		"country": "Netherlands",
 		"countryCode": "nl",
 		"conf": "uefa",
@@ -50,7 +50,7 @@
 	{
 		"firstName": "Harry",
 		"lastName": "Kane",
-		"slug": "kane",
+		"slug": "harry-kane",
 		"country": "England",
 		"countryCode": "gb-eng",
 		"conf": "uefa",
@@ -61,7 +61,7 @@
 	{
 		"firstName": "Sardar",
 		"lastName": "Azmoun",
-		"slug": "azmoun",
+		"slug": "sardar-azmoun",
 		"country": "Iran",
 		"countryCode": "ir",
 		"conf": "afc",
@@ -72,7 +72,7 @@
 	{
 		"firstName": "Christian",
 		"lastName": "Pulisic",
-		"slug": "pulisic",
+		"slug": "christian-pulisic",
 		"country": "USA",
 		"countryCode": "us",
 		"conf": "concacaf",
@@ -83,7 +83,7 @@
 	{
 		"firstName": "Gareth",
 		"lastName": "Bale",
-		"slug": "bale",
+		"slug": "gareth-bale",
 		"country": "Wales",
 		"countryCode": "gb-wls",
 		"conf": "uefa",
@@ -94,7 +94,7 @@
 	{
 		"firstName": "Lionel",
 		"lastName": "Messi",
-		"slug": "messi",
+		"slug": "lionel-messi",
 		"country": "Argentina",
 		"countryCode": "ar",
 		"conf": "conmebol",
@@ -105,7 +105,7 @@
 	{
 		"firstName": "Salem",
 		"lastName": "Al-Dawsari",
-		"slug": "aldawsari",
+		"slug": "salem-al-dawsari",
 		"country": "Saudi Arabia",
 		"countryCode": "sa",
 		"conf": "afc",
@@ -116,7 +116,7 @@
 	{
 		"firstName": "Hirving",
 		"lastName": "Lozano",
-		"slug": "lozano",
+		"slug": "hirving-lozano",
 		"country": "Mexico",
 		"countryCode": "mx",
 		"conf": "concacaf",
@@ -127,7 +127,7 @@
 	{
 		"firstName": "Robert",
 		"lastName": "Lewandowski",
-		"slug": "lewandowski",
+		"slug": "robert-lewandowski",
 		"country": "Poland",
 		"countryCode": "pl",
 		"conf": "uefa",
@@ -138,7 +138,7 @@
 	{
 		"firstName": "Kylian",
 		"lastName": "Mbappe",
-		"slug": "mbappe",
+		"slug": "kylian-mbappe",
 		"country": "France",
 		"countryCode": "fr",
 		"conf": "uefa",
@@ -149,7 +149,7 @@
 	{
 		"firstName": "Mathew",
 		"lastName": "Ryan",
-		"slug": "ryan",
+		"slug": "mathew-ryan",
 		"country": "Autralia",
 		"countryCode": "au",
 		"conf": "afc",
@@ -160,7 +160,7 @@
 	{
 		"firstName": "Christian",
 		"lastName": "Eriksen",
-		"slug": "eriksen",
+		"slug": "christian-eriksen",
 		"country": "Denmark",
 		"countryCode": "dk",
 		"conf": "uefa",
@@ -171,7 +171,7 @@
 	{
 		"firstName": "Wahbi",
 		"lastName": "Khazri",
-		"slug": "khazri",
+		"slug": "wahbi-khazri",
 		"country": "Tunisia",
 		"countryCode": "tn",
 		"conf": "caf",
@@ -193,7 +193,7 @@
 	{
 		"firstName": "Keylor",
 		"lastName": "Navas",
-		"slug": "navas",
+		"slug": "keylor-navas",
 		"country": "Costa Rica",
 		"countryCode": "cr",
 		"conf": "concacaf",
@@ -204,7 +204,7 @@
 	{
 		"firstName": "Joshua",
 		"lastName": "Kimmich",
-		"slug": "kimmich",
+		"slug": "joshua-kimmich",
 		"country": "Germany",
 		"countryCode": "de",
 		"conf": "uefa",
@@ -215,7 +215,7 @@
 	{
 		"firstName": "Daichi",
 		"lastName": "Kamada",
-		"slug": "kamada",
+		"slug": "daichi-kamada",
 		"country": "Japan",
 		"countryCode": "jp",
 		"conf": "afc",
@@ -226,7 +226,7 @@
 	{
 		"firstName": "Kevin",
 		"lastName": "De Bruyne",
-		"slug": "debruyne",
+		"slug": "kalidou-koulibaly",
 		"country": "Belgium",
 		"countryCode": "be",
 		"conf": "uefa",
@@ -237,7 +237,7 @@
 	{
 		"firstName": "Alphonso",
 		"lastName": "Davies",
-		"slug": "davies",
+		"slug": "alphonso-davies",
 		"country": "Canada",
 		"countryCode": "ca",
 		"conf": "concacaf",
@@ -248,7 +248,7 @@
 	{
 		"firstName": "Achraf",
 		"lastName": "Hakimi",
-		"slug": "hakimi",
+		"slug": "achraf-hakimi",
 		"country": "Morocco",
 		"countryCode": "ma",
 		"conf": "caf",
@@ -259,7 +259,7 @@
 	{
 		"firstName": "Luka",
 		"lastName": "Modric",
-		"slug": "modric",
+		"slug": "luka-modric",
 		"country": "Croatia",
 		"countryCode": "hr",
 		"conf": "uefa",
@@ -281,7 +281,7 @@
 	{
 		"firstName": "Filip",
 		"lastName": "Kostic",
-		"slug": "kostic",
+		"slug": "filip-kostic",
 		"country": "Serbia",
 		"countryCode": "rs",
 		"conf": "uefa",
@@ -292,7 +292,7 @@
 	{
 		"firstName": "Yann",
 		"lastName": "Sommer",
-		"slug": "sommer",
+		"slug": "yann-sommer",
 		"country": "Switzerland",
 		"countryCode": "ch",
 		"conf": "uefa",
@@ -303,7 +303,7 @@
 	{
 		"firstName": "Andre",
 		"lastName": "Onana",
-		"slug": "onana",
+		"slug": "andre-onana",
 		"country": "Cameroon",
 		"countryCode": "cm",
 		"conf": "caf",
@@ -314,7 +314,7 @@
 	{
 		"firstName": "Cristiano",
 		"lastName": "Ronaldo",
-		"slug": "ronaldo",
+		"slug": "cristiano-ronaldo",
 		"country": "Portugal",
 		"countryCode": "pt",
 		"conf": "uefa",
@@ -325,7 +325,7 @@
 	{
 		"firstName": "Iñaki",
 		"lastName": "Williams",
-		"slug": "williams",
+		"slug": "inaki-williams",
 		"country": "Ghana",
 		"countryCode": "gh",
 		"conf": "caf",
@@ -336,7 +336,7 @@
 	{
 		"firstName": "Federico",
 		"lastName": "Valverde",
-		"slug": "valverde",
+		"slug": "federico-valverde",
 		"country": "Uruguay",
 		"countryCode": "uy",
 		"conf": "conmebol",
@@ -347,7 +347,7 @@
 	{
 		"firstName": "Heung-min",
 		"lastName": "Son",
-		"slug": "son",
+		"slug": "heung-min-son",
 		"country": "South Korea",
 		"countryCode": "kr",
 		"conf": "afc",

@@ -1,10 +1,16 @@
 import React from 'react';
-import {RouterProvider} from 'react-router-dom';
-import router from 'routes';
+import RoutedApp from 'routes';
+import {BrowserRouter} from 'react-router-dom';
+import Header from 'UI/organisms/Header';
+import Footer from 'UI/organisms/Footer';
 
 const App = () => (
 	<React.StrictMode>
-		<RouterProvider router={router} />
+		<BrowserRouter>
+			<Header />
+			<RoutedApp />
+			<Footer />
+		</BrowserRouter>
 	</React.StrictMode>
 );
 

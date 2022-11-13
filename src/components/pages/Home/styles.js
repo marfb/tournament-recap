@@ -5,6 +5,7 @@ import {getColor} from 'theme/utils';
 import Button from 'UI/atoms/Button';
 import Text from 'UI/atoms/Text';
 import CardsGrid from 'UI/organisms/Skeletons/CardsGrid';
+import {motion} from 'framer-motion';
 
 const PageContainer = styled(Main)`
 	background-color: ${getColor('surface', 'pagebackground')};
@@ -187,7 +188,7 @@ const OrderSelect = styled(Dropdown)`
 	}
 `;
 
-const PlayersWrapper = styled.div`
+const PlayersWrapper = styled(motion.div)`
 	display: grid;
 	grid-template-columns: repeat(auto-fill, 290px);
 	justify-content: center;

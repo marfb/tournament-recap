@@ -1,8 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import {node, oneOfType, arrayOf} from 'prop-types';
 import {debounce} from 'utils';
-import Header from 'UI/organisms/Header';
-import Footer from 'UI/organisms/Footer';
 import Styles from './styles';
 
 const Main = ({children, ...props}) => {
@@ -20,10 +18,14 @@ const Main = ({children, ...props}) => {
 	}, []);
 
 	return (
-		<Styles.LayoutContainer addPadding={dynamicPadding} {...props}>
-			<Header />
+		<Styles.LayoutContainer
+			{...props}
+			initial={{x: '-100%', opacity: 0}}
+			animate={{x: '0%', opacity: 1}}
+			exit={{x: '-100%', opacity: 0}}
+			transition={{type: 'spring', stiffness: 50, ease: 'circIn', duration: 0.4}}
+			$addPadding={dynamicPadding}>
 			{children}
-			<Footer />
 		</Styles.LayoutContainer>
 	);
 };

@@ -28,49 +28,47 @@ VideoBackground.propTypes = {
 	video: string.isRequired,
 };
 
-const PlayerCard = ({
-	firstName,
-	lastName,
-	countryCode,
-	placeholderImg,
-	video,
-	country,
-	teamRank,
-	...props
-}) => {
-	const [hover, setHover] = useState(false);
-	const isDesktop = useDeviceWidth() === 'desktop';
+const PlayerCard = React.forwardRef(
+	(
+		{firstName, lastName, countryCode, placeholderImg, video, country, teamRank, slug, ...props},
+		ref
+	) => {
+		const [hover, setHover] = useState(false);
+		const isDesktop = useDeviceWidth() === 'desktop';
 
-	return (
-		<styles.CardContainer
-			onMouseEnter={() => setHover(true)}
-			onMouseLeave={() => setHover(false)}
-			{...props}>
-			<styles.DisplayWrapper>
-				{hover && isDesktop ? (
-					<VideoBackground
-						placeholderImg={placeholderImg}
-						firstName={firstName}
-						lastName={lastName}
-						video={video}
-					/>
-				) : (
-					<styles.DisplayImg src={placeholderImg} alt={`${firstName} ${lastName}`} />
-				)}
-			</styles.DisplayWrapper>
-			<styles.CountryContainer>
-				<styles.CountryWrapper>
-					<styles.CountryFlag className={`fi fi-${countryCode}`} />
-				</styles.CountryWrapper>
-				<styles.CountryName>{country}</styles.CountryName>
-				<styles.CountryRank>{`# ${teamRank}`}</styles.CountryRank>
-			</styles.CountryContainer>
-			<styles.NameWrapper>
-				<styles.PlayerName>{`${firstName} ${lastName}`}</styles.PlayerName>
-			</styles.NameWrapper>
-		</styles.CardContainer>
-	);
-};
+		return (
+			<styles.CardContainer {...props} ref={ref}>
+				<styles.CardWrapper
+					onMouseEnter={() => setHover(true)}
+					onMouseLeave={() => setHover(false)}
+					to={`../${slug}`}>
+					<styles.DisplayWrapper>
+						{hover && isDesktop ? (
+							<VideoBackground
+								placeholderImg={placeholderImg}
+								firstName={firstName}
+								lastName={lastName}
+								video={video}
+							/>
+						) : (
+							<styles.DisplayImg src={placeholderImg} alt={`${firstName} ${lastName}`} />
+						)}
+					</styles.DisplayWrapper>
+					<styles.CountryContainer>
+						<styles.CountryWrapper>
+							<styles.CountryFlag className={`fi fi-${countryCode}`} />
+						</styles.CountryWrapper>
+						<styles.CountryName>{country}</styles.CountryName>
+						<styles.CountryRank>{`# ${teamRank}`}</styles.CountryRank>
+					</styles.CountryContainer>
+					<styles.NameWrapper>
+						<styles.PlayerName>{`${firstName} ${lastName}`}</styles.PlayerName>
+					</styles.NameWrapper>
+				</styles.CardWrapper>
+			</styles.CardContainer>
+		);
+	}
+);
 
 PlayerCard.propTypes = {
 	firstName: string.isRequired,
@@ -79,6 +77,7 @@ PlayerCard.propTypes = {
 	country: string.isRequired,
 	placeholderImg: string.isRequired,
 	teamRank: number.isRequired,
+	slug: string.isRequired,
 	video: string,
 };
 

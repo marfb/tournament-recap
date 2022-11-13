@@ -1,6 +1,6 @@
 import styled from 'styled-components';
-import BaseButton from 'UI/atoms/BaseButton';
 import Text from 'UI/atoms/Text';
+import {Link} from 'react-router-dom';
 import {getColor} from 'theme/utils';
 
 const DisplayWrapper = styled.div`
@@ -84,9 +84,12 @@ const PlayerName = styled(Text)`
 	padding: 5px;
 	width: 100%;
 	background-color: #04081e;
+	text-align: center;
 `;
 
-const CardContainer = styled(BaseButton)`
+const CardWrapper = styled(Link)``;
+
+const CardContainer = styled.div`
 	border: none;
 	background-color: transparent;
 	width: 290px;
@@ -165,21 +168,9 @@ const CardContainer = styled(BaseButton)`
 	}
 `;
 
-const CardContainer2 = styled(CardContainer)`
-	&:hover {
-		&:after {
-			background: linear-gradient(45deg, #ffd800, #ff5520, #750cf2, #0cbcf2);
-		}
-
-		&:before {
-			background: linear-gradient(45deg, #ffd800, #ff5520, #750cf2, #0cbcf2);
-		}
-	}
-`;
-
 export default {
 	CardContainer,
-	CardContainer2,
+	CardWrapper,
 	DisplayWrapper,
 	DisplayVideo,
 	DisplayImg,

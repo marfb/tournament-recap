@@ -3,6 +3,7 @@ import axios from 'axios';
 import PlayerCard from 'UI/molecules/PlayerCard';
 import {validateArray, setCache, getCache} from 'utils';
 import useDeviceWidth from 'hooks/useDeviceWidth';
+import {motion} from 'framer-motion';
 import styles from './styles';
 
 const Home = () => {
@@ -10,10 +11,7 @@ const Home = () => {
 	const [playersFiltered, setPlayersFiltered] = useState([]);
 	const [selectedGroup, setSelectedGroup] = useState('');
 	const [selectedConf, setSelectedConf] = useState('');
-	const [selectedOrder, setSelectedOrder] = useState({
-		value: 'lastName-ASC',
-		label: 'Name A-Z',
-	});
+	const [selectedOrder, setSelectedOrder] = useState({value: 'lastName-ASC', label: 'Name A-Z'});
 	const [loading, setLoading] = useState(true);
 	const device = useDeviceWidth();
 	const groups = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H'];
@@ -24,7 +22,7 @@ const Home = () => {
 		{value: 'lastName-ASC', label: 'Name A-Z'},
 		{value: 'lastName-DESC', label: 'Name Z-A'},
 	];
-	const playersToRender = Boolean(playersFiltered.length);
+	const playersToRender = playersFiltered && Boolean(playersFiltered.length);
 	const ClearButtonVariant = device !== 'desktop' ? '' : 'empty';
 	const FilterButtonVariant = device !== 'desktop' ? 'outline' : 'empty';
 
@@ -34,7 +32,7 @@ const Home = () => {
 		setLoading(true);
 		const {data} = await axios('./data/players.json');
 		if (data && validateArray(data)) setPlayersData(data);
-		if (!playersFiltered.length) setPlayersFiltered(data);
+		if (!playersFiltered) setPlayersFiltered(data);
 		setCache('playersData', data, 1);
 		setTimeout(() => setLoading(false), 1500);
 	};
@@ -72,6 +70,32 @@ const Home = () => {
 			setLoading(false);
 		} else getPlayers();
 	}, []);
+
+	const PlayersWrapperVariants = {
+		visible: {
+			opacity: 1,
+			transition: {
+				staggerChildren: 0.2,
+				when: 'beforeChildren',
+			},
+		},
+		hidden: {
+			opacity: 1,
+		},
+	};
+	const PlayerCardVariants = {
+		hidden: {
+			x: -100,
+			opacity: 0,
+		},
+		visible: {
+			x: 0,
+			opacity: 1,
+			duration: 1,
+		},
+	};
+
+	const AnimatedPlayerCard = motion(PlayerCard);
 
 	return (
 		<styles.PageContainer>
@@ -132,25 +156,32 @@ const Home = () => {
 						placeholder="Order by"
 						options={orderOptions}
 						onSelect={onSelectHandler}
-						value={selectedOrder.label}
+						value={selectedOrder ? selectedOrder.label : 'Name A-Z'}
 					/>
 				</styles.OrderWrapper>
 			</styles.FiltersContainer>
 			<styles.PlayersContainer>
 				{loading && <styles.Skeleton />}
 				{!loading && playersToRender && (
-					<styles.PlayersWrapper>
+					<styles.PlayersWrapper
+						variants={PlayersWrapperVariants}
+						initial="hidden"
+						animate="visible">
 						{playersFiltered.map(
 							({firstName, lastName, slug, countryCode, country, teamRank, youtubeId}, idx) => (
-								<PlayerCard
+								<AnimatedPlayerCard
 									firstName={firstName}
 									lastName={lastName}
 									video={youtubeId}
+									slug={slug}
 									placeholderImg={`./media/players/${slug}.jpg`}
 									countryCode={countryCode}
 									country={country}
 									teamRank={teamRank}
 									key={`player-${idx + 1}`}
+									variants={PlayerCardVariants}
+									whileHover={{scale: 1.05, 'z-index': 50}}
+									whileTap={{scale: 1.05, 'z-index': 50}}
 								/>
 							)
 						)}
