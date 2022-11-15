@@ -1,15 +1,15 @@
 import React, {useState, useEffect} from 'react';
-import {arrayOf, func, shape, string} from 'prop-types';
+import {arrayOf, bool, func, shape, string} from 'prop-types';
 import {debounce} from 'utils';
 import Logo from 'assets/Logo';
 import styles from './styles';
 
 // eslint-disable-next-line no-unused-vars
-const Header = ({searchBarHandler, loggedUser, menuOptions}) => {
+const Header = ({searchBarHandler, loggedUser, menuOptions, showFixed}) => {
 	const [scrollHeader, setScrollHeader] = useState(false);
 
 	const scrollHandler = debounce(
-		() => (window.scrollY >= 40 ? setScrollHeader(true) : setScrollHeader(false)),
+		() => (!showFixed && window.scrollY >= 40 ? setScrollHeader(true) : setScrollHeader(false)),
 		200
 	);
 
@@ -19,7 +19,7 @@ const Header = ({searchBarHandler, loggedUser, menuOptions}) => {
 	}, []);
 
 	return (
-		<styles.HeaderContainer scrollHeader={scrollHeader}>
+		<styles.HeaderContainer scrollHeader={scrollHeader} showFixed={showFixed}>
 			<styles.MainHeader>
 				<styles.MainHeaderWrapper>
 					<styles.LogoWrapper>
@@ -41,6 +41,7 @@ const Header = ({searchBarHandler, loggedUser, menuOptions}) => {
 };
 
 Header.propTypes = {
+	showFixed: bool,
 	searchBarHandler: func,
 	loggedUser: shape({userName: string}),
 	menuOptions: arrayOf(
@@ -53,6 +54,7 @@ Header.propTypes = {
 };
 
 Header.defaultProps = {
+	showFixed: false,
 	searchBarHandler: () => {},
 	loggedUser: {},
 	menuOptions: [],

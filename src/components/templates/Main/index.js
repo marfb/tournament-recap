@@ -22,7 +22,6 @@ const Main = ({children, ...props}) => {
 			{...props}
 			initial={{x: '-100%', opacity: 0}}
 			animate={{x: '0%', opacity: 1}}
-			exit={{x: '-100%', opacity: 0}}
 			transition={{type: 'spring', stiffness: 50, ease: 'circIn', duration: 0.4}}
 			$addPadding={dynamicPadding}>
 			{children}

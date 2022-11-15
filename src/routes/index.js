@@ -5,19 +5,25 @@ import Buttons from 'components/pages/Theme/Buttons';
 import Inputs from 'components/pages/Theme/Inputs';
 import Home from 'components/pages/Home';
 import Player from 'components/pages/Player';
+import Header from 'UI/organisms/Header';
+import Footer from 'UI/organisms/Footer';
 
 const RoutedApp = () => {
 	const location = useLocation();
 
 	return (
-		<AnimatePresence>
-			<Routes location={location} key={location.pathname}>
-				<Route path="/" element={<Home />} />
-				<Route path="/:slug" element={<Player />} />
-				<Route path="/theme/buttons" element={<Buttons />} />
-				<Route path="/theme/inputs" element={<Inputs />} />
-			</Routes>
-		</AnimatePresence>
+		<>
+			<Header showFixed={location.pathname !== '/'} />
+			<AnimatePresence>
+				<Routes location={location} key={location.pathname}>
+					<Route path="/" element={<Home />} />
+					<Route path="/:slug" element={<Player />} />
+					<Route path="/theme/buttons" element={<Buttons />} />
+					<Route path="/theme/inputs" element={<Inputs />} />
+				</Routes>
+			</AnimatePresence>
+			<Footer />
+		</>
 	);
 };
 

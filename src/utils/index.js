@@ -2,7 +2,7 @@
  * @name validateString
  * @description Evaluates if given value is of type string
  * @param {any} value
- * @returns {boolean}
+ * @returns {boolean} true || false
  */
 export const validateString = (value) => typeof value === 'string';
 
@@ -90,11 +90,13 @@ export const setCache = (dataKey, dataValue, expireHours = 24) => {
 		if (!dataKey || !validateString(dataKey))
 			throw new Error('Received key must be a valid string');
 
+		const currentVersion = `${process.env.REACT_APP_VERSION}`;
 		const hoursToMiliseconds = expireHours * 60 * 60 * 1000;
 		const dataToStore = {
 			data: JSON.stringify(dataValue),
 			time: new Date().getTime(),
 			expire: hoursToMiliseconds,
+			appVersion: currentVersion,
 		};
 		const stringifiedData = JSON.stringify(dataToStore);
 		localStorage.setItem(dataKey, stringifiedData);
@@ -121,8 +123,10 @@ export const getCache = (dataKey) => {
 		if (!storedData || !validateObject(storedData))
 			throw new Error(`Stored data malformed for ${dataKey}`);
 
-		const {data, time, expire} = storedData;
-
+		const currentVersion = `${process.env.REACT_APP_VERSION}`;
+		const {data, time, expire, appVersion} = storedData;
+		if (!appVersion || currentVersion !== appVersion)
+			throw new Error(`Stored data for ${dataKey} is from a previous version`);
 		if (!data || !validateString(data)) throw new Error(`Stored data for ${dataKey} is invalid`);
 		if (!time || !validateNumber(time))
 			throw new Error(`Stored data for ${dataKey} has invalid time`);

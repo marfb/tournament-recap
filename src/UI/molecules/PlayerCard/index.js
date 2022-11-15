@@ -1,6 +1,7 @@
 import React, {useState} from 'react';
 import {number, string} from 'prop-types';
 import useDeviceWidth from 'hooks/useDeviceWidth';
+import Tilt from 'react-parallax-tilt';
 import styles from './styles';
 
 const VideoBackground = ({placeholderImg, firstName, lastName, video}) => {
@@ -37,35 +38,37 @@ const PlayerCard = React.forwardRef(
 		const isDesktop = useDeviceWidth() === 'desktop';
 
 		return (
-			<styles.CardContainer {...props} ref={ref}>
-				<styles.CardWrapper
-					onMouseEnter={() => setHover(true)}
-					onMouseLeave={() => setHover(false)}
-					to={`../${slug}`}>
-					<styles.DisplayWrapper>
-						{hover && isDesktop ? (
-							<VideoBackground
-								placeholderImg={placeholderImg}
-								firstName={firstName}
-								lastName={lastName}
-								video={video}
-							/>
-						) : (
-							<styles.DisplayImg src={placeholderImg} alt={`${firstName} ${lastName}`} />
-						)}
-					</styles.DisplayWrapper>
-					<styles.CountryContainer>
-						<styles.CountryWrapper>
-							<styles.CountryFlag className={`fi fi-${countryCode}`} />
-						</styles.CountryWrapper>
-						<styles.CountryName>{country}</styles.CountryName>
-						<styles.CountryRank>{`# ${teamRank}`}</styles.CountryRank>
-					</styles.CountryContainer>
-					<styles.NameWrapper>
-						<styles.PlayerName>{`${firstName} ${lastName}`}</styles.PlayerName>
-					</styles.NameWrapper>
-				</styles.CardWrapper>
-			</styles.CardContainer>
+			<Tilt tiltReverse>
+				<styles.CardContainer {...props} ref={ref}>
+					<styles.CardWrapper
+						onMouseEnter={() => setHover(true)}
+						onMouseLeave={() => setHover(false)}
+						to={`../${slug}`}>
+						<styles.DisplayWrapper>
+							{hover && isDesktop ? (
+								<VideoBackground
+									placeholderImg={placeholderImg}
+									firstName={firstName}
+									lastName={lastName}
+									video={video}
+								/>
+							) : (
+								<styles.DisplayImg src={placeholderImg} alt={`${firstName} ${lastName}`} />
+							)}
+						</styles.DisplayWrapper>
+						<styles.CountryContainer>
+							<styles.CountryWrapper>
+								<styles.CountryFlag className={`fi fi-${countryCode}`} />
+							</styles.CountryWrapper>
+							<styles.CountryName>{country}</styles.CountryName>
+							<styles.CountryRank>{`# ${teamRank}`}</styles.CountryRank>
+						</styles.CountryContainer>
+						<styles.NameWrapper>
+							<styles.PlayerName>{`${firstName} ${lastName}`}</styles.PlayerName>
+						</styles.NameWrapper>
+					</styles.CardWrapper>
+				</styles.CardContainer>
+			</Tilt>
 		);
 	}
 );

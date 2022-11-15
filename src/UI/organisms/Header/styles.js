@@ -97,8 +97,32 @@ const HeaderContainer = styled.header`
 	transition: all 0.2s;
 	background-color: transparent;
 
-	${({scrollHeader}) =>
+	${({showFixed}) =>
+		showFixed &&
+		`
+            position: fixed;
+			top: 0;
+			left: 0;
+            z-index: 99;
+            height: 90px;
+            width: 100%;
+            transition: none;
+            background-color: ${getColor('base', 'black')}55;
+            backdrop-filter: blur(5px);
+            transition: linear 0.2s;
+            & ${TopHeader}, & ${SubHeader} {
+                display: none;
+            }
+
+			& ${LogoWrapper} svg {
+				height: 50px;
+    			min-width: auto;
+			}
+        `}
+
+	${({scrollHeader, showFixed}) =>
 		scrollHeader &&
+		!showFixed &&
 		`
             position: fixed;
 			top: 0;

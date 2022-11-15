@@ -22,19 +22,19 @@ const Home = () => {
 		{value: 'lastName-ASC', label: 'Name A-Z'},
 		{value: 'lastName-DESC', label: 'Name Z-A'},
 	];
-	const playersToRender = playersFiltered && Boolean(playersFiltered.length);
 	const ClearButtonVariant = device !== 'desktop' ? '' : 'empty';
 	const FilterButtonVariant = device !== 'desktop' ? 'outline' : 'empty';
 
 	const onSelectHandler = (selectedValue) => setSelectedOrder(selectedValue);
 
 	const getPlayers = async () => {
-		setLoading(true);
 		const {data} = await axios('./data/players.json');
-		if (data && validateArray(data)) setPlayersData(data);
-		if (!playersFiltered) setPlayersFiltered(data);
+		if (data && validateArray(data)) {
+			setPlayersData(data);
+			setLoading(false);
+		}
+		if (!playersFiltered.length) setPlayersFiltered(data);
 		setCache('playersData', data, 1);
-		setTimeout(() => setLoading(false), 1500);
 	};
 
 	const handleFilterAndOrder = () => {
@@ -71,18 +71,6 @@ const Home = () => {
 		} else getPlayers();
 	}, []);
 
-	const PlayersWrapperVariants = {
-		visible: {
-			opacity: 1,
-			transition: {
-				staggerChildren: 0.2,
-				when: 'beforeChildren',
-			},
-		},
-		hidden: {
-			opacity: 1,
-		},
-	};
 	const PlayerCardVariants = {
 		hidden: {
 			x: -100,
@@ -91,7 +79,6 @@ const Home = () => {
 		visible: {
 			x: 0,
 			opacity: 1,
-			duration: 1,
 		},
 	};
 
@@ -162,11 +149,8 @@ const Home = () => {
 			</styles.FiltersContainer>
 			<styles.PlayersContainer>
 				{loading && <styles.Skeleton />}
-				{!loading && playersToRender && (
-					<styles.PlayersWrapper
-						variants={PlayersWrapperVariants}
-						initial="hidden"
-						animate="visible">
+				{!loading && !!playersFiltered.length && (
+					<styles.PlayersWrapper>
 						{playersFiltered.map(
 							({firstName, lastName, slug, countryCode, country, teamRank, youtubeId}, idx) => (
 								<AnimatedPlayerCard
@@ -180,14 +164,15 @@ const Home = () => {
 									teamRank={teamRank}
 									key={`player-${idx + 1}`}
 									variants={PlayerCardVariants}
-									whileHover={{scale: 1.05, 'z-index': 50}}
-									whileTap={{scale: 1.05, 'z-index': 50}}
+									initial="hidden"
+									animate="visible"
+									transition={{duration: 0.05, delay: idx * 0.1}}
 								/>
 							)
 						)}
 					</styles.PlayersWrapper>
 				)}
-				{!loading && !playersToRender && (
+				{!loading && !playersFiltered.length && (
 					<styles.EmptyFiltersWrapper>
 						<styles.EmptyFiltersCopy>No results found!</styles.EmptyFiltersCopy>
 						<styles.ClearFilters

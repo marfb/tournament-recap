@@ -38,3 +38,19 @@ export const resizeCalc = (width = 1280) => {
 	if (foundDevice) return foundDevice.device;
 	return 'desktop';
 };
+
+/* const DIRECTION_OPTIONS = {
+	1: {},
+	2: {},
+	3: {},
+	4: {},
+};
+
+export const getDirection = (ev, obj) => {
+	const w = obj.offsetWidth;
+	const h = obj.offsetHeight;
+	const x = ev.pageX - obj.offsetLeft - (w / 2) * (w > h ? h / w : 1);
+	const y = ev.pageY - obj.offsetTop - (h / 2) * (h > w ? w / h : 1);
+	const direction = Math.round(Math.atan2(y, x) / 1.57079633 + 5) % 4;
+	return {newX: x, newY: y};
+}; */
